@@ -1,0 +1,95 @@
+{
+    "municipality": "he",
+    "name": "Aires de Cojimar",
+    "address": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+    "contacts": {
+        "phone": [
+            "77666890",
+            "58385050"
+        ],
+        "website": null,
+        "facebook": "Aires de Cojimar",
+        "instagram": "aires_decojimar"
+    },
+    "ratings": {
+        "google": 4.3,
+        "tripadvisor": 4.5
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida mixta",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+      "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": [
+            {"Plate":"Coctel de pescado", "Price":550},
+            {"Plate":"Ensalada mixta", "Price":400},
+            {"Plate":"Picadera mixta", "Price":1200},
+            {"Plate":"Coctel Bella Mar", "Price":750},
+            {"Plate":"Ceviche Aires de Cojimar", "Price":850},
+            {"Plate":"Lomo de pescado en escabeche", "Price":950},
+            {"Plate":"Bolitas de queso", "Price":550},
+            {"Plate":"Eperlan", "Price":950},
+            {"Plate":"Frituras de malanga", "Price":550},
+            {"Plate":"Tapas caprichosas", "Price":425},
+            {"Plate":"Surtido de croquetas", "Price":450},
+            {"Plate":"Tostones al ajo", "Price":350},
+            {"Plate":"Sopon de mariscos", "Price":750},
+            {"Plate":"Sopa de pollo y vegetales", "Price":550},
+            {"Plate":"Crema de calabaza y queso", "Price":500},
+            {"Plate":"Crema de queso", "Price":500},
+            {"Plate":"Crema de mariscos", "Price":600}
+        ],
+        "main_courses": [
+            {"Plate":"Costillas de cerdo fritas", "Price":1950},
+            {"Plate":"Arroz con camarones", "Price":1450},
+            {"Plate":"Milanesa a la napolitana", "Price":1450},
+            {"Plate":"Uruguayo de cerdo", "Price":1750},
+            {"Plate":"Camaron al ajillo", "Price":1550},
+            {"Plate":"Langosta Varadero", "Price":1950},
+            {"Plate":"Langosta Busito", "Price":2000},
+            {"Plate":"Langosta Aires de Cojimar", "Price":5500},
+            {"Plate":"Pulpo al vino tinto", "Price":2850},
+            {"Plate":"Pulpo al ajillo", "Price":2850},
+            {"Plate":"Filete de pescado grille", "Price":1250},
+            {"Plate":"Filete de pescado en salsa de romero y limon", "Price":1350},
+            {"Plate":"Filete de pescado con camarones al graten", "Price":1650},
+            {"Plate":"Filete de pescado Canciller", "Price":1650},
+            {"Plate":"Camarones tropicales", "Price":1550},
+            {"Plate":"Enchilado de camarones", "Price":1450},
+            {"Plate":"Camarones al sesamo", "Price":1450},
+            {"Plate":"Caldereta Dona Blanca", "Price":3500},
+            {"Plate":"Dados de cerdo a la cojimera", "Price":1400},
+            {"Plate":"Bistec de cerdo al mojo criollo", "Price":1400},
+            {"Plate":"Pollo con camarones al graten", "Price":1450},
+            {"Plate":"Pollo Hawaiano", "Price":1150},
+            {"Plate":"Sabor del cielo", "Price":1550}
+        ],
+        "additions": {},
+        "fittings": [
+            {"Type":"Ensalada mixta", "Price":400}
+        ],
+        "desserts": [
+            {"Plate":"Dulces finos", "Price":450}
+        ],
+        "drinks":{},
+        "plus": {}
+    }
+}

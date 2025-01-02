@@ -1,0 +1,72 @@
+{
+    "municipality": "co",
+    "name": "Pal'Karajo",
+    "address": "Avenida 101 Esquina 16 Centro Cotorro",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida rápida",
+    "hours": {
+        "monday": "1000_2200",
+        "tuesday": "1000_2200",
+        "wednesday": "1000_2200",
+        "thursday": "1000_2200",
+        "friday": "1000_2200",
+        "saturday": "1000_2200",
+        "sunday": "1000_2200"
+    },
+    "services": {
+        "parking": null,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "chicarrita de boniato": 200
+        },
+        "main_courses": {
+            "tacos de cerdo mechados": 890,
+            "tacos de cerdo estofados": 990,
+            "pan Pal'Karajo": 790,
+            "pan con lechón": 450,
+            "pan con jamón": 300,
+            "pan con chorizo": 250,
+            "pan con jamón y chorizo": 400
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "michelada con cristal": 550,
+            "chelada con cristal": 550,
+            "expresso": 100,
+            "cortado": 150,
+            "capuccino": 300,
+            "frapuccino": 400,
+            "bombón": 300,
+            "jugo de mango": 200,
+            "jugo de piña": 200,
+            "batido de mango": 380,
+            "batido de mamey": 400,
+            "batido de trigo": 380,
+            "batido de maní": 400,
+            "batido de maní con chocolate": 450,
+            "piña colada": 400,
+            "malteada": 500,
+            "limonada": 400
+        },
+        "plus": {
+        }
+    }
+}

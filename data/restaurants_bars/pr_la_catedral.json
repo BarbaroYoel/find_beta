@@ -1,0 +1,108 @@
+{
+    "municipality": "Plaza de la Revolución",
+    "name": "La Catedral",
+    "address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolución, La Habana 10400 Cuba",
+    "contacts": {
+      "phone": [
+        "078300793"
+      ],
+      "website": null,
+      "facebook": "https://www.facebook.com/mirestaurantencuba",
+      "instagram": "https://www.instagram.com/lacatedralcuba"
+    },
+    "ratings": {
+      "tripadvisor": null,
+      "google": null
+    },
+    "owner": "privado",
+    "type": "restaurant",
+    "specialty": "Spanish, Cuban",
+    "hours": {
+      "monday": "0800_2300",
+      "tuesday": "0800_2300",
+      "wednesday": "0800_2300",
+      "thursday": "0800_2300",
+      "friday": "0800_2300",
+      "saturday": "0800_2300",
+      "sunday": "0800_2300"
+    },
+    "services": {
+      "parking": true,
+      "reservations": true,
+      "delivery": null,
+      "power plant": null
+    },
+    "payment_methods": [
+      "cash",
+      "transfer",
+      "credit_card"
+    ],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "bombones de queso y pescado": 499,
+        "mariquitas de yuca": 350,
+        "brusquetas": 350,
+        "garbanzos fritos": 700,
+        "entremeses surtido": 799,
+        "picadera obispo": 1350,
+        "fuente de eperlan": 1400,
+        "tabla de embutidos": 1500,
+        "tacos de cerdo y pollo": 1500,
+        "fajitas de pollo frito": 1500,
+        "tabla de jamón serrano, chorizo y queso": 1900
+      },
+      "main_courses": {
+        "lasaña de res": 1600,
+        "ropa vieja": 1800,
+        "bistec de cerdo al mojo criollo": 1500,
+        "fajita de cerdo al grill": 1500,
+        "lonjas de pierna ahumado salsa agridulce": 1700,
+        "lonjas de pierna ahumado con queso y piña": 1800,
+        "milanesa de cerdo con espaguettis": 1500,
+        "arroz frito": 1500,
+        "arroz frito especial con camarones": 1700,
+        "pollo deshuesado a la plancha": 1400,
+        "fajitas de pollo salteadas": 1400,
+        "milanesa de pollo con espaguettis": 1400,
+        "arroz con pollo a la chorrera": 1500,
+        "filete de pescado maitre de hotel": 1700,
+        "filete de pescado frito": 1800
+      },
+      "additions": {},
+      "fittings": {},
+      "desserts": {},
+      "drinks": {
+        "refrescos": 199,
+        "limonada de fresas": 250,
+        "jugos de frutas": 199,
+        "agua natural": 199,
+        "malta perla negra": 350,
+        "cristal (barril) 500ml": 350,
+        "cristal (botella)": 350,
+        "bucanero (barril) 500ml": 350,
+        "bucanero (botella)": 350,
+        "cubetazo 4+1": 1500,
+        "michelada clásica": 425,
+        "michelada al mojito": 425,
+        "michelada vampira": 425,
+        "michelada salsanera": 425,
+        "mojito": 340,
+        "daiquirí": 340,
+        "daiquirí de fresas": 499,
+        "cubalibre": 340,
+        "cubanito": 399,
+        "blody mary": 499,
+        "sangria": 499,
+        "screw driver": 599,
+        "caipiriña": 599,
+        "piña colada": 599,
+        "martini": 599,
+        "old fashioned": 599,
+        "whiskey sour": 599,
+        "manhatan": 599,
+        "negroni": 599
+      },
+      "plus": {}
+    }
+  }

@@ -1,0 +1,118 @@
+{
+    "municipality": "he",
+    "name": "Jackafe",
+    "address": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, zona 1, Alamar",
+    "contacts": {
+        "phone": [
+            "77636363"
+        ],
+        "website": null,
+        "facebook": "JacKafe",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.9
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurant",
+    "specialty": "Comida mixta",
+    "hours": {
+        "monday": "1200_2100",
+        "tuesday": "1200_2100",
+        "wednesday": "1200_2100",
+        "thursday": "1200_2100",
+        "friday": "1200_2100",
+        "saturday": "1200_2100",
+        "sunday": "1200_2100"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "eur"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Croquetas": 360,
+            "Bolitas de queso": 280,
+            "Tostones rellenos de chorizo": 940,
+            "Tostones rellenos de atun": 840,
+            "Tostones rellenos de jamon": 680,
+            "Coctel de pescado": 760,
+            "Coctel de camaron": 780,
+            "Coctelde langosta": 980,
+            "Trio de cocteles": 2280,
+            "Ceviche": 1190,
+            "Eperlan": 1720,
+            "Garbanzos fritos": 1680,
+            "Entremes de la casa": 1920,
+            "Entremes de jamon serrano": 1350,
+            "Tabla de quesos": 1820
+        },
+        "main_courses": {
+            "Crema de queso": 590,
+            "Lazana bolonesa": 1690,
+            "Espaghetti napolitano queso gouda": 840,
+            "Espaghetti napolitano queso mozarella": 610,
+            "Espaghetti al aglio y olio": 1240,
+            "Pizza napolitana queso gouda": 760,
+            "Pizza napolitana queso mozarella": 610,
+            "Bistec de cerdo grille": 1620,
+            "Bistec de cerdo Princesa": 2240,
+            "Bistec Uruguayo": 2380,
+            "Cordero al vino tinto": 2730,
+            "Estofado de res": 3320,
+            "Filete de pescado grille": 1590,
+            "Filete de pescado Princesa": 2140,
+            "Canciller": 2320,
+            "Pulpo enchilado": 1330,
+            "Pulpo al ajillo": 1850,
+            "Langosta grille": 2190,
+            "Langosta enchilada": 2310,
+            "Langosta Termidor": 2520
+        },
+        "additions": {
+            "Champinon": 140,
+            "Atun": 510,
+            "Aceitunas": 450,
+            "Jamon": 250,
+            "Jamon Serrano": 650,
+            "Chorizo": 480,
+            "Queso Gouda": 420,
+            "Queso Mimolett": 480,
+            "Queso Azul": 380,
+            "Pina": 170,
+            "Salsa de tomate": 150
+        },
+        "fittings": {
+            "Arroz blanco": 180,
+            "Arroz moro": 250,
+            "Arroz frito Jackafe": 1480,
+            "Ensalada de estacion": 250,
+            "Viandas fritas": 250
+        },
+        "desserts": {},
+        "drinks": {
+            "Cerveza importada": 280,
+            "Cerveza michelada": 100,
+            "Refresco importado": 330,
+            "Jugo de caja": 850,
+            "Energizante": 370,
+            "Agua natural importada": 260,
+            "Agua tonica": 720,
+            "Cafe Expreso": 180,
+            "Cafe Americano": 180,
+            "Cafe Cortado": 250,
+            "Cafe Capuchino": 300,
+            "Cafe con Ashe": 395,
+            "Te": 80
+        },
+        "plus": {}
+    }
+}

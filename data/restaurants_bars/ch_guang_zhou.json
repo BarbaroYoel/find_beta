@@ -1,0 +1,138 @@
+{
+    "municipality": "ch",
+    "name": "Guang Zhou",
+    "address": "Cuchillo entre San Nicolás y Rayo",
+    "contacts": {
+        "phone": [
+            "078615229"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 3.1
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida China",
+    "hours": {
+        "monday": "1100_0000",
+        "tuesday": "1100_0000",
+        "wednesday": "1100_0000",
+        "thursday": "1100_0000",
+        "friday": "1100_0000",
+        "saturday": "1100_0000",
+        "sunday": "1100_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup",
+        "mlc",
+        "usd"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "Pollo a la plancha": 1800,
+            "Cerdo a la plancha": 2000,
+            "Res a la plancha": 2100,
+            "Pescado a la plancha": 2100,
+            "Pollo Grille": 1500,
+            "Pescado Grille": 1500,
+            "Marisco a la plancha": 3100,
+            "De la Tierra": 4200,
+            "Del Mar": 5500,
+            "Mar y Tierra": 5900,
+            "Cazuela de Mariscos": 5575,
+            "Cerdo Grille": 1650,
+            "Espaguetis Napolitanos": 1080.00,
+            "Pizza Napolitana con queso blanco": 1150.00,
+            "Pizza Napolitana con queso Gouda": 1250.00
+        },
+        "additions": {
+            "Tomate natural": 200.00,
+            "Pimiento": 200.00,
+            "Cebolla": 200.00,
+            "Piña": 200.00,
+            "Jamón": 450.00,
+            "Chorizo": 300.00,
+            "Bacon": 300.00,
+            "Champiñones": 300.00,
+            "Aceitunas": 250.00,
+            "Atún": 500.00,
+            "Queso Blanco": 250.00,
+            "Marisco": 750.00,
+            "Jamón Serrano": 500.00
+        },
+        "fittings": {
+            "Arroz blanco": 315,
+            "Arroz frito": 1710,
+            "Arroz Moro": 415,
+            "Arroz frito especial": 2110,
+            "Arroz frito familiar": 2970,
+            "Chao mian (Fideos fritos)": 900,
+            "Chop Suey de Pollo": 1700,
+            "Chop Suey de Cerdo": 1900,
+            "Chop Suey de vegetales": 800.00,
+            "Viandas fritas del día": 300,
+            "Yuca con mojo": 250.00,
+            "Ensalada mixta": 300.00
+        },
+        "desserts": {},
+        "drinks": {
+            "Havana Club 3 años": 350,
+            "Havana Club Especial": 250,
+            "Havana Club Reserva": 400,
+            "Havana Club 7 años": 450,
+            "Whisky": 400,
+            "Vodka": 500,
+            "Tequila Blanco": 500,
+            "Tequila Reposado": 500,
+            "Ginebra": 500,
+            "Vino tinto": 500,
+            "Vino blanco": 500,
+            "Cerveza Nacional": 385.00,
+            "Cerveza Importada": 300.00,
+            "Kermato (Jugo de tomate)": 200.00,
+            "Refresco Nacional": 350.00,
+            "Refresco Importado": 350.00,
+            "Malta": 400.00,
+            "Malteada (Malta con leche)": 550.00,
+            "Agua": 190.00,
+            "Agua 1.5L": 280.00,
+            "Jugo Natural": 325.00,
+            "Jugo en conserva": 350.00,
+            "Café Expreso": 100.00,
+            "Café Americano": 150.00,
+            "Café Cortado": 150.00,
+            "Café Capsula": 300.00,
+            "Té": 60.00,
+
+
+            "Michelada ": 200,
+            "Mojito": 400,
+            "Cuba Libre": 400,
+            "Ron Collins": 400,
+            "Limonada Frappe": 350,
+            "Daiquiri Frappe": 400,
+            "Piña Colada": 600,
+            "Cubata": 400,
+            "Sangría": 600,
+            "Gin Tonic": 550,
+            "Margarita": 550,
+            "Caipiriña": 450,
+            "Caipiroska": 550
+        },
+        "plus": {
+            "Termo Pack": 120.00,
+            "Caja de Pizza": 1000.00
+        }
+    }
+}

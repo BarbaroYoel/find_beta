@@ -1,0 +1,80 @@
+{
+    "municipality": "Cotorro",
+    "name": "Martínez Club",
+    "address": null,
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida criolla",
+    "hours": {
+        "monday": "0900_2100",
+        "tuesday": "0900_2100",
+        "wednesday": "0900_2100",
+        "thursday": "0900_2100",
+        "friday": "0900_2100",
+        "saturday": "0900_2100",
+        "sunday": "0900_2100"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "fritura de malanga": 300,
+            "ensalada fría": 150,
+            "croquetas": 300,
+            "tostones al ajillo": 300
+        },
+        "main_courses": {
+            "pollo chiflado": 700,
+            "masa de cerdo frita": 1100,
+            "hamburguesa simple": 230,
+            "hamburguesa con mayonesa": 280,
+            "hamburguesa con jamón": 350,
+            "hamburguesa con chorizo": 350,
+            "hamburguesa con cebolla": 330,
+            "hamburguesa con queso blanco": 330,
+            "hamburguesa con queso gouda": 430,
+            "pan con jamón": 250,
+            "pan con perro": 200,
+            "pan con croqueta": 100,
+            "espaguetti con queso blanco": 350,
+            "espaguetti con queso gouda": 500,
+            "pizza con queso blanco": 200,
+            "pizza con queso gouda": 350,
+            "pizza familiar con queso blanco": 450,
+            "pizza familiar con queso gouda": 650
+        },
+        "additions": {
+            "jamón": 120,
+            "perrito": 120,
+            "chorizo": 120,
+            "cebolla": 100,
+            "queso blanco": 100,
+            "queso gouda": 200,
+            "piña": 100
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "expresso": 20,
+            "refresco": 20,
+            "jugo": 50,
+            "malteada": 330
+        },
+        "plus": {}
+    }
+}

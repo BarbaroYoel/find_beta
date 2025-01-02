@@ -1,0 +1,72 @@
+{
+    "municipality": "ch",
+    "name": "Tong Do Laug",
+    "address": "Cuchillo entre San Nicolás y Rayo",
+    "contacts": {
+        "phone": [
+            "+53 55100355"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida China",
+    "hours": {
+        "monday": "1000_2100",
+        "tuesday": "1000_2100",
+        "wednesday": "1000_2100",
+        "thursday": "1000_2100",
+        "friday": "1000_2100",
+        "saturday": "1000_2100",
+        "sunday": "1000_2100"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup",
+        "mlc",
+        "usd"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "Jiaozi Ravioles": 1350,
+            "Bao": 700,
+            "Mia Especial Tallarines": 1100,
+            "Arroz Frito Especial": 1100,
+            "Siumi": 1200,
+            "Chunkun Rollitos de Primavera": 1050,
+            "Sopa China ": 990,
+            "Lomo Ahumado": 2000,
+            "Mariscos": 2500,
+            "Mar y Tierra": 3850,
+            "Camarones": 3600,
+            "Pescado": 1650,
+            "Fajitas de Pechuga": 2200
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Cerveza": 300,
+            "Cerveza Nacional": 500,
+            "Refresco": 300,
+            "Jugo": 330,
+            "Frapeado": 330,
+            "Cocteles": 660,
+            "Café": 390,
+            "Té": 170,
+            "Agua": 220,
+            "Agua calinete": 220
+        },
+        "plus": {}
+    }
+}

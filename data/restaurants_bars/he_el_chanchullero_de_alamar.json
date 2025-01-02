@@ -1,0 +1,96 @@
+{
+    "municipality": "he",
+    "name": "El Chanchullero de Alamar",
+    "address": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+    "contacts": {
+      "phone": [],
+      "website": null,
+      "facebook": "El Chanchullero de Alamar Bar&Restaurant",
+      "instagram": "@chanchullerobar.zona6"
+    },
+    "ratings": {
+      "tripadvisor": 4.5,
+      "google": 4.4
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurant",
+    "specialty": "Comida criolla",
+    "hours": {
+      "monday": "1200_0000",
+      "tuesday": "1200_0000",
+      "wednesday": "1200_0000",
+      "thursday": "1200_0000",
+      "friday": "1200_0000",
+      "saturday": "1200_0000",
+      "sunday": "1200_0000"
+    },
+    "services": {
+      "parking": false,
+      "reservations": false,
+      "delivery": true,
+      "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "eur"
+    ],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "Chicharrita de platano macho": 250,
+        "Toston relleno con cerdo": 375,
+        "Fritura de malanga con miel": 375,
+        "Ceviche de pulpo y pescado": 450
+      },
+      "main_courses": {
+        "Cerdo al perejil": 795,
+        "Brochetas de cerdo": 795,
+        "Bistec encebollado": 800,
+        "Ropa vieja": 800,
+        "Cerdo asado al horno": 795,
+        "Pulpo al ajillo": 925,
+        "Pescado chanchullero (castero)": 800,
+        "Enchilado de langosta": 975,
+        "Langosta a la plancha": 975,
+        "Masas de cerdo": 800
+      },
+      "additions": {},
+      "fittings": {},
+      "desserts": {
+        "Flan al caramelo": 150
+      },
+      "drinks": {
+        "Cafe Expreso": 100,
+        "Jugo de fruta natural": 140,
+        "Catarro": 275,
+        "Cuba Libre": 275,
+        "Mojito": 275,
+        "Caipirisima": 275,
+        "Ron Coli": 275,
+        "Cosita de esa": 275,
+        "Caipiroska": 275,
+        "Caipirina": 300,
+        "Daiquiri": 300,
+        "Pina colada": 300,
+        "Vodka con naranja": 300,
+        "Copa de vino": 300,
+        "Agua natural": 130,
+        "Agua gaseada": 180,
+        "Refrescos importados": 240,
+        "Refrescos nacionales": 200,
+        "Cerveza importada": 275,
+        "Red Bull": 300,
+        "Ron HC Club Especial": 325,
+        "Chelada": 400,
+        "Michelada": 450,
+        "Botella de vino": 1200,
+        "Vodka absolut": 525,
+        "Whiskey Black and White": 395,
+        "Clan Cambell": 425,
+        "Jameson": 425,
+        "Finest Blended (Speech)": 400
+      },
+      "plus": {}
+    }
+  }

@@ -1,0 +1,78 @@
+{
+    "municipality": "he",
+    "name": "Los Doce Apostoles",
+    "address": "Complejo Morro Cabana,Via Monumental",
+    "contacts": {
+        "phone": [
+            "77937733"
+        ],
+        "website": null,
+        "facebook": "Restaurante Doce Apostoles",
+        "instagram": null
+    },
+    "ratings": {
+        "tripadvisor": 3.5,
+        "google": 3.7
+    },
+    "owner": "Estatal",
+    "type": "Bar-Restaurant",
+    "specialty": "Criolla",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Entremes de jamon y queso": 400,
+            "Eperlan de pescado": 550,
+            "Anillas de calamar": 550,
+            "Alitas de pollo": 450,
+            "Nuggets de pollo": 250,
+            "Picadera especial": 600
+        },
+        "main_courses": {
+            "Pollo grille": 700,
+            "Fajitas de res": 950,
+            "Steak de res": 950,
+            "Fajitas de cerdo": 800,
+            "Masas de cerdo": 900,
+            "Filete de pescado": 900,
+            "Pescado del Chef": 1100,
+            "Gambas al grill": 1200
+        },
+        "additions": {},
+        "fittings":{},
+        "desserts": {},
+        "drinks": {
+            "Cerveza dispensada": 190,
+            "Cerveza importada": 220,
+            "Cerveza nacional": 215,
+            "Maltas": 210,
+            "Maltina Perla Negra": 180,
+            "Jugo natural en caja": 300,
+            "Refrescos nacionales": 280,
+            "Vino tinto (copa)": 200,
+            "Ron Habana Club Anejo Blanco (shot)": 80,
+            "Ron Habana Club profundo (shot)": 160,
+            "Ron Habana Club Selección de Maestro (shot)": 350,
+            "Ron Cubay carta blanca (shot)": 100
+        },
+        "plus": {}
+    }
+}

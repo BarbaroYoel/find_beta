@@ -1,0 +1,84 @@
+{
+    "municipality": "sm",
+    "name": "El Tráfico",
+    "address": "Calzada de Guines entre 90 y 94",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1000_2200",
+        "tuesday": "1000_2200",
+        "wednesday": "1000_2200",
+        "thursday": "1000_2200",
+        "friday": "1000_2200",
+        "saturday": "1000_2200",
+        "sunday": "1000_2200"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "bistec de pollo": 1500,
+            "bistec de cerdo": 1950,
+            "bistec de res": 1950,
+            "pechuga de pollo": 1950,
+            "chuleta de cerdo": 1950,
+            "masa de cerdo frita": 2000,
+            "cerdo guisado": 2000,
+            "lomo ahumado": 2000,
+            "costilla de cerdo": 2000,
+            "ropa vieja": 2000,
+            "filete de merluza": 2000,
+            "espaguetti con queso blanco": 400,
+            "espaguetti con queso gouda": 420,
+            "espaguetti con queso parmesano": 450,
+            "pizza de queso blanco": 280,
+            "pizza de queso blanco XL": 770,
+            "pizza de queso gouda": 320,
+            "pizza de queso gouda XL": 830,
+            "pizza de queso parmesano": 350,
+            "pizza de queso parmesano XL": 850
+        },
+        "additions": {
+            "queso blanco": 300,
+            "queso gouda": 320,
+            "queso parmesano": 350,
+            "cebolla": 200,
+            "pimiento": 200,
+            "piña": 200,
+            "camarón": 350,
+            "jamón": 200,
+            "chorizo": 200,
+            "bacon": 200,
+            "salchicha": 200,
+            "aceituna": 300,
+            "atún": 300
+        },
+        "fittings": {
+            "arroz moro": 300,
+            "vianda": 150,
+            "ensalada": 200,
+            "tamal": 200,
+            "papas fritas": 600
+        },
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "municipality": "ce",
+    "name": "El Cocal",
+    "address": "",
+    "contacts": {
+        "phone": [
+            "76822199"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "1200_2400",
+        "friday": "1200_2400",
+        "saturday": "1200_2400",
+        "sunday": "1200_2400"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Croquetas": 600,
+            "Bolitas de queso": 650,
+            "Ensalada de Atun": 1000,
+            "Toston de queso": 600,
+            "Toston de jamon y queso": 600,
+            "Toston de Atun": 1000,
+            "Crema de queso": 550,
+            "Crema Aurora": 600,
+            "Crema Virginia": 650,
+            "Crema Mixta": 700,
+            "Coctel Camaron": 1500,
+            "Empellas": 550
+        },
+        "main_courses": {
+            "Eperlan Pechuga": 1600,
+            "Eperlan Pescado": 2000,
+            "Pizza de Queso": 1200,
+            "Pizza de Jamon": 1400,
+            "Pizza Hawaiiana": 1500
+        },
+        "additions": {
+            "queso": 500,
+            "jamon": 300,
+            "piña": 150,
+            "camaron": 1500,
+            "atun": 1000,
+            "cebolla": 200
+        },
+        "fittings": {
+            "Yuca": 400,
+            "Toston": 400
+        },
+        "desserts": {
+            "Flan": 500
+        },
+        "drinks": {},
+        "plus": {
+        }
+    }
+}

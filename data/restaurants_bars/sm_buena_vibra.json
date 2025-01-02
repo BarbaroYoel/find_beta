@@ -1,0 +1,63 @@
+{
+    "municipality": "sm",
+    "name": "Buena Vibra",
+    "address": null,
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "cafeteria",
+    "specialty": "Comida Criolla",
+    "hours": {
+        "monday": "1200_2200",
+        "tuesday": "1200_2200",
+        "wednesday": "1200_2200",
+        "thursday": "1200_2200",
+        "friday": "1200_2200",
+        "saturday": "1200_2200",
+        "sunday": "1200_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "croquetas": 400,
+            "fritura de malanga": 400,
+            "vianda frita": 300,
+            "tostones tradicionales": 300,
+            "tostones rellenos": 500
+        },
+        "main_courses": {
+            "bistec de pollo": 850,
+            "bistec de pollo empanado": 900,
+            "hígado de cerdo": 800,
+            "lomo ahumado": 900,
+            "bistec de cerdo": 900,
+            "pechuga de pollo": 900,
+            "hamburguesa de pollo": 300,
+            "espaguetti con queso": 400,
+            "espaguetti de jamón": 550
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "tequila reposado": 300,
+            "licor crema": 200,
+            "piña colada": 300
+        },
+        "plus": {}
+    }
+}

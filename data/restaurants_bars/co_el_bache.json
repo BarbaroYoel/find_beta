@@ -1,0 +1,67 @@
+{
+    "municipality": "co",
+    "name": "El Bache",
+    "address": "Calle 30 entre 95 y 97,Las Brisas",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "italiana",
+    "hours": {
+        "monday": "1030_2230",
+        "tuesday": "1030_2230",
+        "wednesday": "1030_2230",
+        "thursday": "1030_2230",
+        "friday": "1030_2230",
+        "saturday": "",
+        "sunday": ""
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "lasaña": 800,
+            "lasaña de queso gouda": 1200,
+            "espaguetti con queso gouda": 900,
+            "espaguetti": 600,
+            "pizza napolitana": 600,
+            "pizza doble queso": 800,
+            "pizza queso gouda": 900,
+            "pizza jamón": 800,
+            "pizza chorizo": 800,
+            "pizza aceituna": 800,
+            "pizza atún": 1350,
+            "pizza cebolla": 800,
+            "pizza hawaiana": 1100,
+            "pizza 4 estaciones": 1450
+        },
+        "additions": {
+            "queso": 300,
+            "jamón": 200,
+            "chorizo": 200,
+            "aceituna": 200,
+            "atún": 750,
+            "cebolla": 200,
+            "piña": 300,
+            "gouda": 650
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

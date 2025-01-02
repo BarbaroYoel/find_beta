@@ -1,0 +1,122 @@
+{
+    "municipality": "ch",
+    "name": "Fénix Dorado",
+    "address": "Cuchillo entre San Nicolás y Rayo",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "tripadvisor": 3.5
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida China",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Picadera Fénix": 1785.00,
+            "Entremés jamón y aceite": 535.00,
+            "Entremés jamón y queso": 835.00,
+            "Entremés aceitunas": 555.00,
+            "Coctel camarones": 1200.00,
+            "Ensalada fría jamón": 595.00,
+            "Ensalada fría atún": 850.00,
+            "Vianda c/mojo": 315.00,
+            "Tostones nat. ajillo": 495.00,
+            "Tost. rellenos jamoniquesos": 695.00,
+            "Tost. rellenos c/camarón": 835.00,
+            "Mariposas chinas": 375.00,
+            "Ensalada mixta": 360.00,
+            "Sopa Fénix": 895.00,
+            "Fritura malanga": 510.00
+        },
+        "main_courses": {
+            "Bistec cerdo grille": 1625.00,
+            "Bistec cerdo encebollado": 1885.00,
+            "Ropa vieja": 2535.00,
+            "Camarón grille": 2785.00,
+            "Camarón al ajillo": 2950.00,
+            "Camarón enchilado": 3120.00,
+            "Filete pescado grille": 2675.00,
+            "Filete sensación": 3000.00,
+            "Filete terraza": 3940.00,
+            "Chop suey camarón": 2970.00,
+            "Chop suey pollo": 1995.00,
+            "Chop suey cerdo": 2205.00,
+            "Pollo grille": 3975.00,
+            "Plancha de mar": 5255.00,
+            "Masas cerdo ftas (1.5b)": 4550.00,
+            "Brochetas cerdo (1.56)": 4650.00,
+            "Plancha mar y tierra": 5255.00,
+            "Corona fenix": 5965.00,
+            "Zarzuela de mariscos": 5455.00,
+            "Mucho cerdo (3 lb)": 8550.00,
+            "Pizza c/queso gouda": 1120.00,
+            "Pizza c/queso blanco": 695.00,
+            "Pizza Haw. queso blanco": 1145.00,
+            "Pizza Haw. queso gouda": 1570.00,
+            "Espag. nap. c/queso gouda": 995.00,
+            "Espag. nap. c/queso bco": 645.00
+        },
+        "additions": {
+            "Pimiento": 200.00,
+            "Cebolla": 200.00,
+            "Piña": 200.00,
+            "Jamón": 250.00,
+            "Chorizo": 300.00,
+            "Queso bco": 295.00,
+            "Queso gouda": 520.00
+        },
+        "fittings": {
+            "Arroz frito Fénix": 1120.00,
+            "Arroz frito Fénix especial": 1540.00,
+            "Arroz frito Fénix esp. familiar": 2810.00,
+            "Paella Fénix": 2920.00,
+            "Arroz moro": 335.00,
+            "Arroz blanco": 265.00
+        },
+        "desserts": {},
+        "drinks": {
+            "Cerveza Corona": 480.00,
+            "Cerveza Nacional": 360.00,
+            "Cerveza Importada": 280.00,
+            "Refresco Nacional": 310.00,
+            "Refresco Importado": 350.00,
+            "Malta": 340.00,
+            "Energizante": 500.00,
+            "Nectar frutas": 340.00,
+            "Aquia Nat, importada 500ml": 250.00,
+            "Ama Nat. Nacional 500ml": 210.00,
+            "Café expreso": 220.00,
+            "Café americano": 220.00,
+            "Café carajillo": 320.00,
+            "Vino (bot)": 2500.00,
+            "Copa heilada": 500.00,
+            "Malteada": 600.00,
+            "Batido helado": 540.00
+        },
+        "plus": {
+            "Cajas pipizzasas": 100.00,
+            "Termos": 100.00
+        }
+    }
+}

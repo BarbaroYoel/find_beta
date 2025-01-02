@@ -1,0 +1,77 @@
+{
+    "an": {
+        "name": "Arroyo Naranjo",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "by": {
+        "name": "Boyeros",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "ch": {
+        "name": "Centro Habana",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "ce": {
+        "name": "Cerro",
+        "population": null,
+        "num_restaurants": 4
+    },
+    "co": {
+        "name": "Cotorro",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "do": {
+        "name": "Dies de Octubre",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "gn": {
+        "name": "Guanabacoa",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "he": {
+        "name": "La Habana del Este",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "hv": {
+        "name": "Habana Vieja",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "ll": {
+        "name": "La Lisa",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "mn": {
+        "name": "Marianao",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "pl": {
+        "name": "Playa",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "pr": {
+        "name": "Plaza de la Revolución",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "rg": {
+        "name": "Regla",
+        "population": null,
+        "num_restaurants": 0
+    },
+    "sm": {
+        "name": "San Miguel del Padrón",
+        "population": null,
+        "num_restaurants": 0
+    }
+}

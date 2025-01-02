@@ -1,0 +1,132 @@
+{
+    "municipality": "he",
+    "name": "La ruta de Hemingway",
+    "address": "Calle Real entre Victoria y Marcos, Cojimar",
+    "contacts": {
+        "phone": [
+            "50813470"
+        ],
+        "website": "larutadehemingway.godaddysites.com",
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 3.7
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurant",
+    "specialty": "Comida mixta",
+    "hours": {
+        "monday": "1200_2300",
+        "tuesday": "1200_2300",
+        "wednesday": "1200_2300",
+        "thursday": "1200_2300",
+        "friday": "1200_2300",
+        "saturday": "1200_2300",
+        "sunday": "1200_2300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Croquetas de la casa": 500,
+            "Ceviche de pescado": 1300,
+            "Tostones rellenos": 1150,
+            "Eperlan de pescado": 1300,
+            "Garbanzos fritos": 1350,
+            "Ensalada fria": 1050,
+            "Brusquetas": 450
+        },
+        "main_courses": {
+            "Pincho Pio": 2500,
+            "Bistec de cerdo a la campesina": 2400,
+            "El Balsero": 3100,
+            "Pulpo a las brasas": 3500,
+            "Camaron a la mantequilla": 2900,
+            "Langosta al carbon": 3600,
+            "Fajas Ibericas": 4250,
+            "Chilindron de cordero": 3450,
+            "Fricase de costilla": 3650,
+            "Masas de cerdo a la campesina": 3200,
+            "Pescado entero": 3100,
+            "Tambor cubano": 3100,
+            "Rueda de pescado": 2700,
+            "Pizza napolitana": 2000
+        },
+        "additions": {},
+        "fittings": {
+            "Viandas fritas": 300,
+            "Vianda con mojo": 300,
+            "Ensalada estacion": 400,
+            "Arroz blanco": 300,
+            "Arroz moro": 400
+        },
+        "desserts": {
+            "Postre del dia": 750
+        },
+        "drinks": {
+            "Jugo en lata": 300,
+            "Jugo de fruta": 300,
+            "Batido de fruta": 420,
+            "Limonada frappe": 450,
+            "Limonada frescura": 480,
+            "Malta": 360,
+            "Malteada": 500,
+            "Refresco importado": 300,
+            "Agua natural": 250,
+            "Agua tonica": 700,
+            "Energizante": 300,
+            "Kermato": 500,
+            "Cerveza nacional": 300,
+            "Cerveza en lata importada": 250,
+            "Cerveza Presidente": 300,
+            "Cerveza Heineken": 400,
+            "Cerveza Corona": 450,
+            "Copa de vino": 650,
+            "Botella de vino": 3000,
+            "Todos los cocteles": 450,
+            "Sangria": 800,
+            "Pina colada": 700,
+            "Gin Tonic": 800,
+            "Ron Barcelo Dorado": 400,
+            "Brandy": 600,
+            "Ginebra Tanqueray": 600,
+            "Conac": 1000,
+            "Habana Club 7 anos": 600,
+            "Habana Club 3 anos": 300,
+            "Habana Club Pacto Navio": 1200,
+            "Habana Club Reserva": 350,
+            "Habana Club Especial": 300,
+            "Habana Club Seleccion del Maestro": 1300,
+            "Jagermeifter": 700,
+            "Legendario": 250,
+            "Ron 15 anos": 1100,
+            "Whiskey Pasportt": 400,
+            "W. Black Label": 1000,
+            "W. Double Black Label": 1800,
+            "W. 15 anos": 1900,
+            "W. Red Label": 800,
+            "W. VAT 69": 350,
+            "W. Black and White": 500,
+            "Bucana": 1650,
+            "Tequila Olmeca": 800,
+            "Ginebra": 600,
+            "Cafe Expresso": 250,
+            "Cafe americano": 250,
+            "Cafe chocolate": 300,
+            "Cafe cortado": 300,
+            "Cafe bombon": 370,
+            "Cafe con leche": 450,
+            "Capuchino": 450
+        },
+        "plus": {}
+    }
+}

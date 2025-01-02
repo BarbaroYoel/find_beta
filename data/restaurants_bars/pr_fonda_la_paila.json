@@ -1,0 +1,96 @@
+{
+    "municipality": "pr",
+    "name": "Fonda La Paila",
+    "address": "Calle M e/ 25 y 27",
+    "contacts": {
+        "phone": [
+            "+5353388837"
+        ],
+        "website": "https://fondalapaila.com/",
+        "facebook": "https://www.facebook.com/lapaila25ym",
+        "instagram": "https://www.instagram.com/lapaila_25ym/"
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Cesta de Pan": 600,
+            "Frituras de Malanga": 1000,
+            "Croquetas de la Casa": 1350,
+            "Pan con Lechón": 1850,
+            "Tacos Guajiros": 2200,
+            "Tacos de Camarón": 2200,
+            "Tostones 25 y M": 1850,
+            "Bastones Fritos": 2500,
+            "Cóctel de Langosta": 2000,
+            "Cóctel de Camarón": 1900,
+            "Ceviche Criollo": 2000,
+            "Charcutería Criolla": 3000,
+            "Tabla La Paila": 4500,
+            "Papas Prefritas con Chorizo y Queso": 1500,
+            "Bastones Fritos de Pescado": 3000,
+            "Tabla de Jamón Serrano": 3500,
+            "Tabla de Salmón": 3000
+        },
+        "main_courses": {
+            "Arroz con Pollo a la Cubana": 3000,
+            "Pollo Campestre": 2300,
+            "Pechuga Grillé": 2500,
+            "Pechuga Salteada": 2500,
+            "Ropa Vieja Criolla": 3000,
+            "Vaca Frita": 3000,
+            "Masas a la Paila": 3000,
+            "Chuleta a la Parrilla": 3000,
+            "Costillas BBQ": 3500,
+            "Brocheta Criolla": 3000,
+            "Lonjas de Cerdo": 2850,
+            "Lomo de Cerdo Mechado": 3300,
+            "Pescado al Carbón": 3000,
+            "Pescado Sauté Papillote": 3600,
+            "Camarón a su Elección": 3500,
+            "Langosta al Carbón": 3600,
+            "Langosta Enchilada": 3800,
+            "Langosta Termidor": 4000,
+            "Grillada Mixta": 6500,
+            "Pulpo a su Elección": 4200,
+            "Grillada del Mar": 5900,
+            "Grillada de la Tierra": 5800,
+            "Pasta Frutti di Mare": 3500,
+            "Lechón Ahumado": 3300
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "helados de crema de fresa": 550,
+            "tarta de chocolate": 650,
+            "postre de paila": 750,
+            "cheescake de fruta": 950,
+            "flan de la casa": 500,
+            "copa lolita": 750,
+            "torrejas de la casa con helado": 500
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

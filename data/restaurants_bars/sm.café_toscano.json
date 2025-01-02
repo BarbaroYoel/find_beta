@@ -1,0 +1,64 @@
+{
+    "municipality": "sm",
+    "name": "Café Toscano",
+    "address": "Calzada de Guines",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "cafeteria",
+    "specialty": "Comida italiana y criolla",
+    "hours": {
+        "monday": "0800_2200",
+        "tuesday": "0800_2200",
+        "wednesday": "0800_2200",
+        "thursday": "0800_2200",
+        "friday": "0800_2200",
+        "saturday": "0800_2200",
+        "sunday": "0800_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "tostones rellenos": 250,
+            "tostones": 150,
+            "platano": 100
+        },
+        "main_courses": {
+            "pollo chiflado": 400,
+            "pollo especial": 1000,
+            "hamburguesa sencilla": 300,
+            "hamburguesa con queso": 380,
+            "hamburguesa doble con queso": 550,
+            "espaguetti": 330,
+            "espaguetti con queso gouda": 400,
+            "pizza napolitana": 17,
+            "pizza doble de queso": 250,
+            "pizza hawaiana": 290,
+            "pizza gouda": 250,
+            "pizza cubana": 320,
+            "pizza grande napolitana": 550,
+            "pizza grande doble de queso": 790,
+            "pizza grande gouda": 940
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {
+        }
+    }
+}

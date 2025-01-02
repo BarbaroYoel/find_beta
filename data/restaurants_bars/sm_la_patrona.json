@@ -1,0 +1,84 @@
+{
+    "municipality": "sm",
+    "name": "La Patrona",
+    "address": "Calzada de Guines en San Francisco de Paula",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": null,
+        "tuesday": "0800_0000",
+        "wednesday": "0800_0000",
+        "thursday": "0800_0000",
+        "friday": "0800_0000",
+        "saturday": "0800_0000",
+        "sunday": "0800_0000"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "bistec uruguayo": 2600,
+            "ropa vieja": 1400,
+            "escalope de cerdo": 1800,
+            "bistec de cerdo": 1600,
+            "arroz frito": 1000,
+            "hamburguesa clasica": 500,
+            "hamburguesa sencilla": 700,
+            "hamburguesa grosera": 1200,
+            "hamburguesa patrona": 1000,
+            "lasaña": 1250,
+            "canelones": 1100,
+            "espaguetti carbonara": 15000,
+            "pizza La Patrona": 1800
+        },
+        "additions": {
+            "jamón serrano": 800,
+            "jamón": 400,
+            "chorizo": 400,
+            "bacon": 400,
+            "pepperoni": 400,
+            "queso parmesano": 400,
+            "queso blanco": 300,
+            "queso gouda": 400,
+            "cebolla": 300,
+            "piña": 300,
+            "aceitunas": 300,
+            "atún": 500
+        },
+        "fittings": {},
+        "desserts": {
+            "flan": 200,
+            "copa lolita": 400,
+            "cesta helado": 500,
+            "tres gracias": 300
+        },
+        "drinks": {
+            "café express": 150,
+            "cafe con crema": 180,
+            "cafe La Patrona": 250,
+            "frapuchino": 250,
+            "jugos": 100,
+            "suero helado": 350,
+            "batidos": 300
+        },
+        "plus": {}
+    }
+}

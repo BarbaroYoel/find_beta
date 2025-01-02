@@ -1,0 +1,124 @@
+{
+    "municipality": "Habana del Este",
+    "name": "Ranchon Hanoi",
+    "address": "Parque Hanoi, zona 6, Alamar",
+    "contacts": {
+        "phone": [
+            "77630542"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "tripadvisor": 4.0,
+        "google": 4.4
+    },
+    "owner": "Estatal",
+    "type": "Restaurante",
+    "specialty": "Comida mixta",
+    "hours": {
+        "monday": "",
+        "tuesday": "1200_2300",
+        "wednesday": "1200_2300",
+        "thursday": "1200_2300",
+        "friday": "1200_2300",
+        "saturday": "1200_2300",
+        "sunday": "1200_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Dados de jamon": 300,
+            "Dados de queso gouda": 450,
+            "Entremes de jamon y queso gouda": 700,
+            "Entremes de chorizo y queso gouda": 700,
+            "Entremes surtido": 1200,
+            "Coctel de camaron": 950,
+            "Coctel de langosta": 950,
+            "Ensalada fria de jamon": 360,
+            "Ensalada fria de atun": 400,
+            "Vianda frita": 250,
+            "Croquetas de la casa": 300,
+            "Baston de pollo": 500,
+            "Eperlan de pescado": 900,
+            "Toston con mojo criollo": 250,
+            "Toston estilo ranchon": 580,
+            "Toston relleno con jamon y queso gouda": 600
+        },
+        "main_courses": {
+            "Espaghettis napolitanos": 650,
+            "Pizza napolitana": 700,
+            "Bistec de cerdo": 1350,
+            "Fajitas de cerdo": 1350,
+            "Bistec de cerdo napado con queso": 1700,
+            "Bistec de cerdo a la princesa": 1950,
+            "Fricase de cerdo": 1500,
+            "Masas de cerdo fritas": 1450,
+            "Lomo de cerdo ahumado": 1450,
+            "Ropa vieja": 1100,
+            "Fricase de cordero": 1650,
+            "Bistec de pollo al queso": 1690,
+            "Pollo San Carlos con jamon gratinado con queso": 1850,
+            "Pollo al gusto": 1000,
+            "Higado de res a la italiana": 900,
+            "Filete de pescado": 1700,
+            "Ruedas de pescado": 1650,
+            "Filete de pescado gratinado al queso": 1950,
+            "Filete de pescado John Bill": 2400,
+            "Eperlan de pescado": 1800,
+            "Pescado entero": 1500,
+            "Langosta grille": 1800,
+            "Enchilado de langosta": 1900,
+            "Camaron grille": 1800,
+            "Enchilado de camaron": 1900,
+            "Todo Mar": 2600,
+            "Mar y Tierra": 2300
+        },
+        "additions": {},
+        "fittings": {
+            "Arroz blanco": 100,
+            "Arroz congri": 150,
+            "Vianda hervida": 150,
+            "Ensalada de estacion": 150
+        },
+        "desserts": {
+            "Flan": 250,
+            "Copa Lolita de helado": 425,
+            "Jimaguas de helado": 200,
+            "3 Gracias": 270,
+            "Ensalada de helado": 400
+        },
+        "drinks": {
+            "Cafe cortadito": 250,
+            "Cafe Expreso": 100,
+            "Cuba Libre": 380,
+            "Cubata": 400,
+            "Mojito": 400,
+            "Ron coffin": 400,
+            "Mary pickfor": 400,
+            "Habana especial": 400,
+            "Daiquiri": 350,
+            "Daiquiri rebelde": 380,
+            "Pina colada": 500,
+            "Caipirina": 350,
+            "Caipiroska": 350,
+            "Caipirisima": 350,
+            "Michelada": 500,
+            "Chelada": 400,
+            "Sangria": 500,
+            "Tinto verano": 500,
+            "Limonada clarete": 500
+        },
+        "plus": {}
+    }
+}

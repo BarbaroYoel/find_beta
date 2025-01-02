@@ -1,0 +1,126 @@
+{
+    "municipality": "he",
+    "name": "El Ajiaco",
+    "address": "esquina de calle Los Pinos y Cuba, Cojimar",
+    "contacts": {
+      "phone": [
+        "77650514"
+      ],
+      "website": null,
+      "facebook": null,
+      "instagram": null
+    },
+    "ratings": {
+      "tripadvisor": 5.0,
+      "google": 4.6
+    },
+    "owner": "Privado",
+    "type": "Restaurant",
+    "specialty": "Comida Criolla",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+      "parking": true,
+      "reservations": true,
+      "delivery": true,
+      "power plant": false
+    
+    },
+    "payment_methods": [
+     "cup"
+    ],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "Ceviche de pescado": 890,
+        "Coctel de camarones": 1200,
+        "Coctel de langosta": 990,
+        "Escabache de pescado con aderezo de aceitunas y cebolla": 990,
+        "Pulpo fresco en vinagreta de cilantro y pimenton": 1350,
+        "Ajiaco cubano con dados de tamal y corona de ropa vieja": 390,
+        "Sopa crema de malanga con sofritos de ajo": 650,
+        "Garbanzos fritos del chef": 1470,
+        "Croquetas caseras del dia": 490,
+        "Tostones rellenos con ropa vieja": 990,
+        "Tostones rellenos con jamon y queso": 990,
+        "Tostones rellenos mixtos": 990,
+        "Cartucho de frituras de malanga": 490,
+        "Tamal en cazuela con chorizo y cerdo o camarones": 1200,
+        "Tamal en hoja en monteria de cerdo": 890,
+        "Tamal en hoja con salsa chirnichurri": 420
+      },
+      "main_courses": {
+        "Pasta de queso": 790,
+        "Pasta de jamon": 1150,
+        "Pizza de queso": 1250,
+        "Pizza de jamon": 1550,
+        "Pizza de camarones": 1990,
+        "Pizza hawaiana": 1490,
+        "Pizza de ropa vieja y platanos maduros fritos": 1890,
+        "Arroz a la cubana": 590,
+        "Arroz a la marinera": 2200,
+        "Arroz a la campesina": 1690,
+        "Arroz con pollo en bano de cerveza": 1650,
+        "Pescado fresco del dia con salteado de albahaca, tomate y ajo": 1890,
+        "Eperlan o minutas de pescado con mayonesa": 1890,
+        "Cazuela mixta del mar": 2450,
+        "Filete de pescado al estilo canciller": 2200,
+        "Pulpo estofado en vino tinto y salsa criolla": 2980,
+        "Camaron Grille": 2190,
+        "Camarones cocidos en aceite, ajo y guindillas": 2400,
+        "Langosta cocida en aceite, ajo y guindillas": 2450,
+        "Langosta al ron en salsa criolla": 2400,
+        "Suprema de pollo grille": 1400,
+        "Fricase de pollo al estilo campesino": 1690,
+        "Suprema de pollo relleno con jamon y queso": 1750,
+        "Bistec de cerdo": 1450,
+        "Masas de cerdo fritas con marinado de ajo y oregano": 2490,
+        "Patas de cerdo cocidas en salsa criolla": 1050,
+        "Cerdo empanado y relleno con jamon y queso": 1890,
+        "Escalopes de cerdo empanados": 1390,
+        "Ropa vieja de la casa": 1690,
+        "Chilindron de carnero": 2150,
+        "Estofado de res": 1790
+      },
+      "additions": {},
+      "fittings": {
+        "Arroz blanco": 290,
+        "Moros y cristianos": 380,
+        "Vegetales frescos, marinados, salteados": 290,
+        "Frijoles negros dormidos": 350,
+        "Seleccion de viandas con mojo del dia": 290,
+        "Pure de viandas": 250,
+        "Vianda frita": 350,
+        "Tamal en hoja": 210
+      },
+      "desserts": {
+        "Helados": 550
+      },
+      "drinks": {
+        "Mojito Ajiaco": 350,
+        "Mojito Clasico": 350,
+        "Cuba Libre": 350,
+        "Daiquiri": 350,
+        "Caipirina": 350,
+        "Sangria": 380,
+        "Pina colada": 650,
+        "Jugos naturales": 220,
+        "Limonada natural o frappe": 220,
+        "Energizante": 280,
+        "Cerveza nacional": 350,
+        "Malta": 300,
+        "Copa de vino de la casa": 390,
+        "Ginebra": 250,
+        "Cafe expreso": 180,
+        "Te": 120
+      },
+      "plus": {}
+    }
+  }

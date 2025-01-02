@@ -1,0 +1,53 @@
+{
+    "municipality": "",
+    "name": "",
+    "address": "",
+    "contacts": {
+        "phone": [
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "",
+    "type": "",
+    "specialty": "",
+    "hours": {
+        "monday": "1400_0200",
+        "tuesday": "1400_0200",
+        "wednesday": "1400_0200",
+        "thursday": "1400_0200",
+        "friday": "1400_0200",
+        "saturday": "1400_0200",
+        "sunday": "1400_0200"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+       
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+          
+        },
+        "main_courses": {
+          
+        },
+        "additions": {
+          
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+        },
+        "plus": {
+       
+        }
+    }
+}

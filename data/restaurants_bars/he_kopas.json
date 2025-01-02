@@ -1,0 +1,110 @@
+{
+    "municipality": "he",
+    "name": "Kopas",
+    "address": "Esquina de 5ta Avenida, #482, Guanabo",
+    "contacts": {
+      "phone": [
+        "51566616"
+      ],
+      "website": null,
+      "facebook": null,
+      "instagram": "kopas_bar_restaurant"
+    },
+    "ratings": {
+      "tripadvisor": null,
+      "google": 4.3
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurant",
+    "specialty": "Comida mixta",
+    "hours": {
+      "monday": "1000_2330",
+      "tuesday": "1000_2330",
+      "wednesday": "1000_2330",
+      "thursday": "1000_2330",
+      "friday": "1000_2330",
+      "saturday": "1000_2330",
+      "sunday": "1000_2330"
+    },
+    "services": {
+      "parking": true,
+      "reservations": true,
+      "delivery": true,
+      "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "eur"
+    ],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "Tacos de camaron": 1250,
+        "Tacos de res": 995,
+        "Tacos de cerdo": 975,
+        "Tacos de langosta": 1350,
+        "Tacos de pescado": 975,
+        "Fritura de malanga": 750,
+        "Tostones rellenos de camaron": 1100,
+        "Tostones rellenos de jamon y queso": 975
+      },
+      "main_courses": {
+        "Brochetas de langosta": 2350,
+        "Brochetas de camaron": 2100,
+        "Brochetas de cerdo": 1850,
+        "Brochetas de pollo": 1550,
+        "Langosta a las brasas": 2350,
+        "Lomo de pescado a las brasas": 2200,
+        "Mar y tierra": 3650,
+        "Rueda de albacora a las brasas": 1775,
+        "Fajitas de pollo empanadas": 1450,
+        "Bistec de pollo grille": 1250,
+        "Pechuga de pollo en salsa de jengibre y ajonjoli": 1450,
+        "Pollo al limon y al oregano": 1350,
+        "Pollo a la parmesana": 1650,
+        "Pollo al ajo y vino blanco": 1350,
+        "Fajitas de pollo a la pina y miel": 1275,
+        "Pollo Princesa": 1650,
+        "Fajitas de cerdo a la pina y miel": 1875,
+        "Uruguayo de cerdo": 2250,
+        "Bistec de cerdo Princesa": 2000,
+        "Masa de cerdo al estilo Kopas": 1875,
+        "Bistec de cerdo encebollado": 1550,
+        "Lomo de cerdo ahumado con salsa barbecue": 1850,
+        "Lomo de cerdo ahumado con salsa agridulce": 1875,
+        "Lomo de cerdo ahumado encebollado": 1775,
+        "Bistec de res encebollado": 1750,
+        "Fajitas de res": 1750,
+        "Mignon salsa del Chef": 1850,
+        "Ropa vieja": 1575,
+        "Uruguayo de res": 2250,
+        "Vaca frita": 1450,
+        "Filete a la Deutch": 1750,
+        "Filete de pescado Princesa": 2150,
+        "Filete de pescado en salsa de limon": 1975,
+        "Langosta enchilada": 2475,
+        "Langosta grille": 2100,
+        "Camaron enchilado": 2300,
+        "camaron grille": 2000,
+        "Camaron empanado": 2300,
+        "Camarones al ajillo": 2200,
+        "Langosta al ajillo": 2250,
+        "Filete de pescado Costa Sur": 2650,
+        "Dados de pescado al ajillo": 1750,
+        "Camaron tropical": 3250
+      },
+      "additions": {},
+      "fittings": {},
+      "desserts": {},
+      "drinks": {
+        "Vodka Ciroc Red Berry": 8900,
+        "Whisky Jameson": 8500,
+        "Whisky J&B Rare": 5900,
+        "Whisky Elliot Hall": 4900,
+        "whisky Chanceler": 2900,
+        "Whisky Ballantines": 8500
+      },
+      "plus": {}
+    }
+  }

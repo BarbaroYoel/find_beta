@@ -1,0 +1,90 @@
+{
+    "municipality": "co",
+    "name": "Mi terraza",
+    "address": "Calle 71 % 24 y 26, Las Brisas,  Cotorro",
+    "contacts": {
+        "phone": [
+            "76822381"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": "@miterraza_pizzeria"
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Crema de queso": 850,
+            "Crema Virginia": 1100
+        },
+        "main_courses": {
+            "Sandwich de queso": 700,
+            "Sandwich de jamón": 650,
+            "Sandwich de jamón y queso": 900,
+            "Sandwich de atún": 1100,
+            "Sandwich Mi Terraza": 1100,
+            "Espaguetis Napolitanos": 1000,
+            "Espaguetis de jamón": 1250,
+            "Espaguetis de atún": 1400,
+            "Espaguetis a la Carbonara": 1600,
+            "Espaguetis doble queso": 1500,
+            "Canelos": 1500,
+            "Pizza Napolitana": 1200,
+            "Pizza Hawaiana": 1700,
+            "Pizza Mi Terraza": 1800
+        },
+        "additions": {
+            "Doble queso (150g)": 500,
+            "Jamón (60g)": 300,
+            "Cebolla": 250,
+            "Piña": 200,
+            "Atún": 400,
+            "Aceitunas": 400,
+            "Chorizo": 200,
+            "Bacon": 700
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Limonada Frappe": 350,
+            "Malteada": 500,
+            "Chelada": 550,
+            "Batidos (mango, fruta bomba o guayaba)": 400,
+            "Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)": 600,
+            "Pica Pica Mi Terraza": 1700,
+            "Tostones de jamón y queso": 1000,
+            "Tostones de atún": 1200,
+            "Fajitas de pollo (con mayonesa)": 1000,
+            "Ensalada de pollo": 400,
+            "Frituras de malanga (con miel)": 400,
+            "Bolitas de queso (con miel)": 400,
+            "Croquetas (con mayonesa)": 400,
+            "Chicharritas": 300,
+            "Papas prefritas": 600
+        },
+        "plus": {}
+    }
+}

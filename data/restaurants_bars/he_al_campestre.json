@@ -1,0 +1,155 @@
+{
+    "municipality": "he",
+    "name": "Al Campestre",
+    "address": "El Intermitente, Via  Blanca, Alamar",
+    "contacts": {
+      "phone": [
+        "58893858",
+        "53236469"
+      ],
+      "website": null,
+      "facebook": "Alcampestre.",
+      "instagram": "alcampestre"
+    },
+    "ratings": {
+     
+      "google": 3.4
+    },
+    "owner": "Privado",
+    "type": "Restaurant",
+    "specialty": "Comida mixta",
+    "hours": {
+      "monday": "0900_2300",
+      "tuesday": "0900_2300",
+      "wednesday": "0900_2300",
+      "thursday": "0900_2300",
+      "friday": "0900_2300",
+      "saturday": "0900_2300",
+      "sunday": "0900_2300"
+    },
+    "services": {
+      "parking": true,
+      "reservations": true,
+      "delivery": true,
+      "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "eur"
+    ],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "Vianda hervida": 180,
+        "Vianda frita": 350,
+        "Tostones criollos": 350,
+        "Croquetas de la casa": 400,
+        "Tostones en tapas": 560,
+        "Firtura de malanga": 450,
+        "Ensalada fria": 650,
+        "Papas fritas": 700,
+        "Ceviche": 1000,
+        "Crema de queso": 400,
+        "Crema aurora": 450,
+        "Crema Virginia": 470,
+        "Fajitas de pollo": 1560,
+        "Eperlan": 2100,
+        "Coctel de camarones": 2200,
+        "Brusquetas": 650,
+        "Tabla Charcutera": 1750
+      },
+      "main_courses": {
+        "Pizza Napolitana": 970,
+        "Pizza Bambina": 550,
+        "Pizza Al Campestre": 1960,
+        "Spaghetti con queso": 820,
+        "Spaghetti Frutti di Mare": 2400,
+        "Spaghetti Aioli": 960,
+        "Spaghetti Al Pesto": 1200,
+        "Spaghetti Bolonesa": 1890,
+        "Spaghetti Carbonara": 1450,
+        "Spaghetti Alfredo": 930,
+        "Spaghetti Primavera": 1000,
+        "Ropa vieja de res": 2450,
+        "Vaca Frita": 2560,
+        "Filete de res a la Deuch": 2560,
+        "Calamar al ajillo": 4500,
+        "Calamar grille": 4500,
+        "Calamar en salsa de tomate": 4500,
+        "Pulpo grille": 5200,
+        "Pulpo enchilado": 5200,
+        "Pulpo al ajillo": 5200,
+        "Langosta grille": 4860,
+        "Langosta americana": 4860,
+        "Langosta termidor": 5000,
+        "Tacos al chili": 1600,
+        "Tacos de res": 2450,
+        "Tacos de pollo": 1960,
+        "Tacos de cerdo": 2500,
+        "Tacos del mar": 2650,
+        "Tacos de queso": 1400,
+        "Arroz frito": 1300,
+        "Estofado de conejo": 2750,
+        "Fricase de conejo": 2750,
+        "Entrecot": 4150,
+        "Churrasco de res": 4150,
+        "Chuleton de res": 5500,
+        "Paella Al Campestre": 10500
+      },
+      "additions": {
+        "Piña": 150,
+        "Cebolla": 200,
+        "Chorizo": 580,
+        "Pimiento": 200,
+        "Jamon": 350,
+        "Bacon": 480,
+        "Queso Gouda": 300,
+        "Aceituna": 180,
+        "Atun": 450,
+        "Camarones": 780,
+        "Ropa vieja de cerdo": 780,
+        "Ropa vieja de res": 960,
+        "Pepperoni": 350
+      },
+      "fittings": {
+        "Ensalada de estacion": 100,
+        "Arroz blanco": 150,
+        "Arroz moro": 220,
+        "Arroz con vegetales": 350,
+        "Vegetales salteados": 250,
+        "Frijoles negros": 350,
+        "Frijoles colorados": 400
+      },
+      "desserts": {
+        "Dulces caseros": 380,
+        "Torrejas de la casa": 500,
+        "Cuna de Mousse": 570,
+        "Tarta de Mousse": 4500,
+        "Cuna Cheesecake": 650,
+        "Tarta Cheesecake": 5000,
+        "Tarta Tiramisu": 5000,
+        "Cuna Tiramisu": 650
+      },
+      "drinks": {
+        "Alexander": 450,
+        "Bloddy Marry": 450,
+        "Cubanito": 450,
+        "Daiquiri": 460,
+        "Daiquiri rebelde": 500,
+        "Martin": 450,
+        "Mojito": 750,
+        "Pina Colada": 720,
+        "Sangria": 850,
+        "Virgen Colada": 450,
+        "Caipirina": 400,
+        "Caipiroska": 400,
+        "Caipirisima": 400,
+        "Canchanchara": 400,
+        "Margarita": 650,
+        "Tinto Verano": 1100
+      },
+      "plus": {}
+    }
+  }
+  

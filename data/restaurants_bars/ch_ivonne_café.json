@@ -1,0 +1,77 @@
+{
+    "municipality": "ch",
+    "name": "Ivonne Café",
+    "address": "San Lazaro entre Espada y Hospital",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "",
+    "hours": {
+        "monday": "0900_2200",
+        "tuesday": "0900_2200",
+        "wednesday": "0900_2200",
+        "thursday": "0900_2200",
+        "friday": "0900_2200",
+        "saturday": "0900_2200",
+        "sunday": "0900_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "Pizza  queso blanco": 350,
+            "Pizza Grande queso blanco": 500,
+            "Pizza Pequeña Gouda": 600,
+            "Pizza Grande Gouda": 850,
+            "Espagueti Blanco": 700,
+            "Espagueti Gouda": 850
+        },
+        "additions": {
+            "Cebolla": 200,
+            "Jamón": 200,
+            "Aceituna": 200
+        },
+        "fittings": {},
+        "desserts": {
+            "Tartaleta": 350,
+            "Donut": 170,
+            "Coffee cake": 160,
+            "Empanada": 250,
+            "Cangrejitos": 250,
+            "Rollitos": 200,
+            "Pasteles": 100,
+            "Cakes": 4500
+        },
+        "drinks": {
+            "Expreso": 100,
+            "Cortado": 150,
+            "Con leche": 100,
+            "Americano": 100,
+            "Capuchino": 300,
+            "Bombon": 300,
+            "Frapuccino": 750,
+            "Aguas": 250,
+            "Refrescos": 250,
+            "Cervezas": 300,
+            "Limonada Frappe": 850,
+            "Batido Helado": 850,
+            "Batido Fruta": 550
+        },
+        "plus": {}
+    }
+}

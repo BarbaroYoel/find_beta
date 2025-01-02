@@ -1,0 +1,106 @@
+{
+    "municipality": "ce",
+    "name": "Brutal Habana",
+    "address": "Infanta esquina Calle Universidad, Cerro, La Habana",
+    "contacts": {
+        "phone": [
+            "050989151"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/brutal_habana?igsh=aGtpOXVkdnlpaTA="
+    },
+    "ratings": {
+        "google": 4.0
+    },
+    "owner": "Privado",
+    "type": "Bar",
+    "specialty": "Hamburguesería",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Papas Fritas (Medias) 100g": 300,
+            "Papas Fritas (Normal) 200g": 600,
+            "SalchiPapas": 500,
+            "SalchiPapas BRUTAL": 1400,
+            "Croquetas de Pollo x 5": 175,
+            "Croquetas de Pollo x 10": 350,
+            "Baguette": 5150,
+            "Pan Suave": 120,
+            "Pan de Hamburguesa": 150
+        },
+        "main_courses": {
+            "Hamburguesa Brutal": 3200,
+            "Baguette Brutal": 2000,
+            "SalchiPapas Brutal": 1400,
+            "Papas Fritas Brutal": 1100,
+            "Brutal Junior": 550,
+            "Combo Brutal Junior": 2550,
+            "Hamburguesa Sencilla": 1100
+        },
+        "additions": {
+            "Agrego de Nutella": 50,
+            "Agrego de Gomita": 400,
+            "Papas Fritas Medias": 300,
+            "Papas Fritas Normales": 600,
+            "Fajitas de Pechuga con Papas Fritas": 1500,
+            "Croquetas de Pollo (5 unidades)": 175,
+            "Croquetas de Pollo (10 unidades)": 350
+        },
+        "fittings": {
+            "Cebolla": 100,
+            "Pepinillo": 510,
+            "Pimiento": 510,
+            "Tomate": 100,
+            "Aceituna": 100,
+            "Lechuga": 50,
+            "Jamón Barra York": 240,
+            "Bacon": 260,
+            "Jamón Ahumado 1964": 350,
+            "Chorizo Ibérico": 350,
+            "Salchichón Natural": 370,
+            "Jamón Serrano": 500,
+            "Jamón Pastrami de Ternera": 500,
+            "Jamón de Pechuga de Pollo": 500,
+            "Lomo de Cerdo Disco": 500,
+            "Pasta de Atún": 820,
+            "Queso Blanco": 135,
+            "Queso Cheddar": 190,
+            "Queso Cheddar Fundido": 210,
+            "Queso Curado con Trufas": 240,
+            "Queso Azul Gorgonzola": 300,
+            "Queso Gouda": 350,
+            "Queso Blanco Lombardo": 650
+        },
+        "desserts": {
+            "Croissant": 450
+        },
+        "drinks": {
+            "Batido de Helado": 1000,
+            "Batido de Helado con Gomitas": 1400,
+            "Batido de Helado BRUTAL": 2000
+        },
+        "plus": {
+            "Pozuelo, Tenedor": 120,
+            "Termopack": 100
+        }
+    }
+}

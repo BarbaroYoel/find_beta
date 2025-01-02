@@ -1,0 +1,93 @@
+{
+    "municipality": "sm",
+    "name": "GaraG",
+    "address": "C. Guanabacoa #1214 % B y C, Los Angeles",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": null,
+        "reservations": null,
+        "delivery": null,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Picadera GaraG": 3500,
+            "Toston Alfredo": 750,
+            "Eperlan": 1650,
+            "Fajitas de pollo": 1225,
+            "Fajitas de cerdo": 1550,
+            "Croquetas de Mima": 750,
+            "Ceviche": 900,
+            "Tacos de Carnita": 1205,
+            "Tacos Marinesos": 1295,
+            "Ensalada Fria": 750,
+            "Coctel de Camaron": 1250
+        },
+        "main_courses": {
+            "Napoles (pasta)": 930,
+            "Napoles (pizza)": 930,
+            "Anti Hawaiana": 1555,
+            "Lechocita": 1595,
+            "5 Quesos": 1650,
+            "Filete de pescado grille": 1920,
+            "Filete de pescado empanado": 1980,
+            "Filete de pescado GaraG": 2225,
+            "Canciller": 2150,
+            "Filete Alfredo": 2150,
+            "Masas de pescado al ajito": 1920,
+            "Pargo frito": 2150,
+            "Pollo frito": 1350,
+            "Bistec de pollo grille": 1350,
+            "Pollo empanado": 1450,
+            "Cordon Blue": 1925,
+            "Bistec de cerdo encebollado": 1950,
+            "Cerdo grille": 1700,
+            "Cerdo empanado": 1750,
+            "Cerdo Uruguayo": 1955,
+            "Masa de cerdo frita": 2200,
+            "Cerdo asado": 2150,
+            "Camaron al ajillo": 2300,
+            "Camaron grille": 2105,
+            "Camaron enchilado": 2230,
+            "Camaron emapanado": 2290,
+            "Aporreado de res": 1950,
+            "Ropa vieja": 1930,
+            "Arroz frito especial": 1350,
+            "Arroz frito": 1200,
+            "Ensalada estacion": 350,
+            "Vegetal salteado": 350
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "Copa de helado": 400,
+            "Copa lolita": 650,
+            "Cake a la moda": 850,
+            "Batido de helado": 750
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

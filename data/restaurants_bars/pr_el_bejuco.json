@@ -1,0 +1,103 @@
+{
+    "municipality": "pr",
+    "name": "El bejuco",
+    "address": "Calle Línea 1206 e/ 18 y 20, Vedado",
+    "contacts": {
+        "phone": [
+            50671673
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.8
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Entrantes",
+    "hours": {
+        "monday": "0900_0400",
+        "tuesday": "0900_0400",
+        "wednesday": "0900_0400",
+        "thursday": "0900_0400",
+        "friday": "0900_0400",
+        "saturday": "0900_0400",
+        "sunday": "0900_0400"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Combo Dulce": 950,
+            "Combo salado": 950,
+            "Tostadas con Dulce": 250,
+            "Tostadas con salsa": 250,
+            "Fruta de Temporada": 250,
+            "Picadera simple": 600,
+            "Picadera guajira": 1200,
+            "Chicharritas": 300,
+            "Tamal con cerdo": 900,
+            "Tamal": 200,
+            "Tostones naturales": 400,
+            "Tostones rellenos": 800,
+            "Brusquetas": 500
+        },
+        "main_courses": {
+            "Pan con lechon": 1000
+        },
+        "additions": {
+            "Queso": 150,
+            "Jamon": 200
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Cerveza Cristal(botella)": 350,
+            "Michelada": 750,
+            "Agua": 300,
+            "Refresco": 300,
+            "Jugos Naturales": 250,
+            "Batidos": 350,
+            "Limonada": 500,
+            "Línea Black Tears": 350,
+            "Línea 7 años": 600,
+            "Línea Smoky": 700,
+            "Línea Santiago": 900,
+            "Línea Reserva": 400,
+            "Tequila Blanco": 350,
+            "Copa de vino": 500,
+            "Tequila reposado": 500,
+            "Mojito": 500,
+            "Cuba libre": 450,
+            "Caipirina": 400,
+            "Caipiroska": 400,
+            "Caipirisima": 400,
+            "Canchanchara": 450,
+            "Melonada": 700,
+            "Verano en un vaso": 600,
+            "Tinto de verano": 600,
+            "Pina colada": 700,
+            "Bejuco colorao": 700,
+            "Bejuco Gin": 700,
+            "Cubata en reserva": 650,
+            "Cubata con 7 años": 800,
+            "Cafe expreso": 150,
+            "Cortado": 250,
+            "Capuccino": 300,
+            "Frappuccino": 350,
+            "Macchiato": 250,
+            "Iced Latte": 350,
+            "Americano": 350
+        },
+        "plus": {}
+    }
+}

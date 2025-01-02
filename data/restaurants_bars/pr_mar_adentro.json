@@ -1,0 +1,117 @@
+{
+    "municipality": "Plaza de la Revolución",
+    "name": "Mar Adentro",
+    "address": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba",
+    "contacts": {
+      "phone": [
+        "+5378332060"
+      ],
+      "website": "https://bio.site/maradentro",
+      "facebook": "https://www.facebook.com/maradentrohabana",
+      "instagram": "https://www.instagram.com/maradentrohabana"
+    },
+    "ratings": {
+      "tripadvisor": null,
+      "google": null
+    },
+    "owner": "privado",
+    "type": "restaurant",
+    "specialty": "Mediterranean, Fusion, Cuban",
+    "hours": {
+      "monday": "0900_0030",
+      "tuesday": "0900_0030",
+      "wednesday": "0900_0030",
+      "thursday": "0900_0030",
+      "friday": "0900_0030",
+      "saturday": "0900_0030",
+      "sunday": "0900_0030"
+    },
+    "services": {
+      "parking": true,
+      "reservations": true,
+      "delivery": true,
+      "power plant": null
+    },
+    "payment_methods": [
+      "cash",
+      "credit_card"
+    ],
+    "menu": {
+      "breakfasts": {
+        "inglés": 2000,
+        "continental": 2000,
+        "americano": 2200
+      },
+      "starters": {
+        "cesta de pan": 750,
+        "focaccia al romero": 700,
+        "focaccia de jamón serrano, tomate y rúcula": 2000,
+        "bruchettas": 1800,
+        "empanadillas de cangrejo o piña y queso": 1200,
+        "tostones rellenos": 1300,
+        "chispitas de malanga con camarones": 1100,
+        "croquetas de pescados o pollo": 1200,
+        "casabe taíno": 990,
+        "tacos de vaca frita o pescado": 1900,
+        "ceviche maradentro": 2100,
+        "rollitos de salmón": 2200,
+        "carpaccio de tuna": 2300,
+        "sushi/nigiri": 2000,
+        "dumplings de carne": 1800,
+        "carpaccio de res": 2800
+      },
+      "main_courses": {
+        "pollo horneado": 2600,
+        "pechuga de pollo grillada": 2800,
+        "chilindrón de cordero al tinto": 3500,
+        "masas de cerdo confitadas": 3200,
+        "lonjas de cerdo asadas en cazuela": 3400,
+        "costillas guajiras": 3800,
+        "ropa vieja frita": 2700,
+        "bistec de palomilla": 6800,
+        "chivito uruguayo": 8200,
+        "camarones": 3600,
+        "langosta": 4300,
+        "pesca del día": 3200
+      },
+      "additions": {},
+      "fittings": {
+        "arroz blanco": 700,
+        "arroz verde": 700,
+        "frijoles dormidos": 700,
+        "moros y cristianos": 700,
+        "tostones": 700,
+        "maduros": 700,
+        "puré de boniato": 700
+      },
+      "desserts": {
+        "copa de helado": 800,
+        "brownie y helado": 1300,
+        "cheesecake de guayaba": 1200,
+        "casquitos de guayaba con queso guajiro": 900,
+        "flan licuado": 1200,
+        "tarta de limón": 1000
+      },
+      "drinks": {
+        "limonada natural": 950,
+        "limonada frescura": 950,
+        "maradentro": 950,
+        "clarete": 950,
+        "vino blanco de verano": 950,
+        "licor marejada": 950,
+        "rubi": 950,
+        "limonada pepino y jengibre": 950,
+        "agua nacional": 450,
+        "agua importada": 500,
+        "agua tónica nacional": 700,
+        "agua tónica importada": 800,
+        "refresco nacional": 450,
+        "refresco importado": 600,
+        "malta": 500,
+        "energizantes": 600,
+        "batido de frutas": 750,
+        "batido de helado": 900
+      },
+      "plus": {}
+    }
+  }

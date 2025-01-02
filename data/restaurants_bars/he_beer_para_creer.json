@@ -1,0 +1,87 @@
+{
+    "municipality": "he",
+    "name": "Beer para creer",
+    "address": "Centro comercial Falcon, Alamar",
+    "contacts": {
+      "phone": null,
+      "website": null,
+      "facebook": null,
+      "instagram": null
+    },
+    "ratings": {
+     
+    },
+    "owner": "Privado",
+    "type": "Bar-Cafeteria",
+    "specialty": "Comida mixta",
+    "hours": {
+      "monday": "1000_2100",
+      "tuesday": "1000_2100",
+      "wednesday": "1000_2100",
+      "thursday": "1000_2100",
+      "friday": "1000_2100",
+      "saturday": "1000_2100",
+      "sunday": "1000_2100"
+    },
+    "services": {
+      "parking": true,
+      "reservations": false,
+      "delivery": false,
+      "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "eur"
+    ],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "Hamurguesa simple": 450,
+        "Hamburguesa especial": 550,
+        "Sandwich pinareno": 900,
+        "Croquetas del Chef": 650,
+        "Pan con lechon": 350,
+        "Sandwish cubano con lechon": 950
+      },
+      "main_courses": {
+        "Fajitas de pollo": 850,
+        "Spaghettis napolitanos": 520,
+        "Arroz frito": 800,
+        "Masas de cerdo fritas": 1350,
+        "Ropa vieja de cerdo": 1400,
+        "Fricase de cerdo": 1400,
+        "Bistec de cerdo grille": 850,
+        "Bistec de cerdo Princesa": 1100,
+        "Milanesa de cerdo": 1100,
+        "Envoltino de cerdo": 1250,
+        "Lomo ahumado": 1000,
+        "Lonjas de cerdo asadas al carbon": 1300,
+        "Uruguayo de cerdo": 1150,
+        "Escalope de cerdo": 950,
+        "Gordon Blue de cerdo": 1250,
+        "Bistec de pollo grille": 850,
+        "Bistec de pollo gratinado": 1200,
+        "Fricase de pollo": 1400,
+        "Arroz a la chorrera": 1400,
+        "Pollo chiflado": 850,
+        "Pizza de queso blanco": 160,
+        "Pizza de queso gouda": 250
+      },
+      "additions": {
+        "Jamon": 100,
+        "Queso blanco": 80,
+        "Cebolla": 120,
+        "Chorizo": 100
+      },
+      "fittings": {
+        "Arroz blanco": 250,
+        "Arroz moro": 180,
+        "Vianda frita": 100,
+        "Ensalada de vegetales": 80
+      },
+      "desserts":{} ,
+      "drinks": {},
+      "plus": {}
+    }
+  }

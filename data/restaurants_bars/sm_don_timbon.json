@@ -1,0 +1,54 @@
+{
+    "municipality": "sm",
+    "name": "Don Timbon",
+    "address": null,
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "cafeteria",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0900_2200",
+        "tuesday": "0900_2200",
+        "wednesday": "0900_2200",
+        "thursday": "0900_2200",
+        "friday": "0900_2200",
+        "saturday": "0900_2200",
+        "sunday": "0900_2200"
+    },
+    "services": {
+        "parking": null,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "arroz salteado": 500,
+            "hamburguesa sencilla": 350,
+            "pan con bistec": 550,
+            "lasaña": 550,
+            "espaguetti": 300,
+            "pizza napolitana": 160
+        },
+        "additions": {
+            "jamón": 80,
+            "chorizo": 100,
+            "atún": 100
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "municipality": "Cotorro",
+    "name": "El Desafío",
+    "address": "calle 58 número 6712 % 67 y 69, Cotorro",
+    "contacts": {
+        "phone": [
+            "+5363510685"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1200_2200",
+        "tuesday": "1200_2200",
+        "wednesday": "1200_2200",
+        "thursday": "1200_2200",
+        "friday": "1200_2200",
+        "saturday": "1200_2200",
+        "sunday": "1200_2200"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Tostones campesinos": 435,
+            "Eperlan": 985,
+            "Croquetas": 575,
+            "Coctel de langosta": 1135
+        },
+        "main_courses": {
+            "Filete de pescado empanado": 1995,
+            "Masa frita": 1885,
+            "Bistec de Cerdo": 1885,
+            "Lomo deshuesado": 1885,
+            "Pierna ahumada": 1945,
+            "Filete de cerdo": 2995,
+            "Costilla": 1935,
+            "Langosta": 1985,
+            "Pechuga a la brasa": 1535,
+            "Enchilado de langosta": 2235,
+            "Langostón": 2685,
+            "Lomo al carbón": 4440,
+            "Chuleta": 1935
+        },
+        "additions": {},
+        "fittings": {
+            "Arroz blanco": 155,
+            "Arroz Moro": 270
+        },
+        "desserts": {
+            "Dulce de leche": 795
+        },
+        "drinks": {
+            "Cerveza Heineken": 325,
+            "Cerveza unlager": 295,
+            "Cerveza Hollandia": 270,
+            "Cerveza Ashe": 270,
+            "Cerveza Kiss": 265,
+            "Refresco de Cola": 270,
+            "Refresco de limon": 270,
+            "Malta Morena": 325,
+            "Yogurt de sabor": 225,
+            "Agua natural": 225,
+            "Energizante": 295
+        },
+        "plus": {}
+    }
+}

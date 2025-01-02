@@ -1,0 +1,76 @@
+{
+    "municipality": "sm",
+    "name": "El Pecado",
+    "address": "calle Matos #152 % Fernanda y Central, La Fernanda",
+    "contacts": {
+        "phone": [
+            "76795921",
+            "52828577"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": null,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Aceitunas": 350,
+            "Entremes de jamon y queso": 300,
+            "Bolitas de queso": 350,
+            "Papitas fritas": 350,
+            "Croquetas": 340,
+            "Fajitas de pollo": 500,
+            "Eperelan de pescado": 600,
+            "Coctel de camaron": 570,
+            "Tostones de jamon y queso": 380,
+            "Tostones de atun": 450,
+            "Picadera Pecado": 1200
+        },
+        "main_courses": {
+            "Cerdo grille": 650,
+            "Masas ritas": 750,
+            "Solomillo de cerdo": 720,
+            "Costillas en salsa BBQ": 600,
+            "Bistec Uruguayo de cerdo": 850,
+            "Pechuga empanada": 700,
+            "Pechuga grille": 650,
+            "Pechuga princesa": 800,
+            "Pechuga Gordon blue": 850,
+            "Filete de pescado": 730,
+            "Pescado canciller": 950,
+            "Pescado Jhonbill": 1200,
+            "Pescado empanado": 780,
+            "Ropa vieja": 650,
+            "Vaca frita": 720,
+            "Filete de res encebollado": 750,
+            "Uruguayo de res": 730,
+            "Camarones": 750
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

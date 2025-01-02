@@ -1,0 +1,79 @@
+{
+    "municipality": "ch",
+    "name": "Tutti Frutti",
+    "address": "San Lazaro entre San Fransico y Espada",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Desayunos",
+    "hours": {
+        "monday": "0800_2000",
+        "tuesday": "0800_2000",
+        "wednesday": "0800_2000",
+        "thursday": "0800_2000",
+        "friday": "0800_2000",
+        "saturday": "0800_2000",
+        "sunday": "0800_2000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup",
+        "mlc",
+        "usd"
+    ],
+    "menu": {
+        "breakfasts": {
+            "Desayuno completo": 1200,
+            "Dulce de fruta": 600,
+            "Sándwiche Cubano": 1200,
+            "Sándwiches Aguacate": 1200
+        },
+        "starters": {},
+        "main_courses": {},
+        "additions": {
+            "Huevo": 250,
+            "Atún": 800,
+            "Jamón": 300,
+            "Pollo": 500,
+            "Cebolla": 200
+        },
+        "fittings": {},
+        "desserts": {
+            "Copa de frutas": 400,
+            "Tutti Frutti": 500,
+            "Frutas dulces": 300
+        },
+        "drinks": {
+            "Jugo Natural": 400,
+            "Batidos": 600,
+            "Champola": 600,
+            "Smoothies": 800,
+            "Leche": 400,
+            "Café": 900,
+            "Cocteles": {
+                "Mojito": 700,
+                "Mojito Tutti Frutti": 800,
+                "Daiquirí": 700,
+                "Daiquirí Tutti Frutti": 800,
+                "Santiago": 900,
+                "Cuba Libre": 700,
+                "Piña Colada": 900,
+                "Canchánchara": 800,
+                "Caribbean": 900,
+                "Emma": 900
+            },
+            "plus": {}
+        }
+    }
+}

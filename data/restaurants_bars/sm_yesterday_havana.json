@@ -1,0 +1,97 @@
+{
+    "municipality": "sm",
+    "name": "Yesterday Havana",
+    "address": "Rita % Blanchi y Calzada de Guines",
+    "contacts": {
+        "phone": [
+            "76930649"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0900_2200",
+        "tuesday": "0900_2200",
+        "wednesday":"0900_2200",
+        "thursday": "0900_2200",
+        "friday": "0900_2200",
+        "saturday": "0900_2200",
+        "sunday": "0900_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Picadera Yesterday": 3000,
+            "Papas fritas": 600,
+            "Tacos de cerdo": 800,
+            "Tacos de pollo": 800,
+            "Ceviche": 800,
+            "Eperlan": 900,
+            "Coctel de camarones": 1000,
+            "Entremes de jamon, queso y chorizo": 800,
+            "Ensalada fria": 650,
+            "Toston al ajo": 600,
+            "Frituras de malanga": 500,
+            "Croquetas de la casa": 500,
+            "Fajitas de pollo": 950,
+            "Fajitas de cerdo": 950,
+            "Brochetas mixtas": 2500,
+            "Garbanzo frito": 2000,
+            "Fabada": 2000,
+            "Cema del dia": 1000
+        },
+        "main_courses": {
+            "Mariscada Yesterday": 7000,
+            "Calamar al gusto": 3000,
+            "Langosta al gusto": 3000,
+            "3 delicias": 3000,
+            "Camarones al ajo": 2000,
+            "Camarones grille": 2000,
+            "Enchilado de camarones": 2000,
+            "Camaron empanado": 2500,
+            "Filete de pescado": 1800,
+            "Filete de pescado Jhombill": 2200,
+            "Rueda de pescado frito": 2500,
+            "Bistec de cerdo": 1800,
+            "Cerdo encebollado": 2000,
+            "Pechuga de pollo grille": 1800,
+            "Mar y tierra": 5500,
+            "Mar y tierra res": 5500,
+            "Cordero al vino": 3000,
+            "Costillas de cerdo": 3000,
+            "Cerdo desmechado": 3000,
+            "Masas fritas": 3000,
+            "Lonjas de cerdo": 3000,
+            "Lonjas ahumadas": 3000,
+            "Uruguayo": 2500,
+            "Canciller": 2500,
+            "Corden bleu": 2500,
+            "Solomillo de cerdo": 4000,
+            "Arroz a la marinera": 3500,
+            "Arroz campesino": 3000,
+            "Arroz frito (camaron)": 2000,
+            "Arroz frito (langosta)": 2500,
+            "Ropa vieja": 2500,
+            "Bistec de res": 2500
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

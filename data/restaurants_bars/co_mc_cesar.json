@@ -1,0 +1,107 @@
+{
+    "municipality": "Cotorro",
+    "name": "Mc.Cesar",
+    "address": "calle primer entre 220 y 221, Cotorro",
+    "contacts": {
+        "phone": [
+            "+5359770018"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "",
+        "tuesday": "0930_2300",
+        "wednesday": "0930_2300",
+        "thursday": "0930_2300",
+        "friday": "0930_2300",
+        "saturday": "0930_2300",
+        "sunday": "0930_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Dados jamo-queso": 1000,
+            "Eperlan": 1300,
+            "Ensalada fria": 300,
+            "Tostones rellenos": 600,
+            "Tostones Criollos": 350,
+            "Croquetas de la casa": 500,
+            "Picadera Mc.Cesar": 2500
+        },
+        "main_courses": {
+            "Hamburguesa de Cerdo": 500,
+            "Pan de Atun": 600,
+            "Pan de jamon-queso": 500,
+            "Pan con pechuga": 500,
+            "Pan con bistec": 500,
+            "Garbanzos fritos": 1000,
+            "Higado de cerdo a la italiana": 1000,
+            "Salteado de Vegetales": 1500,
+            "Uruguayo": 1500,
+            "Brocha Cerdo-Pollo": 1700,
+            "Bistec Grille": 1300,
+            "Faja de Cerdo": 1400,
+            "Escalope": 1400,
+            "Solomillo": 2000,
+            "Lomo ahumado deshuesado": 1300,
+            "Pechuga Grille": 1300,
+            "Salteado de Pollo": 1400,
+            "Pollo deshuesado": 900,
+            "Goldon Blue": 1500,
+            "Suprema Princesa": 1500,
+            "Ropa Vieja": 1800,
+            "Vaca Frita": 1800,
+            "Bistec de Res": 2000,
+            "Pescado Grille": 1500,
+            "Pescado Mc.Cesar": 2500,
+            "Canciller": 1800,
+            "Pescado Empanado": 1600,
+            "Pescado con salsa de limon": 1700,
+            "Camaron Grille": 1900,
+            "Camaron al ajillo": 1900,
+            "Camaron Enchilado": 2000,
+            "Pizza": 500,
+            "Espaguetis": 500
+        },
+        "additions": {
+            "atun": 400,
+            "cebolla": 250,
+            "pimiento": 300,
+            "queso": 300,
+            "jamon": 200,
+            "piña": 200,
+            "chorizo": 200
+        },
+        "fittings": {
+            "Arroz a la campesina": 1500,
+            "Arroz Moro": 300,
+            "Arroz Blanco": 200,
+            "Arroz Frito": 500
+        },
+        "desserts": {
+            "Torrejas": 500,
+            "Ensalada Helado": 500,
+            "Bola de Helado": 100,
+            "Batido de Helado": 500
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}
