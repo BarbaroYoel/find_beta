@@ -1,0 +1,74 @@
+{
+  "municipality": "rg",
+  "name": "2KFE",
+  "address": "4MH8+57M entre Martí y Maceo, Pereira, La Habana",
+  "contacts": {
+    "phone": [],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "google": 5.0
+  },
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Mexicana ",
+  "hours": {
+    "monday": "1000_2000",
+    "tuesday": "1000_2000",
+    "wednesday": "1000_2000",
+    "thursday": "1000_2000",
+    "friday": "1000_2000",
+    "saturday": "1000_2000",
+    "sunday": "1000_2000"
+  },
+  "services": {
+    "parking": null,
+    "reservations": false,
+    "delivery": null,
+    "power plant": null
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Croquetas": 300.00,
+      "Viandas fritas": 100.00,
+      "Brusquetas": 250.00,
+      "Entremes surtido": 800.00,
+      "Mini Gordon Bleu": 800.00,
+      "Plato combinado": 1200.00
+    },
+    "main_courses": {
+      "Tacos Carnitas": 850.00,
+      "Tacos Res": 900.00,
+      "Tacos Pollo": 600.00,
+      "Tacos Vegetariano": 400.00,
+      "Tacos Vegetales salteados en mantequilla y limón": 0.00,
+      "Tacos Jamón y Queso": 650.00
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {},
+    "drinks": {
+      "Espresso": 100.00,
+      "Americano": 100.00,
+      "Cortadito": 150.00,
+      "Con Leche": 200.00,
+      "Espresso Macchiato": 180.00,
+      "Caramel Macchiato": 250.00,
+      "Cappuccino": 220.00,
+      "Frappuccino": 500.00,
+      "Irlandés": 250.00,
+      "Caribeño": 180.00,
+      "Alma mía": 180.00,
+      "Minty Coffee": 250.00,
+      "2KF": 250.00,
+      "Lujo": 600.00
+    },
+    "plus": {}
+  }
+}

@@ -1,0 +1,75 @@
+{
+    "municipality": "mn",
+    "name": "Los taticos",
+    "address": "27 y 27A",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0800_0000",
+        "tuesday": "0800_0000",
+        "wednesday": "0800_0000",
+        "thursday": "0800_0000",
+        "friday": "0800_0000",
+        "saturday": "0800_0000",
+        "sunday": "0800_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+       "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Picadera Tatico": 2800,
+            "Entremes surtido": 800,
+            "Tostones rellenos": 800,
+            "Bolitas de queso": 800,
+            "Bolitas de carne": 800,
+            "Croquetas caseras": 800
+        },
+        "main_courses": {
+            "Lasagña": 1250,
+            "Pizza Tatico": 1200,
+            "Pizza mixta": 680,
+            "pizza hawaiana": 680,
+            "pizza jamon": 680,
+            "pizza de queso": 680,
+            "Taco de cerdo": 650,
+            "Pollo al carbon": 1200,
+            "Taco de carne": 800,
+            "Taco de atun": 800,
+            "Super Hamburguesa Tatico": 900,
+            "Hamburguesa Tatico": 750,
+            "Super hamburguesa queso": 800,
+            "Hamburguesa queso": 650,
+            "Super hamburguesa sencilla": 700,
+            "Hamburguesa sencilla": 600,
+            "Sandwich Tatico": 650,
+            "Bocadito de atun": 600,
+            "Pan con lechon": 650,
+            "Pan con croqueta": 240
+        },
+        "additions": {
+            "Arroz blanco": null,
+            "frijoles": null,
+            "Arroz moro": null
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

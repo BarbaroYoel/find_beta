@@ -1,0 +1,58 @@
+{
+    "municipality": "mn",
+    "name": "Cafeteria obelisco",
+    "address": "Avenida 31 ",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Estatal",
+    "type": "Restaurante",
+    "specialty": "Variada",
+    "hours": {
+        "monday": "0900_1800",
+        "tuesday": "0900_1800",
+        "wednesday": "0900_1800",
+        "thursday": "0900_1800",
+        "friday": "0900_1800",
+        "saturday": "0900_1800",
+        "sunday": "0900_1800"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {
+            "Pan con queso y embutido": 250
+        },
+        "starters": {
+            "bolitas de carne": 20,
+            "Dados de queso": 180
+        },
+        "main_courses": {
+            "Pizza de queso": 200,
+            "Frijol negro": 55,
+            "Arroz blanco": 70
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "agua saborizada": 50,
+            "agua natural": 180,
+            "Cerveza cristal": 180,
+            "Vino blanco entre Rio": 160,
+            "Vino blanco": 160,
+            "Cerveza": 50
+        },
+        "plus": {
+        }
+    }
+}

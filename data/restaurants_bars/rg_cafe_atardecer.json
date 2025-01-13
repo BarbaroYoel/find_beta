@@ -1,0 +1,62 @@
+{
+  "municipality": "rg",
+  "name": "Cafe Atardecer",
+  "address": "Martí entre Perdomo y Albuquerque, Regla, La Habana, Cuba",
+  "contacts": {
+    "phone": [],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "google": 5.0
+  },
+  "owner": "Estatal",
+  "type": "Restaurante",
+  "specialty": "Comida Cubana",
+  "hours": {
+    "monday": "0700_1900",
+    "tuesday": "0700_1900",
+    "wednesday": "0700_1900",
+    "thursday": "0700_1900",
+    "friday": "0700_1900",
+    "saturday": "0700_1900",
+    "sunday": "0700_1900"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {},
+    "main_courses": {
+      "pollo_empanado": 450,
+      "pollo_fajitas": 450,
+      "cerdo_escalope": 480,
+      "cerdo_fajitas": 480,
+      "cerdo_fricesse": 380,
+      "pescado_empanado": 330
+    },
+    "additions": {},
+    "fittings": {
+      "Arroz blanco": 480,
+      "Vianda frita": 640,
+      "Papas fritas": 800,
+      "Pure de malanga": 980,
+      "Yuca con mojo": 650,
+      "Arroz moros y cristianos": 800
+    },
+    "desserts": {},
+    "drinks": {
+      "refresco": 20,
+      "cafe": 15
+    },
+    "plus": {}
+  }
+}

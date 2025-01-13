@@ -1,0 +1,88 @@
+{
+    "municipality": "pl",
+    "name": "Qbanas 60",
+    "address": "",
+    "contacts": {
+        "phone": [],
+        "website": "https://qbanas60.com",
+        "facebook": null,
+        "instagram": "@qbanas.60"
+    },
+    "ratings": {},
+    "owner": "",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Chatarra",
+    "hours": {
+        "monday": "0000_0000",
+        "tuesday": "0000_0000",
+        "wednesday": "0000_0000",
+        "thursday": "0000_0000",
+        "friday": "0000_0000",
+        "saturday": "0000_0000",
+        "sunday": "0000_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {
+            "desayuno americano": 1500
+        },
+        "starters": {
+            "bolitas de queso": 800,
+            "croquetas de pollo": 650,
+            "frituras de malanga": 500,
+            "papas fritas": 500,
+            "papas fritas con bacon y queso": 950
+        },
+        "main_courses": {
+            "hamburguesa de cerdo": 1400,
+            "pizza cubana": 400,
+            "pizza trufada con tomate asado": 1500,
+            "pollo chiflado": 1200,
+            "sandwich de queso": 600,
+            "huevos rotos": 1500,
+            "hamburguesa americana": 1700
+        },
+        "additions": {
+            "cheddar": 300,
+            "bacon": 500,
+            "huevo": 300,
+            "gouda": 300,
+            "cebolla": 250
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "daiquiri": 900,
+            "old fashion": 1800,
+            "sangria": 1000,
+            "servicio de michelada": 600,
+            "servicio de chelada": 350,
+            "pina colada": 1000,
+            "cervezas nacionales": 250,
+            "cerveza tagu": 250,
+            "cervezas importadas": 220,
+            "margarita": 900,
+            "aperol spritz": 1500,
+            "7años": 500,
+            "especial": 400,
+            "red label": 600,
+            "tequila olmeca": 700,
+            "tequila don julio": 1500,
+            "heineken": 400,
+            "daiquiri de arandano o fresa": 1200,
+            "mojito": 700,
+            "gin tonic": 1500,
+            "caipis": 800,
+            "cubata": 700
+        },
+        "plus": {}
+    }
+}

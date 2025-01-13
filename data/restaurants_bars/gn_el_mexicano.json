@@ -1,0 +1,68 @@
+﻿{
+  "municipality": "gn",
+  "name": "El Mexicano",
+  "address": "4MHR+MC7, Avenida Quinta, La Habana, Cuba",
+  "contacts": {
+    "phone": [
+      "72635413"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "google": 4.7
+  },
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Mixta",
+  "hours": {
+    "monday": "1000_2200",
+    "tuesday": "1000_2200",
+    "wednesday": "1000_2200",
+    "thursday": "1000_2200",
+    "friday": "1000_2200",
+    "saturday": "1000_2200",
+    "sunday": "1000_2200"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {},
+    "main_courses": {
+      "Sandwich de Jamón y Queso": 350,
+      "Sandwich de Queso Jamón Especial": 600,
+      "Pizza Queso Gouda": 450,
+      "Spaguetti Queso Gouda": 770
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {},
+    "drinks": {
+      "Cerveza": 200,
+      "Holandia": 200,
+      "Cristal Lata": 250,
+      "Cristal Botella": 200,
+      "Shaka": 350,
+      "Tigon": 300,
+      "Malta 1 Hyper": 270,
+      "Pepsi": 270,
+      "Mirinda": 280,
+      "Perla negra": 270,
+      "Ironbeer": 240,
+      "Orange": 220,
+      "Cola Polo": 220,
+      "Limon": 220,
+      "Coca Cola": 280
+    },
+    "plus": {}
+  }
+}

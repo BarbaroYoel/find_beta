@@ -1,122 +1,117 @@
 {
-    "municipality": "Plaza de la Revolución",
-    "name": "Wapa",
-    "address": "Calle 4 entre 15 y 17, Vedado, Plaza",
-    "contacts": {
-      "phone": [
-        "+5378314553"
-      ],
-      "website": null,
-      "facebook": "https://www.facebook.com/Wapa537/?locale=es_LA",
-      "instagram": "https://www.instagram.com/wapa537/?hl=es"
-    },
-    "ratings": {
-      "tripadvisor": null,
-      "google": null
-    },
-    "owner": "privado",
-    "type": "restaurant",
-    "specialty": "Cuban, Centroamerican",
-    "hours": {
-      "monday": "1130_2300",
-      "tuesday": "0900_2300",
-      "wednesday": "0900_2300",
-      "thursday": "0900_2300",
-      "friday": "0900_2300",
-      "saturday": "0900_2300",
-      "sunday": "0900_2300"
-    },
-    "services": {
-      "parking": true,
-      "reservations": true,
-      "delivery": true,
-      "power plant": null
-    },
-    "payment_methods": [
-      "cash"
+  "municipality": "pr",
+  "name": "Wapa",
+  "address": "Calle 4 entre 15 y 17, Vedado, Plaza",
+  "contacts": {
+    "phone": [
+      "+5378314553"
     ],
-    "menu": {
-      "breakfasts": {
-        "combo 1": 1500,
-        "combo 2": 1900,
-        "combo 3 infantil": 1100,
-        "omelette jardinera": 1200,
-        "omelette tentación": 1200,
-        "omelette del campo": 1100,
-        "omelette": 600
-      },
-      "starters": {
-        "croquetas de la abuela": 700,
-        "croquetas de jamón serrano": 1000,
-        "bolitas de queso": 1000,
-        "crema de queso": 600,
-        "ceviche de pescado": 2000,
-        "ceviche mixto tropical": 2600,
-        "ceviche de camarón": 2900,
-        "cóctel de camarón": 2000,
-        "bastón de pollo": 1900,
-        "daditos de pescado": 2100,
-        "fritura de malanga": 500,
-        "brusquetas": 900,
-        "tartaleta de jamón y queso": 900,
-        "tartaleta de pollo": 1350,
-        "tartaleta de atún": 1100
-      },
-      "main_courses": {
-        "pizza": 1200,
-        "lasaña": 1300,
-        "canelón de jamón": 1200,
-        "canelón boloñesa": 1750
-      },
-      "additions": {},
-      "fittings": {},
-      "desserts": {
-        "wapetón": 2000,
-        "wapetón dinamita": 2000,
-        "wapetón volcán": 2000,
-        "wapito": 1200,
-        "batidos de frutas naturales": 700,
-        "batidos de helados": 1200,
-        "copa de helado": 1000,
-        "tartaleta": 1000,
-        "bola de helado": 300
-      },
-      "drinks": {
-        "agua natural": 300,
-        "refresco importado": 400,
-        "malta": 500,
-        "malteada": 800,
-        "cerveza importada": 450,
-        "cerveza nacional": 550,
-        "michelada": 600,
-        "sangria": 1000,
-        "copa de vino": 800,
-        "cuba libre": 800,
-        "cubata": 850,
-        "mojito": 800,
-        "caipiriña": 500,
-        "caipiroska": 500,
-        "caipirisima": 550,
-        "ron collins": 850,
-        "piña colada": 850,
-        "barbie": 700,
-        "canchánchara": 550,
-        "daiquirí": 650
-      },
-          "coffee": {
-              "expresso": 220,
-              "americano": 360,
-              "cortadito": 250,
-              "cappuccino": 550,
-              "cappuccino wapa": 600,
-              "bombon": 600,
-              "mocaccino": 550,
-              "frappuccino": 950,
-              "Q locura": 850,
-              "café con leche": 550,
-              "chocolate caliente": 350,
-              "té": 100
-          },
-      "plus": {}
-    }
+    "website": null,
+    "facebook": "https://www.facebook.com/Wapa537/?locale=es_LA",
+    "instagram": "https://www.instagram.com/wapa537/?hl=es"
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurant",
+  "specialty": "Comida Cubana",
+  "hours": {
+    "monday": "1130_2300",
+    "tuesday": "0900_2300",
+    "wednesday": "0900_2300",
+    "thursday": "0900_2300",
+    "friday": "0900_2300",
+    "saturday": "0900_2300",
+    "sunday": "0900_2300"
+  },
+  "services": {
+    "parking": true,
+    "reservations": true,
+    "delivery": true,
+    "power plant": null
+  },
+  "payment_methods": [
+    "cash"
+  ],
+  "menu": {
+    "breakfasts": {
+      "combo 1": 1500,
+      "combo 2": 1900,
+      "combo 3 infantil": 1100,
+      "omelette jardinera": 1200,
+      "omelette tentación": 1200,
+      "omelette del campo": 1100,
+      "omelette": 600
+    },
+    "starters": {
+      "croquetas de la abuela": 700,
+      "croquetas de jamón serrano": 1000,
+      "bolitas de queso": 1000,
+      "crema de queso": 600,
+      "ceviche de pescado": 2000,
+      "ceviche mixto tropical": 2600,
+      "ceviche de camarón": 2900,
+      "cóctel de camarón": 2000,
+      "bastón de pollo": 1900,
+      "daditos de pescado": 2100,
+      "fritura de malanga": 500,
+      "brusquetas": 900,
+      "tartaleta de jamón y queso": 900,
+      "tartaleta de pollo": 1350,
+      "tartaleta de atún": 1100
+    },
+    "main_courses": {
+      "pizza": 1200,
+      "lasaña": 1300,
+      "canelón de jamón": 1200,
+      "canelón boloñesa": 1750
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {
+      "wapetón": 2000,
+      "wapetón dinamita": 2000,
+      "wapetón volcán": 2000,
+      "wapito": 1200,
+      "batidos de frutas naturales": 700,
+      "batidos de helados": 1200,
+      "copa de helado": 1000,
+      "tartaleta": 1000,
+      "bola de helado": 300
+    },
+    "drinks": {
+      "agua natural": 300,
+      "refresco importado": 400,
+      "malta": 500,
+      "malteada": 800,
+      "cerveza importada": 450,
+      "cerveza nacional": 550,
+      "michelada": 600,
+      "sangria": 1000,
+      "copa de vino": 800,
+      "cuba libre": 800,
+      "cubata": 850,
+      "mojito": 800,
+      "caipiriña": 500,
+      "caipiroska": 500,
+      "caipirisima": 550,
+      "ron collins": 850,
+      "piña colada": 850,
+      "barbie": 700,
+      "canchánchara": 550,
+      "daiquirí": 650,
+      "expresso": 220,
+      "americano": 360,
+      "cortadito": 250,
+      "cappuccino": 550,
+      "cappuccino wapa": 600,
+      "bombon": 600,
+      "mocaccino": 550,
+      "frappuccino": 950,
+      "Q locura": 850,
+      "café con leche": 550,
+      "chocolate caliente": 350,
+      "té": 100
+    },
+    "plus": {}
   }
+}

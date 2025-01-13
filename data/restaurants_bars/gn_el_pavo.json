@@ -1,0 +1,104 @@
+﻿{
+  "municipality": "gn",
+  "name": "Restaurante El Pavo",
+  "address": "4MFJ+M6J, La Habana",
+  "contacts": {
+    "phone": [
+      "58222469",
+      "77976432"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "tripadvisor": 4.5,
+    "google": 4.3,
+    "facebook": 3.9
+  },
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Criolla",
+  "hours": {
+    "monday": "1200_2300",
+    "tuesday": "1200_2300",
+    "wednesday": "1200_2300",
+    "thursday": "1200_2300",
+    "friday": "1200_2300",
+    "saturday": "1200_2300",
+    "sunday": "1200_2300"
+  },
+  "services": {
+    "parking": null,
+    "reservations": true,
+    "delivery": true,
+    "power plant": null
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Ensalada Fría de Jamón": 450.00,
+      "Ensalada Fría de Atún": 500.00,
+      "Croquetas": 200.00,
+      "Fajitas": 500.00,
+      "Tostón relleno de Jamón": 450.00,
+      "Tostón relleno de Atún": 450.00,
+      "Costillas": 800.00,
+      "Cóctel de Camarón": 700.00,
+      "Garbanzo Frito": 400.00,
+      "Eperlan": 600.00,
+      "Entremés": 800.00
+    },
+    "main_courses": {
+      "Pollo Grille": 1100.00,
+      "Masa de Cerdo": 1600.00,
+      "Cerdo a la Milanesa": 1400.00,
+      "Bistec de Cerdo": 1300.00,
+      "Bistec de Res": 1300.00,
+      "Ropa Vieja": 1600.00,
+      "Camarones Enchilados": 1300.00,
+      "Camarones al Ajillo": 1300.00,
+      "Camarones Grille": 1200.00,
+      "Camarones Rebosados": 1300.00,
+      "Enchilado de Langosta": 1400.00,
+      "Langosta Grille": 1300.00,
+      "Pescado Grille": 1400.00,
+      "Marinada al Pavo": 2500.00,
+      "Pizza Napolitana": 600.00,
+      "Pizza de Vegetales": 650.00,
+      "Pizza de Jamón": 800.00,
+      "Pizza de Chorizo": 800.00,
+      "Pizza Hawaiana": 850.00,
+      "Pizza de Carne": 800.00,
+      "Pizza de Camarones": 1000.00,
+      "Pizza Especial 'El Pavo'": 1500.00,
+      "Espaguetis Napolitano": 600.00,
+      "Espaguetis con Jamón": 800.00,
+      "Espaguetis Boloñesa": 800.00,
+      "Espaguetis con Camarones": 1000.00,
+      "Espaguetis con Atún": 950.00,
+      "Espaguetis con Bacon": 800.00,
+      "Lasagna de Jamón": 800.00,
+      "Lasagna de Carne": 900.00
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {
+      "Flan de Leche": 180.00
+    },
+    "drinks": {
+      "Cerveza Nacional": 250.00,
+      "Cerveza Corona": 300.00,
+      "Agua Natural": 180.00,
+      "Refresco Nacional": 225.00,
+      "Refresco Importado": 260.00,
+      "Malta Importada": 225.00,
+      "Malta HyperMalt": 260.00,
+      "Jugo(Cajita)": 180.00
+    },
+    "plus": {}
+  }
+}

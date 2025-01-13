@@ -1,0 +1,76 @@
+{
+    "municipality": "mn",
+    "name": "La yaya",
+    "address": "100 Y 51",
+    "contacts": {
+        "phone": [
+            "52016522"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Superpicadera": 2500,
+            "Tostones rellenos": 600,
+            "Frituras de malanga": 500,
+            "Papas fritas": 500,
+            "Croquetas": 600
+        },
+        "main_courses": {
+            "Spaguettis con queso gouda": 700,
+            "Spaguettis doble queso": 1000,
+            "Pizza napolitana": 1000,
+            "Pizza doble queso": 1300,
+            "Pizza de jamon": 1350,
+            "Fajitas de pollo con papa": 900,
+            "Hamburguesa": 400,
+            "Hamburguesa yuya": 900,
+            "Pan con jamon": 350,
+            "Pan con perro": 280
+        },
+        "additions": {
+            "Jamon": 260,
+            "Queso": 260,
+            "Salami": 200
+        },
+        "fittings": {},
+        "desserts": {
+            "Helados gusto": 1000
+        },
+        "drinks": {
+            "Refrescos Importados": 250,
+            "Cervezas importadas": 250,
+            "jugo de lata": 280,
+            "jugos caja": 650,
+            "Malta Santa Isabel": 280,
+            "Cerveza Cubelazo": 2700,
+            "Termo de cerveza": 2000
+        },
+        "plus": {}
+    }
+}

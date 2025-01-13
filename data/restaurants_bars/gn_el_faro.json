@@ -1,0 +1,67 @@
+﻿{
+  "municipality": "gn",
+  "name": "El Faro",
+  "address": "4MFW+P84, Maximo Gomez, La Habana, Cuba",
+  "contacts": {
+    "phone": [
+      "59477689"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "google": 3.7
+  },
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Cubana",
+  "hours": {
+    "monday": "0900_2300",
+    "tuesday": "0900_2300",
+    "wednesday": "0900_2300",
+    "thursday": "0900_2300",
+    "friday": "0900_2300",
+    "saturday": "0900_2300",
+    "sunday": "0900_2300"
+  },
+  "services": {
+    "parking": false,
+    "reservations": true,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Enchilado De Cangrejo": 750,
+      "Croqueta De La Casa": 180,
+      "Ensalada Fría De Jamón": 700,
+      "Ensalada Fría De Atún": 1200,
+      "Picadera Tropical": 850,
+      "Plato a lo Cubano": 800
+    },
+    "main_courses": {
+      "Pan Con Hamburguesa": 500,
+      "Hamburguesa Faro": 900,
+      "Costillas de Cerdo": 1200,
+      "Ruedas de pescado Grille": 1400,
+      "Pollo Grille": 950,
+      "Spaguetti Napolitano": 750,
+      "Spaguetti de Jamón": 850,
+      "Pizza El Faro": 900,
+      "Pizza Combinada": 900,
+      "Pizza Hawaiana": 900,
+      "Pizza De Cebolla": 900,
+      "Pizza De Pimiento": 900,
+      "Pizza Gustazo Doble Queso": 900,
+      "Pizza Jamón": 900
+    },
+    "desserts": {},
+    "drinks": {},
+    "plus": {}
+  }
+}

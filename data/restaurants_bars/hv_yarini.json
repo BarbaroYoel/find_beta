@@ -1,0 +1,115 @@
+{
+    "municipality": "hv",
+    "name": "Yarini",
+    "address": "Calle San Isidro #214 entre Picota y Compostela, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "+53 5 8979835"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Cesta de Panes": 1500,
+            "Focaccia de Orégano": 1500,
+            "Calamar a la Andaluza": 2500,
+            "Majuas Fritas": 1900,
+            "Camarones en Tempura": 2500,
+            "Mortadela con Burrata y Pesto": 4500,
+            "Pulpo a la Gallega": 5500,
+            "Tartar de Salmón sobre Arroz Crujiente": 2200,
+            "Focaccia alla Caprese": 2500,
+            "Ensalada Yarini": 2250,
+            "Ensalada César de Pollo": 2500,
+            "Ensalada de Pulpo": 4500,
+            "Ceviche Gaston Acurio": 2500,
+            "Ensalada Griega 214": 2500,
+            "Mini Hamburguesas": 2500,
+            "Croquetas de Ibérico": 1950,
+            "Croquetas de Langosta": 1950,
+            "Croquetas de Frijoles Negros": 1500,
+            "Frituras del Medio Oriente": 1000,
+            "Tabla de Embutidos y Quesos": 5000
+        },
+        "main_courses": {
+            "Focaccia de Jamón Serrano": 3500,
+            "Focaccia de Chorizo": 3200,
+            "Focaccia 4 Quesos": 3500,
+            "Focaccia de Vegetales": 2850,
+            "Carpaccio de Res": 3000,
+            "Adoquines San Isidro": 2800,
+            "¿Qué me trajo el Pescador?": 3800,
+            "Pulpo Yarini": 5500,
+            "Camarones Empanados con Coco": 4500,
+            "Carnero Ararat": 3000,
+            "Masas de Cerdo sobre Puré de Yuca": 3800,
+            "Un Plato Muy Cubano": 3500,
+            "Entraña Argentina": 7500,
+            "Solomillo Argentino": 10500,
+            "Langosta Terminal": 7000,
+            "Langosta Grille": 6500,
+            "Zarzuela de Mariscos": 10000,
+            "Risotto de Mariscos": 5000,
+            "Risotto Cuatro Quesos": 4500,
+            "Risotto Negro de Pulpo y Camarones en Tempura": 4500,
+            "Pasta Fruti di Mare": 4800
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "Festival de Chocolates": 1500,
+            "Tarta Muerte por Chocolate": 1500,
+            "Copa de Helado": 1050
+        },
+        "drinks": {
+            "Piña Colada Clarificada": 1500,
+            "Gin Love": 1500,
+            "1780 JJ&S": 2000,
+            "Miti Miti": 1500,
+            "Pac Man": 1500,
+            "Cachonda": 1300,
+            "Red Passion": 1500,
+            "Tomasa": 1000,
+            "Yarini Mule": 2100,
+            "Sangría Yarini": 1500,
+            "Agua Bendita": 1300,
+            "Al César lo que es del César": 1250,
+            "Pachula": 1000,
+            "Caipirrka": 1700,
+            "Mata Virgen": 1300,
+            "La Jaba'a": 1500,
+            "D.O.C": 1500,
+            "El Gallo": 2400,
+            "El Mulatón": 1500,
+            "El Primero de Cuba": 960,
+            "Penicillin 214": 1800,
+            "San Isidro 214": 960
+        },
+        "plus": {}
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "municipality": "ch",
+    "name": "Pedro's Bar",
+    "address": "latitude: 23.136930631399565,longitude: -82.36181409182808",
+    "contacts": {
+        "phone": [
+            "5510666"
+        ],
+        "website": null,
+        "facebook": "Pedro's Bar",
+        "instagram": "@pedrosbar_boulevard"
+    },
+    "ratings": {
+        "google": 5.0
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Cocteleria",
+    "hours": {
+        "monday": "1400_0200",
+        "tuesday": "1400_0200",
+        "wednesday": "1400_0200",
+        "thursday": "1400_0200",
+        "friday": "1400_0200",
+        "saturday": "1400_0200",
+        "sunday": "1400_0200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": false,
+        "starters": {
+            "papas fritas": 1150,
+            "frituras de malanga": 800,
+            "croquetas": 1050,
+            "dados de queso": 1350,
+            "fajitas de pollo": 1450,
+            "tabla mixta": 4600
+        },
+        "main_courses": {
+            "pizza de queso": 1200,
+            "pizza hawaiana": 1500,
+            "pizza de vegetales": 1500,
+            "sandwich de jamon y queso": 1200,
+            "sandwich de pechuga": 1550,
+            "sandwich de atun": 1500,
+            "sandwich de lechon": 1550
+        },
+        "additions": null,
+        "desserts": null,
+        "drinks": {
+            "agua natural": 250,
+            "refresco": 500,
+            "energizante": 500,
+            "canchanchara": 1150,
+            "mojito": 1100,
+            "caipis": 1100,
+            "daiquiri": 1100,
+            "gin tonic": 1450,
+            "margarita": 1050,
+            "cubata": 1050,
+            "sangria": 1350,
+            "piña colada": 1100,
+            "jarra de cerveza": 350,
+            "cerveza": 600,
+            "vasos de ceveza": 200,
+            "servicio de michelada": 300,
+            "servicio de chelada": 400
+        },
+        "plus": {}
+    }
+}

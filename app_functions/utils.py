@@ -1,22 +1,21 @@
-import pandas as pd
-import json
+import os
 import glob
-# import os
+import json
+import pandas as pd
 
-def crear_data_frame():
- # direccion relativa , modificar  
- ruta_archivos = "/home/barbaro-yoel/Documentos/Estudio/MATCOM/Data Science/1ro/Primer Semestre/IP - ICD/Proyecto ICD-IP/Find Beta/data/restaurants_bars/*.json"
+def create_data_frame():
+    """
+    Reads all JSON files from the 'data/restaurants_bars' directory
+    and loads them into a pandas DataFrame.
 
- data = []
- 
- for archivo in glob.glob(ruta_archivos):
-    with open(archivo, 'r', encoding='utf-8') as f:
-        contenido = json.load(f)
-        data.append(contenido)
-
- df = pd.DataFrame(data)
- return df
-
-df =crear_data_frame()
-
-print(df)
+    Returns:
+        pd.DataFrame: A DataFrame containing all the restaurant and bar data.
+    """
+    parent_path = os.path.dirname(os.getcwd())
+    files_path = os.path.join(parent_path, "data/restaurants_bars/*.json")
+    json_files = glob.glob(files_path)
+    data = []
+    for file in json_files:
+        with open(file, 'r', encoding='utf-8-sig') as f:
+            data.append(json.load(f))
+    return pd.DataFrame(data)

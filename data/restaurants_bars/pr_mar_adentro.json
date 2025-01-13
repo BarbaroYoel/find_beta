@@ -1,5 +1,5 @@
 {
-    "municipality": "Plaza de la Revolución",
+    "municipality": "pr",
     "name": "Mar Adentro",
     "address": "Calle C, #15, entre 1ª y 3ª, Havana, Cuba",
     "contacts": {
@@ -11,12 +11,11 @@
       "instagram": "https://www.instagram.com/maradentrohabana"
     },
     "ratings": {
-      "tripadvisor": null,
-      "google": null
+
     },
-    "owner": "privado",
-    "type": "restaurant",
-    "specialty": "Mediterranean, Fusion, Cuban",
+    "owner": "Privado",
+    "type": "Restaurant",
+    "specialty": "Comida Mixta",
     "hours": {
       "monday": "0900_0030",
       "tuesday": "0900_0030",

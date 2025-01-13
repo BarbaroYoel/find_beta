@@ -1,0 +1,72 @@
+{
+    "municipality": "do",
+    "address": "Calle 1ra #64 Altos entre Gertrudis y Lagueruela, La Víbora, Diez de Octubre",
+    "contacts": {
+        "phone": [
+            "76988258",
+            "53578505"
+        ],
+        "website": "https://pizzeria-dmitu.ola.click",
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+        "monday": "",
+        "tuesday": "1000_2200",
+        "wednesday": "1000_2200",
+        "thursday": "1000_2200",
+        "friday": "1000_2200",
+        "saturday": "1000_2200",
+        "sunday": "1000_2200"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+  
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "Pizza Hawaiana": 520,
+            "Pizza Chorizo": 500,
+            "Pizza de Jamon": 490,
+            "Pizza Queso": 380,
+            "Super Pizza Mixta": 900,
+            "Super Pizza Hawaiana": 800,
+            "Super Pizza de Chorizo": 780,
+            "Super Pizza de Jamon": 750,
+            "Super Pizza de Queso": 600,
+            "Canelones": 450,
+            "Lasaña": 500,
+            "Raviolis": 650,
+            "Farfalle": 500,
+            "Espaguetis": 500,
+            "Pizza Familiar mixta Con bordes jamon y queso": 1200,
+            "Pizza Familiar mixta Sin bordes jamon y queso": 1000,
+            "Pastelon": 850,
+            "Fugazzeta D'Mitu": 980,
+            "Pizza Sol": 750,
+            "Pizza D'Mitu": 380,
+            "Takazo": 600,
+            "Calzone D'Mitu": 480,
+            "Super Takaso": 950
+        },
+        "additions": {}, 
+        "fittings": {}, 
+        "desserts": {}, 
+        "drinks": {}, 
+        "plus": {}
+    }
+}

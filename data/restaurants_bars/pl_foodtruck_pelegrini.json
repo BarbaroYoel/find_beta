@@ -1,0 +1,68 @@
+{
+    "municipality": "pl",
+    "name": "FoodTruck Pelegrin",
+    "address": "latitude: 23.111808672085502, longitude: -82.44090092922819",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": "@food_truck_pelegrin"
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Chatarra",
+    "hours": {
+        "monday": "0800_2100",
+        "tuesday": "0800_2100",
+        "wednesday": "0800_2100",
+        "thursday": "0800_2100",
+        "friday": "0800_2100",
+        "saturday": "0800_2100",
+        "sunday": "0800_2100"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {
+            "waffles": 700,
+            "desayuno": 1250
+        },
+        "starters": {
+            "bolitas de queso": 850,
+            "papas fritas": 600,
+            "croquetas": 700,
+            "sándwich jamon y queso": 750,
+            "sandwich atun": 850,
+            "sándwich cubano": 1200,
+            "sándwich pelegrin": 1300,
+            "sandwich pechuga": 2500,
+            "perro caliente": 750,
+            "palomitas": 850
+        },
+        "main_courses": {},
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "jugos": 270,
+            "expresso": 150,
+            "cortado": 250,
+            "capuchino": 400,
+            "café bombon": 450,
+            "frapuchino": 550,
+            "carajillo": 350,
+            "leche fría": 370
+        },
+        "plus": null
+    }
+}

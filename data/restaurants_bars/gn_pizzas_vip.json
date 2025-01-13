@@ -1,0 +1,99 @@
+﻿{
+  "municipality": "gn",
+  "name": "Pizzas Vip",
+  "address": "4M9W+QJH, E Guiral, La Habana",
+  "contacts": {
+    "phone": [
+      "52844312"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": 
+    "Comida Italiana"
+  ,
+  "hours": {
+    "monday": "1000_2200",
+    "tuesday": "1000_2200",
+    "wednesday": "1000_2200",
+    "thursday": "1000_2200",
+    "friday": "1000_2200",
+    "saturday": "1000_2200",
+    "sunday": "1000_2200"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Croquetas de la Casa": 400,
+      "Fritura de Malanga": 300,
+      "Bolita de Queso": 650,
+      "Fajita de Pechuga": 1100,
+      "Ensalada Fría": 370,
+      "Papa Frita": 580,
+      "Fajita de Cerdo": 1200,
+      "Crema de Queso": 500,
+      "Crema Virginia": 550,
+      "Crema Aurora": 520,
+      "Crema Mixta": 600,
+      "Tacos de Jamón": 1030,
+      "Tacos de Res": 1350,
+      "Tacos de Cangrejo": 1380
+    },
+    "main_courses": {
+      "Pizza de Queso": 800,
+      "Pizza de Cebolla": 1000,
+      "Pizza de Pimiento": 1000,
+      "Pizza de Jamón": 1100,
+      "Pizza de Chorizo": 1050,
+      "Pizza de Hawaiana": 1260,
+      "Pizza de Bacón": 1240,
+      "Pizza Doble Queso": 1250,
+      "Pizza de Camarón": 1700,
+      "Pizza de Res": 1300,
+      "Pizza de Atún con Cebolla": 1450,
+      "Pizza de Jamón Serrano": 1570,
+      "Pizza de Aceituna": 1200,
+      "Espaguetis Napolitano": 720,
+      "Espaguetis Boloñesa": 1350,
+      "Espaguetis Carbonara": 1350,
+      "Espaguetis Alfredo": 1150,
+      "Espaguetis de Atún": 1270,
+      "Espaguetis Pollo": 1120,
+      "Espaguetis de Camarones": 1400,
+      "Espaguetis Chorizo": 1150,
+      "Espaguetis Negro Di Mare": 1500
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {},
+    "drinks": {
+      "Henike": 360,
+      "Cerveza Importada": 250,
+      "Cerveza de Lata Cristal": 300,
+      "Cerveza de Botella": 300,
+      "Pomitos de Agua": 150,
+      "Refresco de Pomito": 180,
+      "Refresco de Lata": 220,
+      "Malta": 300,
+      "Jugos de Lata": 280,
+      "Jugos de Cajita": 180,
+      "Tigón": 300,
+      "Refresco Importado": 280,
+      "Malta Importada": 270
+    },
+    "plus": {}
+  }
+}

@@ -1,0 +1,80 @@
+{
+    "municipality": "hv",
+    "name": "Café Del Ángel",
+    "address": "Chacón #201 esquina Compostela, Habana Vieja",
+    "contacts": {
+        "phone": ["078015162"],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado", 
+    "type": "Restaurante-Bar", 
+    "specialty": "", 
+    "hours": {
+        "monday": "0800_2200",
+        "tuesday": "0800_2200",
+        "wednesday": "0800_2200",
+        "thursday": "0800_2200",
+        "friday": "0800_2200",
+        "saturday": "0800_2200",
+        "sunday": "0800_2200"
+    },
+    "services": {
+        "parking": null, 
+        "reservations": true,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": ["cup"], 
+    "menu": {
+        "breakfasts": {
+            "Del Ängel": 2500,
+            "Croissant Madame": 2500,
+            "Omelette al Queso": 1630,
+            "Americano": 2400,
+            "Pancakes": 1700,
+            "Continental": 1600,
+            "Bagel Nórdico": 2450,
+            "Yogurt Parfait": 1360,
+            "Bagel Catalán": 2450
+        },
+        "starters": {
+            "Croquetas Serrano": 1480,
+            "Rillete de Cerdo": 1500,
+            "Tacos de Cerdo": 2200,
+            "Mixto de Brusquetas": 2200,
+            "Tacos de Camarones": 2380,
+            "Empanadillas de Queso": 1400,
+            "Tabla Charcutería": 4000
+        },
+        "main_courses": {
+            "Solomillo de Cerdo": 4200,
+            "Pescado a la Siciliana": 3580,
+            "Ropa Vieja": 3580,
+            "Costillas de Cerdo": 4950,
+            "Hamburguesa de Res": 3200,
+            "Langosta Caribeña": 5400,
+            "Pollo Mediterráneo": 2340
+        },
+        "additions": {}, 
+        "fittings": {
+            "Ensalada del Ángel": 2340,
+            "Baguette de Jamón & Queso": 1600,
+            "Bocata Catalana": 2400,
+            "Sandwich de Atún": 1530,
+            "Sandwich Vegetales": 1530,
+            "Sandwich Cubano": 2600,
+            "Huevos & Pesto": 2400
+        },
+        "desserts": {
+            "Mousse de Chocolate": 1925,
+            "Esfera de Maracuyá": 1925,
+            "Arroz con Leche": 1500,
+            "Dados de Guayaba": 1500
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

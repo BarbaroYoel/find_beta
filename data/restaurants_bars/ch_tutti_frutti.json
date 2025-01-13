@@ -61,7 +61,7 @@
             "Smoothies": 800,
             "Leche": 400,
             "Café": 900,
-            "Cocteles": {
+         
                 "Mojito": 700,
                 "Mojito Tutti Frutti": 800,
                 "Daiquirí": 700,
@@ -72,8 +72,8 @@
                 "Canchánchara": 800,
                 "Caribbean": 900,
                 "Emma": 900
+          
             },
             "plus": {}
-        }
     }
 }

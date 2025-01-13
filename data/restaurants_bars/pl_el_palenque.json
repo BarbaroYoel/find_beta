@@ -1,0 +1,84 @@
+{
+    "municipality": "pl",
+    "name": "El Palenque",
+    "address": " latitude: 23.08636901084588,longitude: -82.4625362784828",
+    "contacts": {
+        "phone": [
+            "72038222"
+        ],
+        "website": null,
+        "facebook": "Restaurante El Palenque",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 3.5
+    },
+    "owner": "Estatal",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1100_2100",
+        "tuesday": "1100_2100",
+        "wednesday": "1100_2100",
+        "thursday": "1100_2100",
+        "friday": "1100_2100",
+        "saturday": "1100_2100",
+        "sunday": "1100_2100"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "cesta de pan": 100,
+            "croquetas": 150,
+            "chicharrones": 400,
+            "entremes surtido": 100,
+            "entremes de jamon y chorizo": 150,
+            "variado de queso": 200
+        },
+        "main_courses": {
+            "arroz con pollo": 250,
+            "pechuga con papas fritas": 700,
+            "fajitas de pollo salteadas": 400,
+            "picadillo de res": 350,
+            "bistec de res": 300,
+            "res de campesina": 400,
+            "pasta napolitana": 250,
+            "lasagna de carne": 200,
+            "chilindron de cordero": 1700,
+            "masas de cerdo fritas": 1000,
+            "bistec de cerdo": 300,
+            "pollo asado 1kg": 630,
+            "cerdo asado 400gr": 800
+        },
+        "additions": {
+            "papas fritas": 215,
+            "ensalada de vegetales": 300
+        },
+        "fittings": {},
+        "desserts": {
+            "mermelada con queso": 60,
+            "arroz con leche": 60,
+            "dulce de frutabomba": 120
+        },
+        "drinks": {
+            "jugos naturales": 100,
+            "cerveza": 120,
+            "licores nacionales": 20,
+            "ron havana club reserva": 40,
+            "tequila blanco": 150,
+            "cortadito": 60,
+            "café con leche": 80,
+            "te": 30
+        }
+    },
+    "plus": {}
+}

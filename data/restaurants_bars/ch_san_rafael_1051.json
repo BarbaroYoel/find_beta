@@ -1,0 +1,87 @@
+{
+    "municipality": "ch",
+    "name": "San Rafael 1051",
+    "address": "latitude: 23.11380465355718, longitude: -82.36663315102301",
+    "contacts": {
+        "phone": [
+            "58058576"
+        ],
+        "website": "https://sanrafael1051.carrta.app",
+        "facebook": "san_rafael1051",
+        "instagram": "@san_rafael1051"
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Chatarra",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "croquetas de la casa": 850,
+            "tabla de serrano y queso": 1450,
+            "nuggets de pollo": 950,
+            "tacos": 1150,
+            "brusquetas mixtas": 850,
+            "ensalada de atun": 1100,
+            "ensalada de pollo": 1100,
+            "ensalada del mar": 1300
+        },
+        "main_courses": {
+            "entrepan clasico": 1300,
+            "entrepan cubano": 1500,
+            "entrepan marinero": 1300,
+            "entrepan iberico": 1500,
+            "entrepan vaquero": 1300,
+            "entrepan de crispy chicken": 1500,
+            "hamburguesa black panther": 2400,
+            "hamburguesa megaburger": 2750,
+            "hamburguesa hawaiana": 1650,
+            "hamburguesa 1051": 2000,
+            "hamburguesa parrillera": 1920,
+            "hamburguesa sweet burger": 1100,
+            "hamburguesa deluxe": 1550,
+            "hamburguesa cheese burger": 1790,
+            "hamburguesa cubana": 2140
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "agua natural": 300,
+            "refresco importado": 380,
+            "jugo natural": 390,
+            "batido de fruta": 530,
+            "caipiriña": 580,
+            "caipiroska": 580,
+            "gin tonic": 650,
+            "sangria": 650,
+            "mojito": 580,
+            "cuba libre": 580,
+            "vodka tonic": 650,
+            "cerveza": 450,
+            "cerveza cristal, heineken, corona": 650,
+            "servicio michelada": 250
+        },
+        "plus": {}
+    }
+}

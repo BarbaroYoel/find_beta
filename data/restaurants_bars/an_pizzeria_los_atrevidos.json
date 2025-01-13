@@ -1,0 +1,73 @@
+﻿{
+  "municipality": "an",
+  "name": "Pizzeria Los Atrevidos",
+  "address": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra, Arroyo Naranjo",
+  "contacts": {
+    "phone": [
+      "76470313",
+      "52966948"
+    ],
+    "website": "https://atrevidospizzeria.com/",
+    "facebook": "https://www.facebook.com/pizzerialosatrevidos",
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Italiana",
+  "hours": {
+    "monday": "1000_2100",
+    "tuesday": "1000_2100",
+    "wednesday": "1000_2100",
+    "thursday": "1000_2100",
+    "friday": "1000_2100",
+    "saturday": "1000_2100",
+    "sunday": "1000_2100"
+  },
+  "services": {
+    "parking": true,
+    "reservations": false,
+    "delivery": true,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "mlc"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {},
+    "main_courses": {
+      "Lasaña": 1100,
+      "Spaguetis Napolitanos": 1000,
+      "Spaguetis d' Parmesano": 1200,
+      "Spaguetis d' Jamón": 1250,
+      "Spaguetis d' Atún": 1350,
+      "Spaguetis d' Chorizo": 1250,
+      "Spaguetis d' Aceituna": 1300,
+      "Spaguetis d' Cebolla": 1150,
+      "Spaguetis Hawaianos": 1300,
+      "Spaguetis 4 Quesos": 1400,
+      "Spaguetis Atrevidos": 1050,
+      "Spaguetis Bolonesa": 1450,
+      "Pizza Napolitana": 1100,
+      "Pizza d' Cebolla": 1250,
+      "Pizza d' Champiñones": 1300,
+      "Pizza d' Pimiento": 1250,
+      "Pizza d' Jamón": 1350,
+      "Pizza d' Aceitunas": 1400,
+      "Pizza d' Chorizo": 1350,
+      "Pizza d' Chorizo Vela": 1150,
+      "Pizza Hawaiana": 1400,
+      "Pizza d' Bacon": 1400,
+      "Pizza d' Atún": 1500,
+      "Pizza Bolonesa": 1600,
+      "Pizza d' Jamón Serrano": 1550
+    },
+    "fittings": {},
+    "desserts": {},
+    "drinks": {},
+    "plus": {}
+  }
+}

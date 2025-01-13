@@ -1,0 +1,136 @@
+{
+    "municipality": "pl",
+    "name": "Café Clington",
+    "address": "latitude: 23.115259266660882,longitude: -82.43418842082183",
+    "contacts": {
+        "phone": [
+            "52629909"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": "@cafe_clington_"
+    },
+    "ratings": {},
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0800_1800",
+        "tuesday": "0800_1800",
+        "wednesday": "0800_1800",
+        "thursday": "0800_1800",
+        "friday": "0800_1800",
+        "saturday": "0800_1800",
+        "sunday": "0800_1800"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {
+            "desayuno americano": 2000,
+            "bxb": 600
+        },
+        "starters": {
+            "ensalada nicoise": 1500,
+            "ensalada de aguacate y atun": 600,
+            "ensalada de estacion": 500,
+            "ensalada cesarin de suprema de pollo": 1000,
+            "pasta fria de atun": 800,
+            "pasta fria de jamon": 800,
+            "pasta al pesto": 800,
+            "tapas de jamon con frutos secos": 700,
+            "tapas de falsa de atun napado en crema de vinagre balsamico": 900,
+            "tapa iberica": 1000,
+            "bruschettas": 900,
+            "black and white": 1000,
+            "anabella": 600,
+            "hansel y gretel": 600
+        },
+        "main_courses": {
+            "sandwich de atun": 900,
+            "sandwich de jamon y queso": 900,
+            "sandwich de vegetales con huevo": 900,
+            "sandwich de pollo": 1000,
+            "sandwich de pollo con queso gratinado": 1200,
+            "club sandwich": 1800,
+            "sandwich campesino": 2500,
+            "mini burger": 310,
+            "panini": 500,
+            "hamburguesa": 400,
+            "pan troceado": 400,
+            "pan viena": 350,
+            "pan molde aleman": 900,
+            "perro new york": 350,
+            "panini new york": 500,
+            "pan perro": 350,
+            "pan rustico": 1000,
+            "pan baguette": 700,
+            "pan ciabatta": 550,
+            "pan challah": 1000,
+            "pan iberico": 250,
+            "pan campesino": 400
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "flan fanguito": 600,
+            "snicker": 750,
+            "tofi": 600,
+            "tarta de flan fanguito": 3500,
+            "cheesecake sabor fresa, limon y kiwi": 750,
+            "donas de chocolate": 570,
+            "ojos de buey": 200,
+            "magdalena": 250,
+            "hoja": 150,
+            "donas artesanales": 200,
+            "pastel danes": 200,
+            "caracol": 250,
+            "pastel de guayaba": 250,
+            "palmeras": 200,
+            "coquito horneado": 200,
+            "tarta grande de quiche lorraine": 3500,
+            "porcion de tarta quiche lorraine": 350,
+            "tarta pequeña de quiche lorraine": 600,
+            "tarta san marcos": 5000,
+            "protiferol": 450,
+            "eclair": 450
+        },
+        "drinks": {
+            "agua purificada de 500ml": 270,
+            "agua purificada de 1l": 350,
+            "agua purificada de 5l": 900,
+            "agua gaseada": 500,
+            "malta": 350,
+            "pepsi": 350,
+            "redbull": 500,
+            "coca cola": 450,
+            "sprite": 450,
+            "jugos de 1l": 900,
+            "copa de jugos naturales": 250,
+            "cerveza cristal": 300,
+            "cerveza sol": 400,
+            "cerveza bucanero": 400,
+            "cerveza heineken": 500,
+            "cerveza blue": 300,
+            "cerveza corona": 550,
+            "expresso": 200,
+            "cortado": 250,
+            "capuchino": 500,
+            "bombon": 500,
+            "frapuccino": 600,
+            "con leche": 600,
+            "chocolate caliente": 600
+        },
+        "plus": {
+            "yougurt natural de 1l": 1200,
+            "yogurt probiotico de mango y guayaba": 900
+        }
+    }
+}

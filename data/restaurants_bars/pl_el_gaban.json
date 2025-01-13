@@ -1,0 +1,122 @@
+{
+    "municipality": "pl",
+    "name": "El Gabán",
+    "address": "latitude: 23.11556412986255,longitude: -82.43678182320103",
+    "contacts": {
+        "phone": [],
+        "website": "linktr.ee/elgabanhabana",
+        "facebook": "El Gabán la 14 restaurante",
+        "instagram": "@elgaban_oficial"
+    },
+    "ratings": {
+        "google": 5.0
+    },
+    "owner": "",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_0030",
+        "tuesday": "1200_0030",
+        "wednesday": "1200_0030",
+        "thursday": "1200_0030",
+        "friday": "1200_0030",
+        "saturday": "1200_0030",
+        "sunday": "1200_0030"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "crema de vegetales": 2400,
+            "croquetones a la amatriciana": 3000,
+            "croquetones de iberico": 3600,
+            "tartar de res con maracuya": 4500,
+            "tabla mixta": 5400,
+            "carpaccio de res": 6000,
+            "tartar de langosta": 6000
+        },
+        "main_courses": {
+            "pizza new york": 6000,
+            "pizza de bolonia": 5400,
+            "ñoquis": 3600,
+            "raviolis mariscos": 4500,
+            "risotto rosa": 5400,
+            "risotto al coco": 6000,
+            "pesca blanca": 7500,
+            "pesca azul": 7500,
+            "mignon": 8400,
+            "ribeye": 8400
+        },
+        "additions": {
+            "pure de malanga": 1800,
+            "papas al horno": 1800,
+            "vegetales salteados": 1800,
+            "arroz pilaf": 2400
+        },
+        "fittings": {},
+        "desserts": {
+            "brownie blanco": 1800,
+            "paulova": 1800,
+            "arroz con leche": 1800,
+            "postre con helado": 1800
+        },
+        "drinks": {
+            "agua tonica": 1500,
+            "agua san pellegrino": 1600,
+            "agua natural": 1600,
+            "agua panna": 1600,
+            "agua con gas": 1600,
+            "refresco": 1000,
+            "malta": 1000,
+            "energizante": 1500,
+            "kermato": 1600,
+            "limonada frappe/natural": 1600,
+            "cerveza de botella": 1600,
+            "copa de vino (espumoso, tinto o blanco)": 1800,
+            "grinch": 1600,
+            "mohana": 1600,
+            "mojito de frutas": 1600,
+            "piña colada": 1600,
+            "rossini": 2500,
+            "negroni chocolate": 2500,
+            "bellini": 2500,
+            "garibaldi": 2500,
+            "mi to": 2500,
+            "negroni g": 2500,
+            "aperol spritz": 2500,
+            "spritz": 2500,
+            "campari spritz": 2500,
+            "daiquiri": 2000,
+            "canchanchara": 2000,
+            "mojito": 2000,
+            "cubanito": 2000,
+            "caipirisima": 2000,
+            "margarita": 2500,
+            "sangria": 2500,
+            "caipiroska": 2500,
+            "moscow mule": 2500,
+            "fernet con cola": 2500,
+            "vodka tonic": 2500,
+            "caipirinha": 2500,
+            "bloody mary": 2500,
+            "amaretto sour": 2500,
+            "old fashioned": 2500,
+            "new york whisky sour": 2500,
+            "expresso martini": 1500,
+            "cafe": 800,
+            "frapuccino": 1500,
+            "carajillo": 1500,
+            "te": 800,
+            "infusiones": 800
+        },
+        "plus": {}
+    }
+}

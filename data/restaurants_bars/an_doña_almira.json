@@ -1,0 +1,89 @@
+﻿{
+  "municipality": "an",
+  "name": "Doña Almira",
+  "address": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro, Arroyo Naranjo",
+  "contacts": {
+    "phone": [
+      "76472432",
+      "52928671"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Cubana",
+  "hours": {
+    "monday": "1200_2300",
+    "tuesday": "1200_2300",
+    "wednesday": "1200_2300",
+    "thursday": "1200_2300",
+    "friday": "1200_2300",
+    "saturday": "1200_2300",
+    "sunday": "1200_2300"
+  },
+  "services": {
+    "parking": false,
+    "reservations": true,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "mlc"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Tostones rellenos": 850,
+      "Tamal en cazuela": 785,
+      "Vegetales rellenos": 895,
+      "Ración de chicharrones": 300,
+      "Aderezo Doña Almira": 385,
+      "Salsa Agridulce": 395,
+      "Ensalada de Chorizo": 1225,
+      "Ceviche de pescado": 685
+    },
+    "main_courses": {
+      "Migñon de Pescado Grillé": 1370,
+      "Migñon de Pescado a las Finas Hierbas": 1410,
+      "Migñon de Pescado Doña Almira": 1650,
+      "Migñon de Pescado Gratinado": 1585,
+      "Migñon de Pescado con Queso y Bacon": 1720,
+      "Bistec Americano": 2430,
+      "Nasobuco": 1860,
+      "Bistec de Hígado": 1290,
+      "Hígado a la Italiana": 1380,
+      "Lomo Rostizado": 2150,
+      "Pollo Doña Almira": 1340,
+      "Pollo Barbacoa": 1195,
+      "Pollo Salsa Agridulce": 1295,
+      "Pollo Grillé": 1195,
+      "Pollo en Fricasé": 1200,
+      "Pollo a la Pasa": 1220,
+      "Pollo Grillé con Camarones": 1375,
+      "Cerdo Enrrollado Asado": 1545,
+      "Cerdo Enrollado Salsa Agridulce": 1570,
+      "Cerdo Enrollado Glaseado": 1550,
+      "Fricasé de Cerdo": 1520,
+      "Picada a La Habanera": 1290,
+      "Ropa Vieja": 1305,
+      "Vaca Frita": 1260
+    },
+    "additions": {},
+    "fittings": {
+      "Arroz Congris": 120,
+      "Ensalada Estación": 285
+    },
+    "desserts": {
+      "Musse Variados": 570,
+      "Café Cubano": 150,
+      "Café Cortado": 180
+    },
+    "drinks": {},
+    "plus": {}
+  }
+}

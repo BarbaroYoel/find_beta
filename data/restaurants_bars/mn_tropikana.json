@@ -1,0 +1,76 @@
+{
+    "municipality": "mn",
+    "name": "Tropikana",
+    "address": "Avenida 41, calle 72",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Paticular",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_2200",
+        "tuesday": "1100_2200",
+        "wednesday": "1100_2200",
+        "thursday": "1100_2200",
+        "friday": "1100_2200",
+        "saturday": "1100_2200",
+        "sunday": "1100_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Tostones": 350,
+            "Tostones rellenos": 450,
+            "Crema de queso": 450,
+            "Crema aurora": 450,
+            "Crema de jamon": 450,
+            "Consome": 450,
+            "Eperlan": 500,
+            "Croquetas": 500,
+            "Picadera de la casa": 100
+        },
+        "main_courses": {
+            "Espaguettis a la carbonara": 750,
+            "Espaguettis queso gouda": 650,
+            "Pizza de queso gouda": 750,
+            "Pizza Hawaiana": 800,
+            "Pizza tropicana": 950,
+            "Bistec de cerdo": 1300,
+            "Bistec de cerdo a la milanesa": 1800,
+            "Bistec de pollo": 1000,
+            "Pollo frito": 1000,
+            "Pollo a la milanesa": 1500,
+            "Ropa vieja": 1550,
+            "Canciller": 2500,
+            "Pescado entero": 2000,
+            "Rueda de atun": 1700,
+            "Camarones": 1700,
+            "Filete de pescado": 1500,
+            "Super hamburguesa": 560,
+            "Pan con jamon y queso": 280
+        },
+        "additions": {
+            "Arroz frito": 700
+        },
+        "fittings": {},
+        "desserts": {
+            "Helado gusto 1L": 1000
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

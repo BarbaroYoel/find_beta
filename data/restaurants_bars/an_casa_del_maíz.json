@@ -1,0 +1,84 @@
+﻿{
+  "municipality": "an",
+  "name": "Casa del Maíz",
+  "address": "Avenida 1er anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+  "contacts": {
+    "phone": [
+      "52003758"
+    ],
+    "website": null,
+    "facebook": "https://m.facebook.com/lacasadelmaizcuba/",
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Cubana",
+  "hours": {
+    "monday": "1000_2000",
+    "tuesday": "1000_2000",
+    "wednesday": "1000_2000",
+    "thursday": "1000_2000",
+    "friday": "1000_2000",
+    "saturday": "1000_2000",
+    "sunday": "1000_2000"
+  },
+  "services": {
+    "parking": true,
+    "reservations": false,
+    "delivery": false,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Fritura de Malte": 350,
+      "Fritura de Malanga": 450,
+      "Tostón Relleno": 450,
+      "Chicharrón": 500,
+      "Garbanzos": 550,
+      "Cubito de Maíz": 1070,
+      "Garbanzos Fritos": 450
+    },
+    "main_courses": {
+      "Fricasé de Cerdo": 1150,
+      "Bistec de Cerdo": 1250,
+      "Lomo Ahumado": 1450,
+      "Costilla Ahumada": 1450,
+      "Fajitas de Cerdo": 1150,
+      "Fajita de Pollo": 1150,
+      "Alitas de Pollo": 1050,
+      "Pollo en Cazuela": 1050,
+      "Pechuga de Pollo": 1650,
+      "Filete de Pescado": 1480,
+      "Espeñan": 1280,
+      "Ropa Vieja": 1420,
+      "Chilindrón de Carnero": 1420
+    },
+    "additions": {},
+    "fittings": {
+      "Arroz Salteado": 530,
+      "Arroz Moro": 250,
+      "Arroz Blanco": 180,
+      "Tamal Especial": 90,
+      "Tostón Criollo": 450,
+      "Ensalada Mixta": 450,
+      "Ají Relleno": 650,
+      "Malanga Hervida": 425,
+      "Puré de Boniato": 250,
+      "Plátano Maduro Frito": 400,
+      "Yuca con Mojo": 250,
+      "Fufú de Plátano": 300
+    },
+    "desserts": {
+      "Helado Pote de 1lt": 850,
+      "Helado Pote Pequeño": 490,
+      "Arroz con Leche": 200
+    },
+    "drinks": {},
+    "plus": {}
+  }
+}

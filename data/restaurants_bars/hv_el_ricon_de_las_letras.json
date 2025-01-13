@@ -1,0 +1,117 @@
+{
+    "municipality": "hv",
+    "name": "El Rincón De Las Letras",
+    "address": "Calle Villegas #206 entre Obispo y Obrapia, Habana Vieja",
+    "contacts": {
+      "phone": [
+        "78014746"
+      ],
+      "website": null,
+      "facebook": null,
+      "instagram": "https://www.instagram.com/elrincondelasletras.lahabana?igsh=MWxramZlY3NjNDR6ZQ=="
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+      "monday": "0830_2300",
+      "tuesday": "0830_2300",
+      "wednesday": "0830_2300",
+      "thursday": "0830_2300",
+      "friday": "0830_2300",
+      "saturday": "0830_2300",
+      "sunday": "0830_2300"
+    },
+    "services": {
+      "parking": null,
+      "reservations": false,
+      "delivery": false,
+      "power plant": null
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+      "breakfasts": {
+        "Dos huevos a su gusto": 1850,
+        "Dos huevos a su gusto con queso manchego": 2250,
+        "Dos huevos a su gusto con salmón ahumado y queso manchego": 2750,
+        "Huevos (2u)": 550,
+        "Frutas 400g (3 tipos de frutas)": 480,
+        "Tostadas bud": 100,
+        "Tostadas francesas": 250,
+        "Hotcakes con sirope": 360
+      },
+      "starters": {
+        "Croquetas de la casa": 1250,
+        "Brusquetas de jamón serrano": 1250,
+        "Brusquetas de camarón o langosta": 1250,
+        "Brusquetas de salmón ahumado": 1250,
+        "Gazpacho": 1200,
+        "Fish stick": 1125,
+        "Eperlén": 1125,
+        "Ceviche de pescado": 1250,
+        "Coctel de camarón o langosta": 1275,
+        "Carpaccio de pulpo": 1250,
+        "Carpaccio de res": 1500,
+        "Tostón ropa vieja": 1100
+      },
+      "main_courses": {
+        "Suprema de pollo (200g)": 2000,
+        "Filete mignon (200g)": 5000,
+        "Ropa vieja (100g)": 2000,
+        "Lonjas de res a la doocht (200g)": 5000,
+        "Res a la moda (240g)": 5000,
+        "Costilla de cerdo (300g)": 4500,
+        "Cerdo al gusto (200g)": 2000,
+        "Masa de cerdo encebollada (200g)": 2000,
+        "Churrasco (200g)": 4500,
+        "Cordero al gusto (200g)": 2500,
+        "Pollo a la barbacoa (250g)": 2000,
+        "Camarón al gusto": 2500,
+        "Langosta al gusto": 3000,
+        "Pulpo al gusto": 3000,
+        "Pescado": 2500,
+        "Salmón": 3750,
+        "Mariscada": 6250
+      },
+      "additions": {
+        "Queso gouda (50g)": 780,
+        "Queso azul (40g)": 890,
+        "Queso parmesano (30g)": 840,
+        "Jamón vicky (50g)": 750,
+        "Jamón serrano (30g)": 840,
+        "Chorizo (40g)": 840,
+        "Bacon (50g)": 680,
+        "Atún (40g)": 850,
+        "Champiñón (50g)": 560,
+        "Aceitunas verdes (40g)": 520
+      },
+      "fittings": {
+        "Arroz blanco (80g)": 120,
+        "Arroz con maíz (80g)": 450,
+        "Arroz moro (80g)": 250,
+        "Arroz pilaf (80g)": 450,
+        "Arroz salteado (80g)": 1350,
+        "Frijoles negros": 300,
+        "Puré de malanga (60g)": 550,
+        "Vianda con mojo (60g)": 300,
+        "Tostones (100g)": 300,
+        "Sopa del día": 1150
+      },
+      "desserts": {},
+      "drinks": {
+        "Mojito": 800,
+        "Daiquiri rebelde": 800,
+        "Cubata": 800,
+        "Caipirinha": 800,
+        "Caipirissima": 800,
+        "Canchánchara": 830,
+        "Vodka tonic": 950,
+        "Piña colada": 950,
+        "Sangria": 1150,
+        "Scull drive": 940,
+        "Bloody Mary": 900
+      },
+          "plus": {}
+    }
+  }

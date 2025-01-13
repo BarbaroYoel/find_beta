@@ -1,0 +1,69 @@
+{
+    "municipality": "pl",
+    "name": "Café literario La Copa",
+    "address": "latitude: 23.118089959620736, longitude: -82.4323885782618",
+    "contacts": {
+        "phone": [
+            "55094105"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": "@cafe.literario.lacopa"
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Café",
+    "hours": {
+        "monday": "0900_1700",
+        "tuesday": "0900_1700",
+        "wednesday": "0900_1700",
+        "thursday": "0900_1700",
+        "friday": "0900_1700",
+        "saturday": "0900_1700",
+        "sunday": ""
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "croquetas con tostadas": 500,
+            "papas fritas": 600,
+            "hot dog": 600,
+            "sandwich de jamon y queso": 700,
+            "pan con hamburguesa": 700,
+            "croissant de jamon con queso": 800,
+            "croissant natural": 500
+        },
+        "main_courses": {},
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "copa de helado": 500
+        },
+        "drinks": {
+            "agua natural": 120,
+            "malteada": 500,
+            "malta bucanero": 300,
+            "energizante": 230,
+            "jugo de lata": 270,
+            "suero helado": 800,
+            "cafe expresso": 1500,
+            "cafe cortado": 200,
+            "cafe bombon": 350,
+            "capuchino": 400,
+            "frapuccino": 500
+        },
+        "plus": {}
+    }
+}

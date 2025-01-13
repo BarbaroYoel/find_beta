@@ -1,77 +1,77 @@
 {
     "an": {
         "name": "Arroyo Naranjo",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+      
     },
     "by": {
         "name": "Boyeros",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+      
     },
     "ch": {
         "name": "Centro Habana",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     },
     "ce": {
         "name": "Cerro",
-        "population": null,
-        "num_restaurants": 4
+        "population": null
+       
     },
     "co": {
         "name": "Cotorro",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     },
     "do": {
-        "name": "Dies de Octubre",
-        "population": null,
-        "num_restaurants": 0
+        "name": "Diez de Octubre",
+        "population": null
+       
     },
     "gn": {
         "name": "Guanabacoa",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+     
     },
     "he": {
         "name": "La Habana del Este",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     },
     "hv": {
         "name": "Habana Vieja",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+      
     },
     "ll": {
         "name": "La Lisa",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     },
     "mn": {
         "name": "Marianao",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     },
     "pl": {
         "name": "Playa",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+        
     },
     "pr": {
         "name": "Plaza de la Revolución",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+        
     },
     "rg": {
         "name": "Regla",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     },
     "sm": {
         "name": "San Miguel del Padrón",
-        "population": null,
-        "num_restaurants": 0
+        "population": null
+       
     }
 }

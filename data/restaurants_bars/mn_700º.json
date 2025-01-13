@@ -1,0 +1,116 @@
+{
+    "municipality": "mn",
+    "name": "700º",
+    "address": "avenida 41 esquina 86",
+    "contacts": {
+        "phone": ["54063906"],
+        "website": "700gradoshabana",
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_0300",
+        "tuesday": "1100_0300",
+        "wednesday": "1100_0300",
+        "thursday": "1100_0300",
+        "friday": "1100_0300",
+        "saturday": "1100_0300",
+        "sunday": "1100_0300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {
+          
+        },
+        "starters": {
+            "tostones rellenos jamon y queso": 890,
+            "croquetas de la casa": 890,
+            "finger de pollo empanizado": 890,
+            "tacos de pollo": 990,
+            "tacos de cerdo": 1100,
+            "frituras de malanga": 790,
+            "emtremes de aceituna": 1130,
+            "papas fritas": 890,
+            "eperlan de pescado": 1380,
+            "coctel de langosta ": 1600,
+            "coctel de camaron": 1600
+        },
+        "main_courses": {
+            "espaguetis napolitano": 1100,
+            "espaguetis con camaron": 2500,
+            "espaguetis de langosta": 2500,
+            "espaguetis marineros": 1100,
+            "napolitana": 1200,
+            "hawaiana": 1450,
+            "lonjas de cerdo al carbon": 1850,
+            "saltimboca de cerdo": 1750,
+            "bistec de cerdo": 1650,
+            "fajitas de cerdo salteadas": 1650,
+            "solomillo de cerdo": 2900,
+            "masas de cerdo en salsa teriyaki": 2200,
+            "fricase de cerdo": 2200,
+            "pechuga de pollo": 1650,
+            "bistec uruguayo": 1850,
+            "ropa vieja de res": 2200,
+            "filete de pescado": 1850,
+            "camaron al gusto": 2800,
+            "enchilado de langosta": 2800,
+            "paella de marisco": 3550,
+            "cazuela de marisco": 3600,
+            "Mar y tierra campesina": 3550,
+            "filete john bill": 3550
+        },
+        "additions": {
+            "arroz moro": 100,
+            "vianda frita": 100,
+            "platano maduro frito": 100,
+            "ensalada estacion": 100,
+            "platano chatinos": 100,
+            "arroz blanco": 100
+        },
+        "fittings": {},
+        "desserts": { },
+        "drinks": {
+            "agua natural": 290,
+            "refresco internacional": 380,
+            "malta internacional": 440,
+            "energizante": 550,
+            "red bull": 830,
+            "cerveza internacional": 350,
+            "dispensada cristal": 350,
+            "cerveza bucanero": 550,
+            "cerveza cristal": 550,
+            "cerveza corona": 750,
+            "cerveza sol": 750,
+            "cerveza heineken": 750,
+            "servicio michelada": 490,
+            "servicio de chelada": 300,
+            "caipiroska": 380,
+            "caipirisima": 380,
+            "mojito": 450,
+            "caipirina": 380,
+            "sangría": 400,
+            "vodca tonic": 480,
+            "gin tonic": 550,
+            "cuba libre": 480,
+            "cubata especial": 490,
+            "daiquirí": 380,
+            "piña colada": 450,
+            "vino tinto": 400,
+            "limonada frescura": 250,
+            "limonada natural": 250
+        },
+        "plus": {
+        }
+    }
+}

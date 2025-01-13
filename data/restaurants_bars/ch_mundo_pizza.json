@@ -1,0 +1,73 @@
+{
+    "municipality": "ch",
+    "name": "Mundo Pizza",
+    "address": "latitude: 23.13771148492377, longitude: -82.36400171839173",
+    "contacts": {
+        "phone": [
+            "53372715"
+        ],
+        "website": null,
+        "facebook": "Mundo Pizza",
+        "instagram": "@mundopizza_habana"
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+        "monday": "1200_2200",
+        "tuesday": "1200_2200",
+        "wednesday": "1200_2200",
+        "thursday": "1200_2200",
+        "friday": "1200_2200",
+        "saturday": "1200_2200",
+        "sunday": "1200_2200"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": false,
+        "starters": {
+            "croquetas caseras": 590,
+            "tostones criollos": 540,
+            "focaccia": 560
+        },
+        "main_courses": {
+            "pizza metro criolla": 2800,
+            "pizza metro casa": 3700,
+            "pizza metro gouda": 5100,
+            "pizza metro elección": 5150,
+            "pizza 1/2 metro mix": 2500,
+            "pizza 1/2 metro elección": 2700,
+            "pizza rossa": 590,
+            "spaghetti": 950,
+            "lasaña": 1250,
+            "spaghetti al pesto": 1050,
+            "spaghetti del dia": 1600
+        },
+        "additions": null,
+        "desserts": {
+            "postre del dia": 650,
+            "pizza a chocolate": 815,
+            "helado 3 gracias": 500
+        },
+        "drinks": {
+            "refresco": 250,
+            "energizante": 390,
+            "malta": 300,
+            "jugo cajita": 250,
+            "cerveza": 300,
+            "yogurt": 250
+        },
+        "plus": {}
+    }
+}

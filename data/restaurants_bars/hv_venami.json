@@ -1,0 +1,97 @@
+{
+    "municipality": "hv",
+    "name": "Venami",
+    "address": "Monserrate #435 e/ Teniente Rey y Lamparilla, Habana Vieja",
+    "contacts": {
+      "phone": ["(07) 8605156"],
+      "website": "http://venamihabana.com",
+      "facebook": "https://m.facebook.com/100066988458475/?profile_tab_item_selected=about",
+      "instagram": "https://www.instagram.com/venami_habana?igsh=MWh3a25mb3B2NmMxcw=="
+    },
+    "ratings": {},
+    "owner": "hv",
+    "type": "Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+      "monday": "1130_2300",
+      "tuesday": "1130_2300",
+      "wednesday": "1130_2300",
+      "thursday": "1130_2300",
+      "friday": "1130_2300",
+      "saturday": "1130_2300",
+      "sunday": "1130_2300"
+    },
+    "services": {
+      "parking": null,
+      "reservations": true,
+      "delivery": false,
+      "power plant": true
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+      "breakfasts": {}, 
+      "starters": {
+        "Focaccia a las Hierbas": 300,
+        "Brusquetas": 350,
+        "Melanzane Boloñesa": 450,
+        "Melanzane Vegetales": 400,
+        "Focaccia Rellena": 350,
+        "Ensalada Capresi": 350,
+        "Ensalada Vegetales": 1350,
+        "Estrofolino Vegetal": 850,
+        "Estrofolino Jamón": 900,
+        "Estrofolino Natural": 650,
+        "Focaccia con Jamón Serrano": 1100
+      },
+      "main_courses": {
+        "Pollo al Limón": 1210,
+        "Pollo a la Piazzola": 1250,
+        "Cerdo al Limón": 1300,
+        "Pescado Livonnesa": 1310,
+        "Pescado al Camarón": 1400,
+          "Penne con salmón": 1380,
+        "Spaghetti Amatriciana": 1100,
+        "Spaghetti Alfredo (Jamón)": 1050,
+        "Spaghetti a la Carbonara": 1200,
+        "Penne Arrabiatta": 950,
+        "Penne a la Boloñesa": 1050,
+        "Spaghetti de Atún/Alcaparras": 1000,
+        "Spaghetti Pomodoro Basilico": 800,
+        "Spaghetti Fruto del Mar": 1450,
+        "Spaghetti al Pesto": 950,
+        "Spaghetti al Venami": 1250,
+        "Spaghetti Ajo/Peperonchino": 850,
+        "Spaghetti al Camarón": 1250,
+        "Timbal de Pollo": 1200,
+        "Timbal de Boloñesa": 1100,"Al Fungi": 1100,
+          "Al Fruto del Mar": 1350,
+          "Al Venami": 1050
+      },
+      "additions": {}, 
+      "fittings": {}, 
+      "desserts": {
+        "Flan": 400,
+        "Tarta con Helado": 450,
+        "Helado": 300
+      },
+      "drinks": {
+        "Agua Natural (500ml)": 150,
+        "Agua Natural (1500ml)": 300,
+        "Refresco": 400,
+        "Malta": 310,
+        "Jugo de Frutas Naturales": 250,
+        "Limonada": 200,
+        "Cerveza Nacional": 330,
+        "Cocteles": 450,  "Café": 150,
+        "Café Capuchino": 350,
+        "Café Cortadito": 350,
+        "Café con Leche": 350,
+        "Café Americano": 150,
+        "Té": 110
+      },
+      "plus": {
+          
+        
+      }
+    }
+  }

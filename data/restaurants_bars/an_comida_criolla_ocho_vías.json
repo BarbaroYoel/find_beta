@@ -1,0 +1,75 @@
+{
+  "municipality": "an",
+  "name": "Comida Criolla Ocho Vías",
+  "address": "Avenida 1er Anillo 3km despues de San Agustin, Arroyo Naranjo",
+  "contacts": {
+    "phone": [
+      "+5359107933"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Cubana",
+  "hours": {
+    "monday": "1100_2300",
+    "tuesday": "1100_2300",
+    "wednesday": "1100_2300",
+    "thursday": "1100_2300",
+    "friday": "1100_2300",
+    "saturday": "1100_2300",
+    "sunday": "1100_2300"
+  },
+  "services": {
+    "parking": true,
+    "reservations": true,
+    "delivery": false,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "mlc"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Croquetas de queso": 500,
+      "Tostones Rellenos": 800,
+      "Tostones Tradicionales": 250,
+      "Papas Fritas": 800,
+      "Platanos Fritos": 200
+    },
+    "main_courses": {
+      "Bistec de Higado(460 gramos)": 1600,
+      "Higado Italiana(460 gramos)": 1600,
+      "Bistec de Cerdo(460 gramos)": 2200,
+      "Chuleta de Cerdo(460 gramos)": 2200,
+      "Fricase de Cerdo(430 gramos)": 2500,
+      "Masa Frita(430 gramos)": 2200,
+      "Fricase de Carnero(960 gramos)": 2200,
+      "Bistec Uruguayo)": 2800,
+      "Pescado Entero a la Marinera": 2200,
+      "Ropa Vieja(460 gramos)": 2700,
+      "Camaron Enchilado": 2700,
+      "Langosta Grille(690 gramos)": 2700,
+      "Langosta Enchilada(690 gramos)": 2800,
+      "Pescado Empanado": 2500,
+      "Enchilado de Cangrejo": 1800,
+      "Bistec de Pollo": 2000,
+      "Pechuga de Pollo": 2500,
+      "Costilla Frita o Fricase": 2200
+    },
+    "additions": {},
+    "fittings": {
+      "Arroz Moro": 200,
+      "Ensalada Mixta": 300
+    },
+    "desserts": {},
+    "drinks": {},
+    "plus": {}
+  }
+}

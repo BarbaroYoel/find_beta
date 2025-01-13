@@ -1,0 +1,109 @@
+{
+    "municipality": "hv",
+    "name": "Antojos",
+    "address": "Callejón Espada entre Cuarteles y Chacon, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "+53 5 282 4907"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_0000",
+        "tuesday": "1100_0000",
+        "wednesday": "1100_0000",
+        "thursday": "1100_0000",
+        "friday": "1100_0000",
+        "saturday": "1100_0000",
+        "sunday": "1100_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": "cup",
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Fritura de Temporada / Frying in Season": 950,
+            "Croquetas de la Casa / Home Croquettes": 1700,
+            "Tostones Campesinos / Farmer Fried Plantain": 750,
+            "Caldosa Guajira / Country Consomme": 1400,
+            "Tacos": 2700
+        },
+        "main_courses": {
+            "Trozos de Pollo a la Mantequilla / Butter Chicken": 2950,
+            "Ropa Vieja con Platanitos Maduros / Shredded Beef with Fried Sweet Banana": 3150,
+            "Ensalada Campesina / Country Salad": 1800,
+            "Costillas de Cerdo Barbacoa / BBQ Pork Ribs": 4300,
+            "Arroz a la Chorrera (2 PAX) / A la Chorrera Melted Rice (2 PAX)": 3500,
+            "Picadillo a la Habanera / A la Habanera Ground Beef": 2930,
+            "Masas de Cerdo Frita / Fried Pork Chops": 3800,
+            "Camarones al Gusto / Shrimp at Your Choice": 3900,
+            "Pollo Grillé / Grilled Chicken on the Coal": 2950,
+            "Pesca al Carbón / Fish of the Day on the Coal": 3950,
+            "Pinchos Antojos / Antojos Brochette": 3700,
+            "Lomo al Carbón / Pork Loin on the Coal": 4500,
+            "Bistec de Cerdo Encebollado / Pork Steak": 3550
+        },
+        "additions": {},
+        "fittings": {
+            "Vianda Frita / Fried Crop of the Day": 800,
+            "Potaje / Bean Soup": 950,
+            "Arroz Blanco / White Rice": 800,
+            "Pan Artesanal / Homemade Bread": 1050,
+            "Vegetales al Carbón / Vegetables on the Coal": 1250,
+            "Crema de Malanga / Taro Cream": 1400
+        },
+        "desserts": {
+            "Postres de la Casa / Desserts": 950
+        },
+        "drinks": {
+            "Aguas Naturales": 650,
+            "Mojito Antojos": 1280,
+            "Aguas Tónicas": 750,
+            "Ron Collins": 1180,
+            "Refrescos": 650,
+            "Piña Colada": 1630,
+            "Red Bull": 850,
+            "Cuba Libre": 1230,
+            "Jugos Naturales": 750,
+            "Cubata": 1230,
+            "Cubanito": 1380,
+            "Limonada": 900,
+            "Canchánchara": 1150,
+            "Daiquirí": 1250,
+            "Havana Special": 1180,
+            "Gin Tonic": 1450,
+            "Bloody Mary": 1500,
+            "Negroni": 1550,
+            "Martini": 1500,
+            "Caipiroska": 1250,
+            "Screwdriver": 1200,
+            "Margarita": 1380,
+            "Mary Pickford": 1150,
+            "Chelada": 900,
+            "Michelada": 1100,
+            "Michelada de la Casa": 1200,
+            "Cerveza": 800,
+            "Vino Blanco (Copa)": 1400,
+            "Vino Tinto (Copa)": 1450,
+            "Café Americano": 400,
+            "Café Expresso": 400,
+            "Café Cortado": 430,
+            "Café con Leche": 500,
+            "Café Capuchino": 500,
+            "Café Bombón": 550,
+            "Frapuchino": 900
+        },
+        "plus": {}
+    }
+}

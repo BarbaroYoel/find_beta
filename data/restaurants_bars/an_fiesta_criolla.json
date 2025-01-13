@@ -1,0 +1,90 @@
+﻿{
+  "municipality": "an",
+  "name": "Fiesta Criolla",
+  "address": "Calle 100 #1003 (después del puente de calabazar), Arroyo Naranjo",
+  "contacts": {
+    "phone": [
+      "52413555"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": [
+    "Comida Cubana"
+  ],
+  "hours": {
+    "monday": "1200_0000",
+    "tuesday": "1200_0000",
+    "wednesday": "1200_0000",
+    "thursday": "1200_0000",
+    "friday": "1200_0000",
+    "saturday": "1200_0000",
+    "sunday": "1200_0000"
+  },
+  "services": {
+    "parking": true,
+    "reservations": false,
+    "delivery": false,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Toston criollo": 500,
+      "Toston relleno con Jamon y Queso": 600,
+      "Toston relleno con Atun": 700,
+      "Eperlan": 1300,
+      "Fajitas de pollo": 1300,
+      "Caldo de Mariscos": 1000,
+      "Camaron Rebosado": 2000,
+      "Tamal en Hojas": 90,
+      "Fritura de Malanga": 500,
+      "Platano Frito": 350,
+      "Alitas de Pollo": 850
+    },
+    "main_courses": {
+      "Pollo Asado": 1150,
+      "Pechuga Grillé": 1450,
+      "Pechuga Gratinada Jamón y Queso": 1600,
+      "Chuleta": 1350,
+      "Pechuga Salteada con vegetales": 1550,
+      "Lomo Ahumado": 1350,
+      "Lomo deshuesado ahumado": 1550,
+      "Costillas Fritas": 1400,
+      "Masa Frita": 1550,
+      "Bistec Grillé": 1450,
+      "Bistec Gratinado de Jamón y Queso": 1600,
+      "Ropa Vieja": 1500,
+      "Suprema carnero": 1800,
+      "Fricasé de Carnero": 1500,
+      "Camarón grillé": 1900,
+      "Langosta grillé": 1900,
+      "Pulpo grillé": 2000,
+      "Pescado grillé": 1300,
+      "Rueda pescado grillé": 1300,
+      "Pescado Grillé gratinado con Jamón y Queso": 1450,
+      "Don Pedro": 2300,
+      "Masa de cangrejo": 1050,
+      "Caldero de mariscos": 3500,
+      "Mar y tierra": 3950,
+      "Paella": 2300,
+      "Mariscada": 2500,
+      "Spaguetis Napolitanos": 1000,
+      "Spaguetis con Jamón y Queso": 1250
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {
+      "Dulce Tres Leches": 350
+    },
+    "drinks": {},
+    "plus": {}
+  }
+}

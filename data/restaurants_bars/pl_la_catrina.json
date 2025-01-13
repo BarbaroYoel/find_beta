@@ -1,0 +1,102 @@
+{
+    "municipality": "pl",
+    "name": "La Catrina",
+    "address": "latitude: 23.105644168847277,longitude: -82.44212999530603",
+    "contacts": {
+        "phone": [
+            "72022803",
+            "56593890"
+        ],
+        "website": null,
+        "facebook": "La Catrina Havana",
+        "instagram": "@lacatrina_havana"
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mexicana",
+    "hours": {
+        "monday": "1200_2300",
+        "tuesday": "1200_2300",
+        "wednesday": "1200_2300",
+        "thursday": "1200_2300",
+        "friday": "1200_2300",
+        "saturday": "1200_2300",
+        "sunday": "1200_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "quesadillas con tortillas de trigo con queso": 1700,
+            "quesadillas con queso y champinones": 2300,
+            "quesadillas con queso y chorizo iberico": 2300,
+            "tacos envenenados": 1900,
+            "tacos dorados": 1900,
+            "frijoles refritos": 1350,
+            "ceviche acapulqueño": 2700,
+            "ceviche de atun rojo": 3950,
+            "carpaccio de res": 4200,
+            "carpaccio de pulpo": 3800,
+            "tostada de atun": 2700,
+            "aguachile de camaron": 2900,
+            "trio de ceviches": 3800,
+            "salmorejo la catrina pequena": 1550,
+            "salmorejo la catrina grande": 2100,
+            "guacamole": 1750
+        },
+        "main_courses": {
+            "pollo en mole": 3200,
+            "albondigas de la abuela": 2700,
+            "quesadillas de huitlacoche": 1700,
+            "chilaquiles": 2700,
+            "pescado del dia": 3250,
+            "langosta grille": 4600,
+            "calamares al ajillo": 3800,
+            "carnitas michoacanas": 2700,
+            "tacos al pastor": 2700,
+            "cochinita pibil": 2700,
+            "tacos de res": 3100,
+            "fajitas de pollo": 2700,
+            "fajitas de res": 3050,
+            "festival de tacos 6": 4600,
+            "festival de tacos 12": 8900,
+            "ensenada de pescado": 2900,
+            "ensenada de camaron": 3000,
+            "gobernador": 3350,
+            "langosta estilo baja california": 3050,
+            "festival de tacos del mar": 8800,
+            "solomillo de res": 6900,
+            "entrecot": 10900,
+            "chuleton": 24700,
+            "tomahawk": 21000,
+            "quesadilla tacos de fajitas de pollo": 2450,
+            "quesadilla tacos de carne de cerdo": 2300,
+            "eperlan de pollo y papas fritas": 2450,
+            "eperlan de pescado y papas fritas": 2450,
+            "bistec de res y papas fritas": 2900
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "tartas del dia": 1400,
+            "pie de limon": 1400,
+            "tiramisu": 1400,
+            "cheesecake": 1400,
+            "gelato italiano artesanal": 1200,
+            "flan casero": 1400
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

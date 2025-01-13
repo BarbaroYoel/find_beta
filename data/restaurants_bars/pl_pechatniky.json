@@ -1,0 +1,93 @@
+{
+    "municipality": "pl",
+    "name": "Pechatniky",
+    "address": "latitude: 23.117985952744846, longitude: -82.41582832900848",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": "Pechatniky",
+        "instagram": "@pechatniky"
+    },
+    "ratings": {
+        "google": 5.0
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0000_0000",
+        "tuesday": "0000_0000",
+        "wednesday": "0000_0000",
+        "thursday": "0000_0000",
+        "friday": "0000_0000",
+        "saturday": "0000_0000",
+        "sunday": "0000_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {
+            "desayuno pechatniky": 900
+        },
+        "starters": {
+            "croquetas de la casa": 950,
+            "frituras de malanga": 820,
+            "fajitas de pollo": 950,
+            "tostones rellenos": 700,
+            "garbanzo": 1000,
+            "papas fritas": 800,
+            "picadera pechatniky": 2900
+        },
+        "main_courses": {
+            "pollo": 1050,
+            "arroz frito": 1500,
+            "mariscos": 3000,
+            "cerdo": 1800,
+            "vegetales sarteados al carbon": 900,
+            "ensalada vegetales": 700,
+            "baguette de atun": 950,
+            "baguette jamon y queso": 750,
+            "baguette de pollo": 780,
+            "hamburguesa clasica": 750,
+            "pizza": 1050,
+            "pastas": 1300,
+            "pelmeni": 1100,
+            "shawarma": 1000
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "copa 2 bolas": 320,
+            "copa 3 bolas": 380,
+            "tarta pechatniky": 590
+        },
+        "drinks": {
+            "agua natural": 170,
+            "refresco importando": 350,
+            "refresco nacional": 250,
+            "malta": 330,
+            "malteda": 420,
+            "energizantes": 350,
+            "jugo natural": 280,
+            "jugo de lata": 350,
+            "batidos de frutas": 470,
+            "batidos de helado": 550,
+            "cerveza nacional": 350,
+            "cerveza importada": 290,
+            "expreso": 200,
+            "cortado": 280,
+            "capuchino": 350,
+            "americano": 200,
+            "pechatniky": 680,
+            "te o infusion": 180
+        },
+        "plus": {}
+    }
+}

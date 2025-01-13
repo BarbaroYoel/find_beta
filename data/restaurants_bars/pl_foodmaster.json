@@ -1,0 +1,89 @@
+{
+    "municipality": "pl",
+    "name": "Food Master",
+    "address": "latitude: 23.10836341952027,longitude: -82.43424715134823",
+    "contacts": {
+        "phone": [
+            "53826366"
+        ],
+        "website": "https://linktr.ee/foodmaster.havana",
+        "facebook": "Food Master La Habana",
+        "instagram": "@foodmaster.havana"
+    },
+    "ratings": {
+        "google": 4.0
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1030_2100",
+        "tuesday": "1030_2100",
+        "wednesday": "1030_2100",
+        "thursday": "1030_2100",
+        "friday": "1030_2200",
+        "saturday": "1030_2200",
+        "sunday": "1030_2100"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true,
+        "takeaway": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "picadera food master": 2700,
+            "salchichas al grill": 1600,
+            "quesadilla": 990,
+            "tacos": 990,
+            "croquetas": 700,
+            "empanadas": 750,
+            "papas fritas": 690
+        },
+        "main_courses": {
+            "big master burger": 3500,
+            "hamburguesa suiza": 2950,
+            "hamburguesa max": 2700,
+            "hamburguesa la granja": 2550,
+            "hamburguesa italiana": 2450,
+            "pizza margarita": 1900,
+            "pizza margarita con jamon": 2400,
+            "pizza diavola": 2600,
+            "pizza de jamon serrano": 3200,
+            "pizza de atun": 3100,
+            "la prohibida en italia": 3200
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "empanadas de piña y queso": 750,
+            "muffin": 550,
+            "helado": 750
+        },
+        "drinks": {
+            "jugo natural": 500,
+            "jugo cajita": 400,
+            "fresh de pepino": 300,
+            "smoothie de frutas": 600,
+            "batido de helado": 750,
+            "batido de helado y frutas": 750,
+            "vino por copa": 900,
+            "gin & tonic": 1200,
+            "chelada": 900,
+            "michelada": 1000,
+            "sangria": 1100,
+            "sangria blanca": 1100,
+            "tinto de verano": 900,
+            "spirit coctel": 800,
+            "cerveza": 600,
+            "cerveza gama alta": 800
+        },
+        "plus": {}
+    }
+}

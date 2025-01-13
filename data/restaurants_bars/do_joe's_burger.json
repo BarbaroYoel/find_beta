@@ -1,0 +1,63 @@
+{
+    "municipality": "do",
+    "name": "Joe's Burger",
+    "address": "Esquina Mayia Rodriguez y Aranguren, Diez de Octubre",
+    "contacts": {
+      "phone": ["76400715"], 
+      "website": null,
+      "facebook": null,
+      "instagram": "@joes_burguer00"
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida chatarra", 
+    "hours": {
+      "monday": "0800_2200",
+      "tuesday": "0800_2200",
+      "wednesday": "0800_2200",
+      "thursday": "0800_2200",
+      "friday": "0800_2300",
+      "saturday": "0800_2300",
+      "sunday": "0800_2300"
+    },
+    "services": {
+      "parking": true,
+      "reservations": false,
+      "delivery": true,
+      "power plant": true
+    },
+    "payment_methods": ["cup"], 
+    "menu": {
+      "breakfasts": {}, 
+      "starters": {},
+      "main_courses": {
+        "Hamburguesa de Cerdo": 500,
+        "Hamburguesa de Pollo": 500,
+        "Hamburguesa de Res": 700,
+        "Hamburguesa Doble": 900,
+        "Bocadito de Jamón y Queso": 450
+      },
+      "additions": {
+        "Queso": 120,
+        "Lechuga": 100,
+        "Jamón": 100,
+        "Chorizo": 80,
+        "Bacon": 150,
+        "Huevo": 150,
+        "Cebolla": 50,
+        "Pepinillo": 50,
+        "Tomate": 100
+      },
+      "fittings": {}, 
+      "desserts": {},
+      "drinks": {
+        "Cerveza": 350,
+        "Limonada Frappé": 500,
+        "Batido de Helado": 700,
+        "Malteada": 500,
+        "Potes de Helado": 1000
+      },
+      "plus": {} 
+    }
+  }

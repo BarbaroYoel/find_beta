@@ -1,0 +1,79 @@
+{
+    "municipality": "hv",
+    "name": "Mythos",
+    "address": "Calle Cuba No. 211 entre Empedrado y O'Reilly, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "+53 63691718"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Griega",
+    "hours": {
+        "monday": "0800_2300",
+        "tuesday": "0800_2300",
+        "wednesday": "0800_2300",
+        "thursday": "0800_2300",
+        "friday": "0800_2300",
+        "saturday": "0800_2300",
+        "sunday": "0800_2300"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Hummus de Garbanzo": 700,
+            "Melitzanosalata": 800,
+            "Tzatziki": 600,
+            "Papas fritas con queso feta y orégano": 1300,
+            "Tyropitakias": 1000,
+            "Aceitunas marinadas con queso feta": 700,
+            "Griego pobre": 750,
+            "Saganaki": 1500
+        },
+        "main_courses": {
+            "Souvlaki de cerdo": 2500,
+            "Souvlaki de pechuga de pollo": 2100,
+            "Souvlaki de res": 2800,
+            "Souvlaki vegano": 2000,
+            "Souvlaki de queso feta": 2500,
+            "Pastitsio": 2300,
+            "Imam": 2000,
+            "Saganaki de langosta o camarón": 3500,
+            "Saganaki de frutos del mar": 4000,
+            "Risotto de yogurt griego": 3000,
+            "Risotto de pulpo": 3700,
+            "Pulpo Grille": 4200,
+            "Solomillo de cerdo en salsa de limón griega": 3500
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "Tarta de Yogurt Griego con reducción de vino tinto": 1000
+        },
+        "drinks": {
+            "Demeter": 1800,
+            "Afrodita": 2000,
+            "Persefone": 2100,
+            "Hades": 2500,
+            "Dionisio": 2800,
+            "Poseidón": 2500,
+            "Ares": 2400,
+            "Apolo": 2300
+        },
+        "plus": {}
+    }
+}

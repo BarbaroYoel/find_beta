@@ -1,0 +1,76 @@
+{
+    "municipality": "hv",
+    "name": "La Hamburguesita",
+    "address": "Calle Cienfuegos entre Apodaca y Gloria, Habana Vieja",
+    "contacts": {
+      "phone": [],
+      "website": null,
+      "facebook": null,
+      "instagram": "https://www.instagram.com/hamburguesitala?igsh=MTRob3FmdGF5bGlvYg=="
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type":"Restaurante",
+    "specialty": "Comida Chatarra",
+    "hours": {
+      "monday": "1100_2300",
+      "tuesday": "1100_2300",
+      "wednesday": "1100_2300",
+      "thursday": "1100_2300",
+      "friday": "1100_2300",
+      "saturday": "1100_2300",
+      "sunday": "1100_2300"
+    },
+    "services": {
+      "parking": null,
+      "reservations": false,
+      "delivery": false,
+      "power plant": null
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+          "Croquetas": 350,
+          "Frituras de malanga": 350,
+          "Tostones hawaianos": 400
+      },
+      "main_courses": {
+        "Clásica": 550,
+        "Hawaiana": 650,
+        "Casa blanca": 700,
+        "Submarino": 670,
+        "Belleza habanera": 700,
+        "Locura cienfueguera": 800,
+        "Biplanta": 850,
+        "Cubana": 950,
+        "Milanesa": 950
+      },
+      "additions": {
+          "Pollo": 450,
+          "Jamón": 400,
+          "Queso": 400,
+          "Jamón y queso": 500,
+          "Atún": 750,
+          "Cubano": 750
+      },
+      "fittings": {},
+      "desserts": {},
+      "drinks": {
+          "Jugos naturales": 150,
+          "Batidos de frutas": 200,
+          "Limonada frape": 200,
+          "Malteada": 350,
+          "Malta": 280,
+          "Refresco nacional": 250,
+          "Refresco importado": 280,
+          "Cervezas nacionales": 280,
+          "Cervezas importadas": 250,
+          "Energizante": 280,
+          "Agua natural": 150,
+          "Cafe expreso": 100,
+          "Cafe bombom": 150
+      },
+      "plus": {}
+    }
+  }

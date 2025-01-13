@@ -1,5 +1,5 @@
 {
-    "municipality": "Plaza de la Revolución",
+    "municipality": "pr",
     "name": "Restaurante Esquina-D-Fraile",
     "address": "Esquina 3ra y D (D entre 1ra y 3ra), Vedado, Plaza",
     "contacts": {
@@ -10,21 +10,18 @@
         "facebook": "https://www.facebook.com/p/Esquina-D-Fraile-100087679216837/",
         "instagram": "https://www.instagram.com/esquina_d_fraile?fbclid=IwY2xjawHBlulleHRuA2FlbQIxMAABHZZgOEu75gKPWpMtioNecKiM01pP04TQaiTfV33hGscw48xHz-aGBW5mow_aem_zjYxU6xWCn64PlZgea10Wg"
     },
-    "ratings": {
-        "tripadvisor": null,
-        "google": null
-    },
-    "owner": "privado",
-    "type": "restaurant",
-    "specialty": "American, Caribean, Latin, International, Mediterranean, Spain, Cuban",
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurant",
+    "specialty": "Comida Mixta",
     "hours": {
-        "monday": "_",
-        "tuesday": "_",
-        "wednesday": "_",
-        "thursday": "_",
-        "friday": "_",
-        "saturday": "_",
-        "sunday": "_"
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
     },
     "services": {
         "parking": true,
@@ -160,6 +157,7 @@
             "cerveza heineken": 800,
             "copa de vino blanco": 1200,
             "copa de vino tinto": 1200
-        }
+        },
+        "plus": {}
     }
 }

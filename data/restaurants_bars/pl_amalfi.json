@@ -1,0 +1,120 @@
+{
+    "municipality": "pl",
+    "name": "Amalfi",
+    "address":  "latitude: 23.118857756567763, longitude: -82.42952136001638",
+    "contacts": {
+      "phone": [],
+      "website": null,
+      "facebook": "Amalfi",
+      "instagram": "@amalfi_havana_restaurant",
+      "whatsapp": "59495759"
+    },
+    "ratings": {
+      "google": 5.0
+    },
+    "owner": "",
+    "type": "Bar-Restaurante",
+    "specialty":"Comida Italiana",
+    "hours": {
+      "monday": "1200_2230",
+      "tuesday": "1200_2230",
+      "wednesday": "1200_2230",
+      "thursday": "1200_2230",
+      "friday": "1200_2230",
+      "saturday": "1200_2230",
+      "sunday": "1200_2230"
+    },
+    "services": {
+      "parking": false,
+      "reservations": true,
+      "delivery": true,
+      "power plant": true
+    },
+    "payment_methods":"cup",
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "bruschetta": 1600,
+        "bruschetta amalfi": 1920,
+        "focaccia clasica": 1280,
+        "parmigiana": 2240,
+        "carpaccio pulpo": 3840,
+        "carpaccio res": 4160,
+        "carpaccio atun": 3520,
+        "focaccia 500": 1280,
+        "focaccia con prosciutto": 3840,
+        "focaccia pomodoro e rucola": 2560,
+        "focaccia salume del giorno e formaggio": 3200
+      },
+      "main_courses": {
+        "salsiccia italiana la plancha": 3840,
+        "fantasia di mare": 4800,
+        "gambari al limone": 3840,
+        "profumo mediterraneo": 5120,
+        "pomodoro fresco": 3520,
+        "carbonara": 3520,
+        "amatriciana": 3520,
+        "carbonara salsiccia": 3840,
+        "puttanesca": 3840,
+        "ragu malale": 3840,
+        "zucca e salsiccia": 3840,
+        "funghi e salsiccia": 4800,
+        "penne a la sorrentina": 3840,
+        "spaghetti con bottarga": 3200,
+        "penne al salmon": 3840,
+        "pasta amalfi": 3840,
+        "spaghetti cetara": 3840,
+        "linguine con calamar": 5120,
+        "pasta mediterranea": 5120,
+        "pizza margarita": 1920,
+        "pizza de la casa": 3520,
+        "pizza vegetariana": 2560,
+        "pizza mixta": 3200,
+        "pizza de atun": 3200,
+        "pizza de brocoli y salchicha": 2880,
+        "pizza diavola": 3880,
+        "pizza de serrano": 3200,
+        "pizza romana": 3200,
+        "pizza de jamon barra": 2560
+      },
+      "additions": {},
+      "fittings": {
+        "ensalada de estacion": 1280,
+        "ensalada positano": 1920,
+        "ensalada ravello": 1920,
+        "ensalada vettica": 1920
+      },
+      "desserts": {
+        "torta al limon": 1280,
+        "tortino al cioccolato": 1600,
+        "profiterol": 1280,
+        "tiramisu": 1280,
+        "tiramisu pan di stelle": 1600,
+        "delicia del dia": 1280
+      },
+      "drinks": {
+        "agua nacional": 500,
+        "agua importada": 850,
+        "refresco nacional": 420,
+        "refresco importado": 750,
+        "limonada": 840,
+        "jugo natural": 700,
+        "cerveza": 980,
+        "daiquiri": 1400,
+        "cuba libre": 1400,
+        "cubanito": 1400,
+        "cubata": 1400,
+        "mojito": 1400,
+        "caipiroska": 1400,
+        "caipirinna": 1400,
+        "caipirissima": 1400,
+        "sangria": 1400,
+        "margarita": 1400,
+        "gin tonic": 1400,
+        "pina colada": 1400,
+        "negroni": 2240,
+        "copa de vino": 1260,
+        "copa de vino italiano": 1680
+      },"plus":{}
+    }
+  }

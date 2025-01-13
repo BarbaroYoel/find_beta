@@ -1,0 +1,121 @@
+{
+    "municipality": "mn",
+    "name": "MMCafeteria",
+    "address": "Avenida 41",
+    "contacts": {
+        "phone": [
+            "72611382"
+        ],
+        "website": "Cafeteria MM",
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Cafeteria-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0900_2200",
+        "tuesday": "0900_2200",
+        "wednesday": "0900_2200",
+        "thursday": "0900_2200",
+        "friday": "0900_2200",
+        "saturday": "1000_0000",
+        "sunday": "1000_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Papas fritas": 650,
+            "Croquetas": 550,
+            "Fritura de malanga": 550,
+            "Tostones rellenos": 650,
+            "Ensalada fria de jamon": 800,
+            "Ensalada fria de atun": 900,
+            "Fajitas de Pechuga salteada": 1200,
+            "Fajitas de Pechuga empanada": 1450,
+            "Fajitas de Cerdo salteadas": 1300,
+            "Fajitas de cerdo empanada": 1350,
+            "Eperlan": 1350,
+            "Coctel de camarones": 2100
+        },
+        "main_courses": {
+            "Taco de cerdo": 1200,
+            "Taco de camaron": 1400,
+            "taco de pollo": 1100,
+            "taco de res": 1300,
+            "Crema de queso": 800,
+            "Lasagña Boloñesa": 1700,
+            "Espaguettis napolitano": 700,
+            "Pizzas Napolitanas, 32 cm": 750,
+            "Pizzas jamon": 1100,
+            "Pizzas Bacón": 1650,
+            "Pizzas Pimiento": 1050,
+            "Pizzas Cebolla": 950,
+            "Pizzas Hawaiana": 1350,
+            "Pizzas Atún": 1650,
+            "Pizzas Camarón": 1350,
+            "Pizzas Ropa Vieja": 1500,
+            "Pizzas De Chorizo": 1100,
+            "Pizzas MM": 1800,
+            "Bistec de Cerdo Grille": 1400,
+            "Cerdo Bistec Empanizado": 1600,
+            "Bistec de Cerdo Uruguayo": 1950,
+            "Masa de Cerdo Salteada": 1350,
+            "Lomo de Cerdo": 1500,
+            "Fricase de Cerdo": 1400,
+            "Bistec de Pollo Gordon Blue": 1900,
+            "Bistec de Pechuga Gordon Blue": 1900,
+            "Pechuga de Pollo Grille": 1500,
+            "Pechuga de Pollo Empanada": 1400,
+            "Vaca Frita": 1900,
+            "Ropa Vieja": 1900,
+            "Pescado Grille": 1500,
+            "Pescado Empanizado": 1900,
+            "Enchilado de Camarón": 1400,
+            "Camarón al Ajillo": 1700,
+            "Camaron Empanado": 2000,
+            "Canciller 190Grs": 2000,
+            "Langosta": 2100,
+            "Cazuela de mariscos": 2100,
+            "Canciller 180 Grs": 2000,
+            "Hamburguesa clasica": 400,
+            "Hamburguesa de queso": 600,
+            "Hamburguesa de jamon": 550,
+            "Hamburguesas jamon y queso": 700
+        },
+        "additions": {
+            "Arroz Blanco": 200,
+            "Arroz Congrí": 300,
+            "Arroz Frito": 1550,
+            "Arroz Imperial": 1650,
+            "Paella": 2100,
+            "Arroz frito de cerdo,pollo y mejillon": 1450
+        },
+        "fittings": {},
+        "desserts": {
+            "Helado CID": 850
+        },
+        "drinks": {
+            "agua": 130,
+            "Refresco Santa": 200,
+            "Sprite": 450,
+            "Santa isabel": 250,
+            "Energizante": 260,
+            "Cristal V": 245,
+            "Cristal B": 200,
+            "Bucanero": 240,
+            "Jugo Lata": 265
+        },
+        "plus": {}
+    }
+}

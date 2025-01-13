@@ -1,0 +1,49 @@
+{
+    "municipality": "hv",
+    "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
+    "address": "Prado y Malecón, Habana Vieja",
+    "contacts": {
+      "phone": [],
+      "website": null,
+      "facebook": null,
+      "instagram": null
+    },
+    "ratings": {},
+    "owner": "Estatal",
+    "type": "Bar",
+    "specialty": "Cocteles",
+    "hours": {
+      "monday": "0000_0000",
+      "tuesday": "0000_0000",
+      "wednesday": "0000_0000",
+      "thursday": "0000_0000",
+      "friday": "0000_0000",
+      "saturday": "0000_0000",
+      "sunday": "0000_0000"
+    },
+    "services": {
+      "parking": null,
+      "reservations": false,
+      "delivery": false,
+      "power plant": null
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+      "breakfasts": {},
+      "starters": {},
+      "main_courses": {},
+      "additions": {},
+      "fittings": {},
+      "desserts": {},
+      "drinks": {
+        "Jugo de frutas / Fruit juice": 360,
+        "Refresco / Soda": 390,
+        "Agua tónica / Tonic water": 450,
+        "Agua natural / Natural water": 600,
+        "Agua gaseada / Sparkling water": 600,
+        "Cerveza nacional / National beer": 600,
+        "Cerveza importada / Imported beer": 750,
+        "Ron en miniatura (45ml) / Miniature rum (45ml)": 850
+      },"plus":{}
+    }
+  }

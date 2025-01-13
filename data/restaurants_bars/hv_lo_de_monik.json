@@ -1,0 +1,78 @@
+{
+    "municipality": "hv",
+    "name": "Lo de Monik",
+    "address": "Compostela, esquina Chacón, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "052811595"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {
+            "Huevos, Tostadas, Jamón, Vegetales, Jugo, Café": 1800.00
+        },
+        "starters": {
+            "Yucas Bravas / Yucca With Hot Tacos Sauce": 600.00,
+            "Croquetas / Croquette": 560.00,
+            "Tamal en Cazuela": 1500.00,
+            "Tostones Rellenos de Jamón y Queso": 1100.00,
+            "Ropa Vieja": 1200.00,
+            "Cerdo": 1300.00,
+            "Frituras de Malanga": 600.00,
+            "Sandwich de Vegetales": 850.00,
+            "Sandwich de Jamón y Queso": 1000.00,
+            "Sandwich de Pollo": 1500.00,
+            "Sandwich de Atún": 1000.00,
+            "Sandwich Cubano": 2000.00
+        },
+        "main_courses": {
+            "Pasta Napolitana": 1700.00,
+            "Pasta de Pollo con Salsa Alfredo": 2000.00,
+            "Pasta Frutti di Mare": 2300.00,
+            "Pollo Grillado / Grilled Chicken": 1500.00,
+            "Camarón Grillado / Grilled Shrimps": 3000.00,
+            "Ropa Vieja / Shredded Beef": 2000.00,
+            "Ropa Vieja con Garbanzos / Shredded Beef With Chickpeas": 2400.00,
+            "Pescado Empanado / Fish and Chips": 2500.00,
+            "Masas de Cerdo / Pork Masses": 2800.00,
+            "Pescado Grillado / Grilled Fish": 2300.00,
+            "Pulpo Grillado / Grilled Octopus": 3800.00,
+            "Langosta / Lobster": 3000.00,
+            "Punta de Filete a la Deutch": 3800.00
+        },
+        "additions": {
+            "Side Dish": 300.00
+        },
+        "fittings": {},
+        "desserts": {
+            "Postre de la Casa / House's Dessert": 600.00
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

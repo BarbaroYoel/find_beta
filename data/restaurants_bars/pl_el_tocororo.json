@@ -1,0 +1,101 @@
+{
+    "municipality": "pl",
+    "name": "El Tocororo",
+    "address": "latitude: 23.124905240397386,longitude: -82.42134057564077",
+    "contacts": {
+        "phone": [
+            "72024530"
+        ],
+        "website": null,
+        "facebook": "Restaurante BAR Tocororo.",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.0
+    },
+    "owner": "Estatal",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1200_2300",
+        "tuesday": "1200_2300",
+        "wednesday": "1200_2300",
+        "thursday": "1200_2300",
+        "friday": "1200_2300",
+        "saturday": "1200_2300",
+        "sunday": "1200_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "panaderia de la casa": 75,
+            "coctel de langosta": 550,
+            "coctel de pescado": 385,
+            "ensalada de pollo tropical": 300,
+            "dados de queso en escabeche": 425,
+            "entremes de jamon": 285,
+            "seviche caribeno": 450,
+            "picadera especial tocororos": 1500,
+            "frituritas de la abuela": 170,
+            "croquetas del chef": 200,
+            "eperlan de pescado": 675,
+            "mejillones a la diabla": 700
+        },
+        "main_courses": {
+            "pesca especial del dia con salsa de limon": 1600,
+            "delicias del caribe": 1775,
+            "langosta grille abrillantada con mantequilla y olivo": 1750,
+            "langosta enchilada": 1700,
+            "mejillones a la diabla": 1250,
+            "pollo al horno al estilo del chef": 820,
+            "suprema de pollo perfumada al olivo": 850,
+            "higado grille con aderezo primavera": 985,
+            "lonjas de cerdo asado con mojo criollo": 1500,
+            "costilla de cerdo asado a lo cubano": 1425,
+            "ternera guisada a la campesina": 1550,
+            "spaghetti napolitano": 550,
+            "spaghetti primavera": 625,
+            "spaghetti al olio": 550,
+            "spaghetti guarnecido con jamon": 685,
+            "spaghetti marinero": 850
+        },
+        "additions": {
+            "arroz blanco": 110,
+            "arroz moro": 200,
+            "hortalizas salteadas": 100,
+            "vianda hervida aderezada con mojo criollo": 100,
+            "vianda frita": 100,
+            "papas fritas": 150,
+            "ensalada de hortalizas del dia": 100,
+            "sopon campesino": 80,
+            "frijoles negros a la criolla": 180,
+            "caldo marinero": 195
+        },
+        "fittings": {},
+        "desserts": {
+            "deliciosa torta de la casa": 285,
+            "arroz con leche a la canela": 200,
+            "dulces en almibar guarnecido con queso": 200,
+            "helado tocororo": 180
+        },
+        "drinks": {
+            "cafe expreso": 90,
+            "cafe cortadito": 100,
+            "cafe rocio de gallo": 150,
+            "cafe carajillo": 150,
+            "cafe americano": 100,
+            "infusion de manzanilla": 100,
+            "infusion de menta poleo": 100
+        },
+        "plus": {}
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "municipality": "Plaza de la Revolución",
+    "municipality": "pr",
     "name": "La Catedral",
     "address": "Calle 8 e/ Calzada 5ta, Vedado. Plaza de la Revolución, La Habana 10400 Cuba",
     "contacts": {
@@ -11,12 +11,11 @@
       "instagram": "https://www.instagram.com/lacatedralcuba"
     },
     "ratings": {
-      "tripadvisor": null,
-      "google": null
+
     },
-    "owner": "privado",
-    "type": "restaurant",
-    "specialty": "Spanish, Cuban",
+    "owner": "Privado",
+    "type": "Restaurant",
+    "specialty": "Comida Mixta",
     "hours": {
       "monday": "0800_2300",
       "tuesday": "0800_2300",

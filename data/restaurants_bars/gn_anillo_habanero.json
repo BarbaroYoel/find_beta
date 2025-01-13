@@ -1,0 +1,103 @@
+﻿{
+  "municipality": "gn",
+  "name": "Anillo Habanero",
+  "address": "3PXM+4Q3, Primer Anillo de La Habana, La Habana",
+  "contacts": {
+    "phone": [
+      "52042710",
+      "77976432"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "google": 4.5
+  },
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Mixta",
+  "hours": {
+    "monday": "1000_2300",
+    "tuesday": "1000_2300",
+    "wednesday": "1000_2300",
+    "thursday": "1000_2300",
+    "friday": "1000_2300",
+    "saturday": "1000_2300",
+    "sunday": "1000_2300"
+  },
+  "services": {
+    "parking": false,
+    "reservations": true,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Picadera Anillo": 3000,
+      "Tacos de vegetales": 600,
+      "Croquetas Habaneras": 400,
+      "Nachos, Salsa Rosa y Guacamole": 400,
+      "Brochetas": 1300,
+      "Cóctel de camarones": 2000,
+      "Frituras": 300,
+      "Tostones rellenos": 550,
+      "Tacos de Pollo": 800
+    },
+    "main_courses": {
+      "Lomo ahumado": 2000,
+      "Chuletas de cerdo": 3000,
+      "Ropa vieja": 3000,
+      "Vaca Frita": 3000,
+      "Camarones enchilados": 3500,
+      "Camarones al ajillo": 3500,
+      "Pizza Napolitana": 800,
+      "Spaguetis Napolés": 850
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {
+      "Tarta de Vainilla": 750,
+      "Cheesecake de Limón": 750,
+      "Coctel de Frutas Importadas": 350
+    },
+    "drinks": {
+      "Michelada": 600,
+      "Margarita": 800,
+      "Caipiroska": 800,
+      "Cócteles Analcohólicos": 500,
+      "Caipirisima": 800,
+      "Vodka Tonic": 900,
+      "Screwdriver": 800,
+      "Gin Tonic": 900,
+      "Agua Marina": 800,
+      "Cancha": 800,
+      "Tinto de Verano": 800,
+      "Limonada Frappé": 250,
+      "Daiquirí": 800,
+      "Chelada": 450,
+      "Piña Colada": 1000,
+      "Sangría": 1000,
+      "Cerveza Nacional": 350,
+      "Cerveza importada": 300,
+      "Trago Jonny Walker": 500,
+      "William Lawsons": 350,
+      "Lyubov Vodka": 200,
+      "Energizantes Importados": 500,
+      "Maltas Importadas": 320,
+      "Pepsi Refresco gaseado": 400,
+      "Jugos naturales": 250,
+      "Agua natural": 200,
+      "Kermato": 700,
+      "Refrescos Importados": 300,
+      "Expresso": 100,
+      "Cortadito": 200,
+      "Capuchino": 250
+    },
+    "plus": {}
+  }
+}

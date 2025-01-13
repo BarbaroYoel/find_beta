@@ -1,0 +1,109 @@
+{
+  "municipality": "pl",
+  "name": "D'kmino",
+  "address": "latitude: 23.11433698105626, longitude: -82.41322840010747",
+  "contacts": {
+    "phone": [
+      "72090437",
+      "56801787"
+    ],
+    "website": null,
+    "facebook": "DKmino",
+    "instagram": "@dkaminocomidasaludable"
+  },
+  "ratings": {
+    "google": 4.0
+  },
+  "owner": "",
+  "type": "Restaurante",
+  "specialty": "Comida Mixta",
+  "hours": {
+    "monday": "1100_2300",
+    "tuesday": "1100_2300",
+    "wednesday": "1100_2300",
+    "thursday": "1100_2300",
+    "friday": "1100_2300",
+    "saturday": "1100_2300",
+    "sunday": "1100_2300"
+  },
+  "services": {
+    "parking": true,
+    "reservations": true,
+    "delivery": true,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "pan con chicharrones carnudos y guacamole": 1655,
+      "pan cubano el guapo": 3555,
+      "croquetas de la abuela": 1000,
+      "frituras de malanga y jamon": 1700,
+      "empanadas de la casa": 1700,
+      "carpaccio de ternera aceite trufas y destellos de parmesano": 1700,
+      "berenjenas a la parmesana": 1700,
+      "quesadilla marinera": 1700,
+      "tostas y tacos de res o camaron": 1700,
+      "ensalada cesar con dados de pollo show": 1700,
+      "chorizo gallego al carbon con queso manchego": 1700,
+      "ceviche de pescado y calamares crujientes": 1700,
+      "steak tartar show": 1700,
+      "calamares a la romana con salsa tartara y aceite de sesamo": 945,
+      "burrata fresca con aceite de truffas tomate y aguacate": 2100,
+      "yaquitori de langosta crujiente con salsa chipotle": 2255,
+      "provoleta con blanqueta tomate y pimiento asado": 3335
+    },
+    "main_courses": {
+      "tamal relleno con lonjas de cerdo y huevo frito": 2955,
+      "costillas de cerdo caramelizadas con pure de boniato y jengibre": 4145,
+      "fricando de ternera estofado": 4500,
+      "milanesa de pollo con mini ensalada cesar": 2955,
+      "churrasco de filete de cerdo con salsa de guayaba y mostaza dijon": 2945,
+      "pollo entero relleno de arroz moro y bacon": 2955,
+      "solomillo de ternera con papas asadas y crema de piquillos": 4550,
+      "picanha chilena": 8000,
+      "rionada argentina": 8000,
+      "bife de chorizo": 7255,
+      "straccettis con cebolla y jamon": 3500,
+      "filete de pescado con vegetales orientales": 3755,
+      "filete de pescado frito con crujientes de cebolla frita y aderezo": 2950,
+      "gambon argentino al ajillo": 3555,
+      "cerdo asado a lo cubana": 8500,
+      "tamaribs de cerdo 340g con papas fritas": 4500,
+      "zarzuela de mariscos langosta camarón pescado y pulpo": 5500,
+      "tagliata de res o cerdo queso bifido curado rucula fresca y aceite de truffas": 7500,
+      "punta de filete al ajillo con mostaza": 4550,
+      "pastas largas y cortas a la piedra": 3100,
+      "pasta alfredo": 2950,
+      "pasta aglio e olio con dados de tomate": 2755,
+      "real pizza italiana 33 cm": 2300,
+      "pizza imperial": 3655
+    },
+    "additions": {
+      "jamon barra": 500,
+      "jamon serrano": 650,
+      "queso gouda": 500,
+      "queso parmesano": 800,
+      "bacon": 500,
+      "pepperoni": 550,
+      "chorizo asturiano": 550,
+      "camaron": 600,
+      "huevo": 400,
+      "aceitunas": 500,
+      "cebolla": 450
+    },
+    "fittings": {},
+    "desserts": {
+      "cookies recien horneadas con helado y cremas": 2000,
+      "cheesecake": 2000,
+      "tres leche con fanguito y helado": 2000,
+      "brownie de nueces y helado de pistacho": 2000,
+      "es mas que un flan": 2000
+    },
+    "drinks": {},
+    "plus": {}
+  }
+}

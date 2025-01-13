@@ -1,0 +1,66 @@
+{
+    "municipality": "ch",
+    "name": "Salchipizza",
+    "address": "latitude: 23.13412923367649,  longitude: -82.37826298998031",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": "Salchipizza",
+        "instagram": "@salchipizza"
+    },
+    "ratings": {
+        "google": 4.2
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": [
+        "Comida Cubana"
+    ],
+    "hours": {
+        "monday": "",
+        "tuesday": "1300_2300",
+        "wednesday": "1300_2300",
+        "thursday": "1300_2300",
+        "friday": "1300_2300",
+        "saturday": "1300_2300",
+        "sunday": ""
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "tabla de panes artesanales": 1500,
+            "terrina de pescado": 2700,
+            "tinaja de carbón con crema Parmentier de verduras de estacion": 2500,
+            "ensalada de cerdo guayaba y fruta bomba": 2000
+        },
+        "main_courses": {
+            "carretón de boniato, rueda de quimbombó y y látigo de carnero ahumado": 3000,
+            "volcán de maíz, lava de pescado ardiente y cenizas de pulpo": 3500,
+            "masa de cerdo con verduras al gratin": 2300,
+            "lasaña de carne a la boloñesa": 1600,
+            "señorita de cerdo con verduras al gratin": 3000
+        },
+        "additions": {},
+        "desserts": {
+            "recuerdos de la infancia": 2000
+        },
+        "drinks": {
+            "agua": 200,
+            "copa de vino": 750,
+            "copa de champagne": 800,
+            "cerveza nacional": 350,
+            "cerveza importada": 400,
+            "cafe": 150
+        },
+        "plus": {}
+    }
+}

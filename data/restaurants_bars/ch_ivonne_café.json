@@ -11,7 +11,7 @@
     "ratings": {},
     "owner": "Privado",
     "type": "Bar-Restaurante",
-    "specialty": "",
+    "specialty": "Dulces",
     "hours": {
         "monday": "0900_2200",
         "tuesday": "0900_2200",
@@ -68,7 +68,7 @@
             "Aguas": 250,
             "Refrescos": 250,
             "Cervezas": 300,
-            "Limonada Frappe": 850,
+            "Limonada Frappe": 250,
             "Batido Helado": 850,
             "Batido Fruta": 550
         },

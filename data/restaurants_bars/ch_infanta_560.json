@@ -1,0 +1,55 @@
+{
+    "municipality": "ch",
+    "name": "Infanta 560",
+    "address": "latitude: 23.135420733511385, longitude: -82.37831753600521",
+    "contacts": {
+        "phone": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+        "monday": "0800_2200",
+        "tuesday": "0800_2200",
+        "wednesday": "0800_2200",
+        "thursday": "0800_2200",
+        "friday": "0800_2200",
+        "saturday": "0800_2200",
+        "sunday": "0800_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "picadera (300g)": 550
+        },
+        "main_courses": {
+            "pizza napolitana (250g)": 200,
+            "pizza hawaiana (300g)": 300,
+            "pizza queso gouda (250g)": 320,
+            "pizza familiar napolitana (500g)": 380,
+            "pizza familiar hawaiana (600g)": 700,
+            "pizza familiar queso gouda (500g)": 700,
+            "fajas de pollo (300g)": 600,
+            "spaghetti (470g)": 300,
+            "spaghetti queso gouda (470g)": 420
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

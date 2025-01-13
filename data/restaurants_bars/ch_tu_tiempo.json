@@ -1,0 +1,82 @@
+{
+    "municipality": "ch",
+    "name": "Tu Tiempo",
+    "address": "latitude: 23.1401557660662, longitude: -82.37586279184762",
+    "contacts": {
+        "phone": [
+            "78737259"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.6
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "0800_2000",
+        "tuesday": "0800_2000",
+        "wednesday": "0800_2000",
+        "thursday": "0800_2000",
+        "friday": "0800_2000",
+        "saturday": "0800_2000",
+        "sunday": "0800_2000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "combo 17": 2000,
+            "combo 18": 2000,
+            "combo 19": 2300,
+            "combo 20": 2300,
+            "combo 21": 3000,
+            "combo 22": 3000,
+            "combo 23": 3000,
+            "combo 24": 2000,
+            "combo 25": 2500,
+            "combo 26 (tu tiempo)": 5000,
+            "fricase de pollo": 2000,
+            "bistec de res": 3300,
+            "arroz con pollo": 2000,
+            "combo 1": 1500,
+            "combo 2": 1800,
+            "combo 3": 2000,
+            "combo 4": 2000,
+            "combo 5": 2300,
+            "combo 6": 2600,
+            "combo 7": 3000,
+            "combo 8": 2000,
+            "combo 9": 2000,
+            "combo 10": 2100,
+            "combo 11": 2000,
+            "combo 12": 2000,
+            "combo 13": 2000,
+            "combo 14": 2000,
+            "combo 15": 2000,
+            "combo 16": 2300
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "arroz con leche": 300,
+            "coctel de frutas": 150
+        },
+        "drinks": {
+            "batido de helado": 400
+        },
+        "plus": {}
+    }
+}

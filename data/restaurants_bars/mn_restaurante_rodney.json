@@ -1,0 +1,82 @@
+{
+    "municipality": "mn",
+    "name": "Restaurante Rodney",
+    "address": "72A,Avenida 41",
+    "contacts": {
+        "phone": ["7279147"],
+        "website": "Cabaret-Tropicana.com",
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Estatal",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_2200",
+        "tuesday": "1200_2200",
+        "wednesday": "1200_2200",
+        "thursday": "1200_2200",
+        "friday": "1200_2200",
+        "saturday": "1200_2200",
+        "sunday": "1200_2200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {
+            "Sandwich de un agrego": 230,
+            "Sandwich de dos agregos": 300
+        },
+        "starters": {
+            "Picadera de la casa": 650,
+            "Entremes de embutido y queso": 400,
+            "Tacos mexicanos de pollo": 700,
+            "Tacos mexicanos de cerdo": 1400,
+            "sopa del dia": 125,
+            "Croquetas": 250,
+            "Crema aurora": 350,
+            "Crema virginia": 480,
+            "Crema de calabaza con queso": 400,
+            "Eperlan de pescado": 600,
+            "Fajitas de pollo": 500
+        },
+        "main_courses": {
+            "Pata napolitana": 500,
+            "Pizza napolitana": 500,
+            "Pizza campesina": 1200,
+            "Pizza especial rodney (rellena con queso)": 800,
+            "Pizza especial rodney (rellena con embutido)": 900,
+            "Pizza super especial rodney (rellena con queso y varios embutidos)": 1200,
+            "Lonjas de cerdo asada": 2000,
+            "fricase de cerdo": 2300,
+            "Bistec de cerdo grille": 1800,
+            "Pollo asado": 850,
+            "Pollo frito": 900,
+            "Pollo deshuesado": 900,
+            "Filete migñon": 3000,
+            "Steack de res": 1400,
+            "Filete de pescado a la plancha": 1500,
+            "Filete de pescado gratinado con queso": 1750,
+            "Filete de pescado canciller": 2000,
+            "Langosta a la plancha": 1800,
+            "Langosta enchilada": 1900
+        },
+        "additions": {
+          "Arroz Rodney": 780,
+          "Filete bacalao a la plancha": 250,
+          "Arroz blanco": 120,
+          "Ensalada de vegetales": 120
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {
+        }
+    }
+}

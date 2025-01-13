@@ -1,0 +1,90 @@
+{
+    "municipality": "pl",
+    "name": "Villarino",
+    "address": "latitude: 23.10341935595807, longitude: -82.41834601431532",
+    "contacts": {
+      "phone": ["72077867"],
+      "website": "http://linktr.ee/restaurantevillarino",
+      "facebook": "Restaurante Club Villarino",
+      "instagram": "@villarino.restaurantehabana"
+    },
+    "ratings": {
+      "google": 5.0
+    },
+    "owner": "",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+      "monday": "1200_2200",
+      "tuesday": "1200_2200",
+      "wednesday": "1200_2200",
+      "thursday": "1200_2200",
+      "friday": "1200_2200",
+      "saturday": "1200_2200",
+      "sunday": "1200_2200"
+    },
+    "services": {
+      "parking": true,
+      "reservations": true,
+      "delivery": true,
+      "power plant": true
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "crujientes de yuca con aderezo agridulce": 480,
+        "croquetas de la casa": 520,
+        "bolitas de queso crujientes": 720,
+        "sandwich clasico": 520,
+        "eperlan de pescado": 720,
+        "fajitas de pollo": 680,
+        "cazuelita de garbanzos a la criolla": 680
+      },
+      "main_courses": {
+        "arroz con pollo a la campesina": 800,
+        "arroz frito especial": 800,
+        "risotto": 2250,
+        "pizza napolitana": 700,
+        "pizza cebolla": 750,
+        "pizza chorizo": 780,
+        "pizza doble queso": 950,
+        "pizza jamon": 800,
+        "pizza vegetales": 800,
+        "pizza hawaiana": 880,
+        "pizza de pollo": 800,
+        "pizza del mar": 1200,
+        "pizza de atun": 950,
+        "pizza de ropa vieja": 950,
+        "pizza de camarones": 1200,
+        "pizza al gusto": 1000,
+        "pasta de queso": 850,
+        "pasta de jamon": 920,
+        "pasta de chorizo": 880,
+        "pasta carbonara": 950,
+        "pasta villarino": 1200,
+        "lasagna de carne": 850
+      },
+      "additions": {},
+      "fittings": {},
+      "desserts": {},
+      "drinks": {
+        "agua natural": 150,
+        "agua tonica": 300,
+        "malta importada": 280,
+        "malteada": 480,
+        "red bull": 220,
+        "refrescos nacionales": 220,
+        "refrescos importados": 235,
+        "limonada frappe": 200,
+        "jugos naturales": 180,
+        "jugos importados": 210,
+        "cocteles nacionales": 475,
+        "cocteles internacionales": 550,
+        "copa de vino": 350,
+        "cervezas nacionales (cristal/bucanero)": 260,
+        "cervezas importadas": 380
+      },
+      "plus": {}
+    }
+  }

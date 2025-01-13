@@ -1,0 +1,119 @@
+{
+    "municipality": "ch",
+    "name": "Galy Cafe",
+    "address": "latitude: 23.13605979859447, longitude: -82.36264764949895",
+    "contacts": {
+        "phone": [
+            "78634580"
+        ],
+        "website": null,
+        "facebook": "GalyCafé",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_0000",
+        "sunday": "1100_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "croquetas cremosas galy": 650,
+            "eperlan": 760,
+            "crema de queso": 570,
+            "crema virginia": 600,
+            "crema aurora": 590,
+            "crema de queso azul": 720,
+            "fajitas de pechuga de pollo": 760,
+            "coctel de camarones": 1100
+        },
+        "main_courses": {
+            "bistec de cerdo a la plancha": 2750,
+            "lomo de cerdo ahumado": 2100,
+            "filetillo de res o cerdo": 1550,
+            "bistec uruguayo": 2750,
+            "pechuga a la plancha": 2750,
+            "pechuga empanada": 3100,
+            "pechuga cordon bleu": 2970,
+            "pechuga milanesa": 2860,
+            "bistec de palomilla": 2650,
+            "ropa vieja": 2650,
+            "pescado a la plancha": 3200,
+            "pescado empanado": 3200,
+            "filete canciller": 3520,
+            "camarón al ajillo": 3200,
+            "camarón enchilado": 3200,
+            "camarón rebosado": 3200,
+            "camarón empanado": 3200,
+            "camarón a la plancha": 3200,
+            "pulpo enchilado": 3300,
+            "pulpo al ajillo": 3300,
+            "paella melosa del mar": 3100,
+            "mar y tierra": 3300,
+            "sandwich de queso": 1150,
+            "sandwich de jamón": 1150,
+            "sandwich de jamón y queso": 1200,
+            "sandwich de jamón, queso y chorizo": 1250,
+            "sandwich de atún y cebolla": 1270,
+            "pizza de queso": 1160,
+            "pizza de jamón": 1270,
+            "pizza de chorizo": 1270,
+            "pizza hawaiana": 1270,
+            "pizza de cebolla": 1270,
+            "pizza de pimientos": 1270,
+            "pizza de camarones": 1550,
+            "pizza de atún y cebolla": 1500,
+            "pizza galy (2 quesos)": 1550,
+            "spaghetti de queso": 1160,
+            "spaghetti al diablo": 1200,
+            "spaghetti de jamón": 1270,
+            "spaghetti de chorizo": 1270,
+            "spaghetti carbonara": 1450,
+            "spaghetti de camarones": 1550,
+            "spaghetti con pescado y mariscos": 1700
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "tarta de chocolate galy": 650,
+            "tres leche con hilo de chocolate": 690,
+            "helados variados": 610
+        },
+        "drinks": {
+            "agua natural": 385,
+            "agua gaseada": 300,
+            "red bull": 500,
+            "malteada": 500,
+            "jugos naturales": 210,
+            "jugo natural (cajita 200ml)": 320,
+            "jugo importado (enlatado)": 385,
+            "batido de helado": 950,
+            "cervezas nacionales": 440,
+            "cervezas importadas": 330,
+            "café expreso": 330,
+            "café cortado": 305,
+            "café cremoso": 440,
+            "café galy": 500
+        },
+        "plus": {}
+    }
+}

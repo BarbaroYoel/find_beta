@@ -1,0 +1,82 @@
+{
+    "municipality": "pl",
+    "name": "Otra manera",
+    "address": "latitude: 23.11917180897718, longitude: -82.41453997132663",
+    "contacts": {
+        "phone": [
+            "72038315"
+        ],
+        "website": null,
+        "facebook": "Otramaneralahabana",
+        "instagram": "@otramanera.lahabana"
+    },
+    "ratings": {
+        "google": 4.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "",
+        "tuesday": "1230_2300",
+        "wednesday": "1230_2300",
+        "thursday": "1230_2300",
+        "friday": "1230_2300",
+        "saturday": "1230_2300",
+        "sunday": ""
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "ceviche del dia": 2400,
+            "bniato marinado y frito con ali oli de cachucha": 2050,
+            "falafel con salsa tzatziki": 1900,
+            "croquetas de chuleton de cerdo al carbon": 2050,
+            "nachos mexicanos con picadillo de cerdo picanton": 2400,
+            "tacos de lechon asado": 2400,
+            "huevos de codorniz trufados al horno, con papas y chorizo frito": 2050,
+            "mini hamburguesas de cordero con queso de cabra": 3200,
+            "wok de pulpo": 3200,
+            "ensalada de aguacate asado, tomate, pepino y remolacha crujiente": 2050,
+            "tartar de mozzarella fresca, aguacate y tomate": 2050,
+            "ensalada verde con queso de cabra y reduccion de frutas": 1900,
+            "ensalada verde con pollo marinado en nuestra salsa de piña y cilantro": 2050
+        },
+        "main_courses": {
+            "pescado del dia a la plancha con mole verde y boniatos asados": 3400,
+            "dados de pescado blanco, cocinado en salsa de curry amarillo con leche de coco y arroz blanco": 3400,
+            "costillar deshuesado de cerdo cocinado en baja temperatura y matajibaro": 3400,
+            "costillas asadas en salsa barbacoa, pastel de yuca y verduritas": 4050,
+            "langosta al horno con mantequilla, limon y mole negro": 5100,
+            "risotto de zanahoria con mozzarella y hierbas aromaticas": 4050,
+            "arroz de marisco": 4500,
+            "new york steak con papas asadas y salsa chimichurri": 4000,
+            "albondiga de res rellena de setas y papas asadas": 4500,
+            "cordero en salsa de chocolate con verduras grilladas": 4050,
+            "canelon de pollo asado con setas": 3500,
+            "canelon de cangrejo xl con doble salsa": 3400,
+            "wok de atun, vegetales y salsa teriyaki": 2400,
+            "wok de tallarines con cerdo, vegetales, piña y teriyaki": 2400
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "biscocho breton, crema de limon y toffe": 1700,
+            "coulant de chocolate con helado": 2100,
+            "baba al ron con helado": 1700,
+            "arroz con leche": 1800,
+            "helado": 1350
+        },
+        "drinks": {},
+        "plus": {}
+    }
+}

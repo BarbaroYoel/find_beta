@@ -1,0 +1,133 @@
+{
+  "municipality": "do",
+  "name": "Pasos Habaneros",
+  "address": "#464, Calle Santos Suarez entre Gomez y Mendoza, Santos Suarez",
+  "contacts": {
+    "phone": null,
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {
+    "Google": 5.0
+  },
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Mixta",
+  "hours": {
+    "monday": "0900_1800",
+    "tuesday": "0900_1800",
+    "wednesday": "0900_1800",
+    "thursday": "0900_1800",
+    "friday": "0900_1800",
+    "saturday": "0900_1800",
+    "sunday": "0900_1300"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "eur",
+    "mlc"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Croquetas": 280,
+      "Coctel de camaron sencillo": 400,
+      "Coctel de camaron doble": 800,
+      "Alitas de pollo (1/2 libra)": 430,
+      "Picadera Mi Habana": 750,
+      "Picadera Pasos Habaneros": 850,
+      "Alitas de pollo (1 libra)": 860,
+      "Super Picadera Especial": 1500,
+      "Fajitas de cerdo Pasos Habaneros": 950
+    },
+    "main_courses": {
+      "Pan con hamburguesa": 280,
+      "Pan con hamburguesa y queso": 360,
+      "Pan con hamburguesa, jamon y queso": 420,
+      "Pan con hamburguesa Pasos Habaneros": 480,
+      "Pan Super Hamburguesa": 750,
+      "Sandwich de jamon y queso": 400,
+      "Sandwich Pasos Habaneros": 550,
+      "Sandwich Campesino": 750,
+      "Pan con queso blanco": 135,
+      "Pan con croquetas": 180,
+      "Pan con croquetas y jamon": 280,
+      "Bocadito de jamon": 240,
+      "Bocadito de jamon y queso": 350,
+      "Super Pan Pasos Habaneros": 600,
+      "Pizza napolitana": 250,
+      "Pizza de doble queso": 300,
+      "Pizza de mayonesa": 300,
+      "Pizza de jamon y queso": 350,
+      "Pizza de doble queso y jamon": 540,
+      "Lasagna": 500,
+      "Espaghettis napolitano": 380,
+      "Espaghettis de doble queso": 440,
+      "Espaghettis de jamon y queso": 475,
+      "Espaghettis de doble queso y jamon": 540,
+      "Pollo asado": 275,
+      "Pollo asado 1/4": 550,
+      "Bistec de cerdo": 750,
+      "Bistec de cerdo empanado": 850,
+      "Ropa vieja de res": 850,
+      "Lomo de cerdo": 880,
+      "Carne de cerdo asado": 950,
+      "Lomo ahumado": 950,
+      "Masas de cerdo frita": 950,
+      "Chuleta de cerdo": 950,
+      "Bistec uruguayo de cerdo": 1000
+    },
+    "additions": {},
+    "fittings": {
+      "Arroz blanco": 150,
+      "Arroz moro": 200,
+      "Arroz Cardenal": 260,
+      "Ensalada de estacion": 250,
+      "Vianda con mojo": 250,
+      "Vianda frita": 300
+    },
+    "desserts": {
+      "Helado Futbolito": 170,
+      "Helado Ciudad Deportiva": 225,
+      "Helado Jimagua Monaco": 290,
+      "Helado Vaca negra o blanca": 320,
+      "Helado Sabor a Mi": 345,
+      "Helado Capitolio": 400,
+      "Helado Esquina de Tejas": 450,
+      "Helado Esquina de Toyo": 590,
+      "Helado Ensalada Parque Central": 660,
+      "Helado Pasos Habaneros": 710,
+      "Barquillo de helado": 135,
+      "Pote de helado (200ml) sin montaje": 280,
+      "Pote de helado (200ml) con montaje": 300,
+      "Pote de helado (400ml) sin montaje": 400,
+      "Pote de helado (400ml) con montaje": 430
+    },
+    "drinks": {
+      "Vino dulce (copa)": 100,
+      "Whiskey 5 Shot": 100,
+      "Silver Dry (shot)": 110,
+      "Vino tinto (copa)": 150,
+      "Chancelier (shot)": 170,
+      "Black Tears (shot)": 170,
+      "Havana Club (shot)": 170,
+      "Agua mineral": 120,
+      "Refresco de pomo": 235,
+      "Refresco de lata": 230,
+      "Cerveza de lata": 200,
+      "Malta": 235,
+      "Energizante": 250,
+      "Cerveza dispensada (500ml)": 290,
+      "Cerveza dispensada (300ml)": 200,
+      "Termo de cerveza Cristal de 6 latas": 1700
+    }
+  }
+}

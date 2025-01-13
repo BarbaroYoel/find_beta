@@ -1,0 +1,116 @@
+{
+    "municipality": "hv",
+    "name": "ChaChaChá",
+    "address": "Monserrate # 159 e/ Tejadillo y Chacón, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "078672450"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Comida Mixta",
+    "specialty": "Bar-Restaurante",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup",
+        "usd"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Ceviche de la Casa": 3050,
+            "Carpaccio de Pulpo con Vinagreta de Cítricos": 3850,
+            "Tiradito de Pez con Chicharrita": 3050,
+            "Carpaccio de Res con Rúcula y Aceite de Trufa": 4450,
+            "Carpaccio de Atún Rojo": 4100,
+            "Pan y Mantequilla": 1150,
+            "Croquetas Braseadas de Pollo": 2250,
+            "Crema de Calabaza, Betabel y Parmesano": 1800,
+            "Tacos ChaChaChá": 2700,
+            "Empanadillas de Carne BBQ": 2250,
+            "Tabla de Jamón Serrano, Salami y Quesos": 5700,
+            "Sashimi Ahumado": 4100,
+            "Tartar de Res": 4450,
+            "Tartar de Atún": 4100,
+            "Jorrin": 3050,
+            "César con Pollo y Bacon": 3850,
+            "ChaChaChá": 3850,
+            "Mixta de Salmón": 3850,
+            "Griega": 3400,
+            "Salsa Boloñesa": 3850,
+            "Camarón, Curry y Pimienta Rosa": 4100,
+            "Salsa Alfredo": 3850,
+            "Salsa Funghi con Pollo y Trufa": 4450,
+            "Salsa Carbonara Trufada": 4150,
+            "Salsa Bisque al Fruti D'Mare": 4900,
+            "Cóctel de Langosta": 2660,
+            "Patacón ChaChaChá": 2700,
+            "Quesadilla Cuatro Quesos": 3420,
+            "Papa Rellena de Camarón y Queso": 2700,
+            "Frituritas de Malanga": 2250,
+            "Tamal en Cazuela": 1900
+        },
+        "main_courses": {
+            "Masas de Cerdo Confitadas": 3800,
+            "Lechón Cubano": 4560,
+            "Ropa Vieja de la Abuela": 4180,
+            "Picadillo a la Habanera": 4180,
+            "Solomillo de Cerdo Español": 5320,
+            "Puntas de Filete Estilo ChaChaChá": 7600,
+            "Arroz Thai de Pollo, Curry de Coco y Pasas": 4180,
+            "Solomillo Argentino (280g)": 11150,
+            "Entrecote de Ternera (350g)": 10640,
+            "Puntas de Cerdo BBQ": 5320,
+            "Filete de Pescado al Horno con Finas Hierbas": 4180,
+            "Langosta Caribeña": 6460,
+            "Zarzuela de Mariscos": 10500,
+            "Camarones al Gusto": 6460,
+            "Pulpo Nórdico": 9500,
+            "Calamar Patagónico": 6460
+        },
+        "additions": {},
+        "fittings": {
+            "Vianda Frita": 760,
+            "Puré de Temporada": 1140,
+            "Ensalada de Estación": 1520,
+            "Arroz Blanco": 760,
+            "Frijoles Negros": 1140
+        },
+        "desserts": {
+            "Brownie": 3000,
+            "Esfera de Frutas": 3000,
+            "Bizcocho": 2900,
+            "Arroz con Leche de la Abuela": 2500,
+            "Flan Tía Lola": 2700,
+            "Copa de Helado": 2200,
+            "Carajillo": 1050,
+            "Bombón": 1200
+        },
+        "drinks": {
+            "Expresso": 520,
+            "Nespresso": 960,
+            "Cortado": 875,
+            "Frappuccino": 2200,
+            "Té / Infusiones": 620
+        },
+        "plus": {}
+    }
+}

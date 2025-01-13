@@ -1,0 +1,90 @@
+{
+    "municipality": "hv",
+    "name": "Fonda Al Pirata",
+    "address": "San Ignacio #76 e/ O'Reilly y Empedrado, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "5 2539750"
+        ],
+        "website": "qr14334.buenacarta.com",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3"
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "0800_0000",
+        "tuesday": "0800_0000",
+        "wednesday": "0800_0000",
+        "thursday": "0800_0000",
+        "friday": "0800_0000",
+        "saturday": "0800_0000",
+        "sunday": "0800_0000"
+    },
+    "services": {
+        "parking": null,
+        "reservations": false,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": [],
+    "menu": {
+        "breakfasts": {
+            "Desayuno Tradicional": 2880,
+            "Desayuno Vegetariano": 2880,
+            "Desayuno Vegano": 2880
+        },
+        "starters": {
+            "Tostadas Piratas": 960,
+            "Hummus y Vegetales": 1920,
+            "Tapas Piratas": 1920,
+            "Bolitas de queso": 1920,
+            "Bolitas de queso picantes": 1920,
+            "Ceviche": 2240,
+            "Cóctel de Langosta": 2720,
+            "Crudo de Pulpo": 2880
+        },
+        "main_courses": {
+            "Ensaladas Piratas de Corazón": 1440,
+            "Botija Pirata": 1920,
+            "Combinación Pirata": 3200,
+            "Galeón el Olones": 3360,
+            "Filete de Pescado": 3840,
+            "Pescado Entero": 5120,
+            "Langosta a su Gusto": 6080,
+            "Hamburguesa Vegana": 1440,
+            "Sandwich Verde": 1600,
+            "Hamburguesa Barba Roja": 2240,
+            "Sandwich de Pechuga": 2240,
+            "Sandwich Mary Read": 2240,
+            "Club Sandwich Pollo": 2560,
+            "Club Sandwich Atún": 2720,
+            "Sandwich Abordaje": 3040
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Coctelería": 1104,
+            "Cócteles Afrutados": 1216,
+            "Piña Colada": 1440,
+            "Sangría": 1440,
+            "Piña Colada2": 1280,
+            "Jugo Natural": 640,
+            "Limonada": 640,
+            "Limonada de Frutas": 720,
+            "Té": 384,
+            "Café expreso": 480,
+            "Café americano": 480,
+            "Cortadito": 512,
+            "Café Bombón": 608,
+            "Café expreso doble": 640,
+            "Café con leche": 672,
+            "Frappuccino": 1232,
+            "Frappuccino Mocca": 1232
+        },
+        "plus": {}
+    }
+}

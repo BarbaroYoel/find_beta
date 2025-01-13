@@ -1,0 +1,100 @@
+{
+    "municipality": "hv",
+    "name": "La Torre De Marfil",
+    "address": "Calle Mercaderes entre Obispo y Obrapia, Habana Vieja",
+    "contacts": {
+      "phone": ["052667604"],
+      "website": null,
+      "facebook": null,
+      "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+      "monday": "1100_2300",
+      "tuesday": "1100_2300",
+      "wednesday": "1100_2300",
+      "thursday": "1100_2300",
+      "friday": "1100_2300",
+      "saturday": "1100_2300",
+      "sunday": "1100_2300"
+    },
+    "services": {
+      "parking": null,
+      "reservations": true,
+      "delivery": false,
+      "power plant": null
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+      "breakfasts": {},
+      "starters": {
+        "La Torre de Marfil": 1100,
+        "Bruschettas": 650,
+        "Ensalada de vegetales": 650,
+        "Ensalada de verduras y pollo": 750,
+        "Coctel de langosta": 1550,
+        "Coctel de camarones": 1150,
+        "Maripositas chinas": 500,
+        "Vegetales salteados": 550,
+        "Pulpo al pimentón": 2500,
+        "Shop Suey de marisco": 950,
+        "Sopa estilo Oriental": 750,
+        "Croquetas de la casa": 750,
+        "Fritura de malanga con miel y mostaza": 650,
+        "Crema de calabaza y malanga": 850,
+        "Tacos de cerdo": 950,
+        "Tacos de vegetales": 650,
+        "Tacos de pollo": 750,
+        "Tacos de ropa vieja": 800
+      },
+      "main_courses": {
+        "Pollo al estilo Torre de Marfil": 1750,
+        "Pollo grillé": 1350,
+        "Cerdo al estilo Torre de Marfil": 2300,
+        "Cerdo asado con salsa de mostaza y romero": 2100,
+        "Combinación marinera a la baracoesa": 2550,
+        "Pescado grillé": 1650,
+        "Grillada del Mar": 5800,
+        "Grillada de Mar y Tierra": 8500,
+        "Grillada de carne": 3500,
+        "Langosta al gusto": 4800,
+        "Camarones al gusto": 2200,
+        "Cazuelita caribeña con frutos del mar": 4300,
+        "Estofado de res con zanahorias confitadas": 1850,
+        "Ropa vieja": 1600,
+        "Vaca frita": 1600,
+        "Arroz frito al estilo de la casa": 1200,
+        "Arroz caldoso de la tierra": 1750,
+        "Arroz caldoso marinero": 2850,
+        "Arroz caldoso Mar y Tierra": 3850,
+        "Pizza de queso": 1200,
+        "Pizza especial de la casa": 2100,
+        "Pastas cortas Rigatoni Frutti di mare": 2700,
+        "Espaguetis con salsa nápoles": 1100,
+        "Espaguetis a la bolognesa": 1600,
+        "Espaguetis con vegetales": 1200,
+        "Espaguetis al alioli con camarones": 1750
+      },
+      "additions": {
+          "Arroz congris": 400,
+          "Arroz blanco": 300,
+          "Ensalada de estación": 350,
+          "Vianda con mojo": 350,
+          "Ración de tostones": 450,
+          "Frijoles negros": 500
+      },
+      "fittings": {},
+      "desserts": {
+        "Helado con frutas confitadas": 650,
+        "Tarta semifría": 550,
+        "Brownie con helado": 750,
+        "Mixto cubano": 550,
+        "Postres caseros": 550,
+        "Boniatillo con coco estilo Omara Portuondo": 650
+      },
+      "drinks": {},"plus":{}
+    }
+  }

@@ -1,0 +1,103 @@
+﻿{
+  "municipality": "an",
+  "name": "Los caneyes",
+  "address": "Calle Martí y Gutierrez, Reparto Electrico, Arroyo Naranjo",
+  "contacts": {
+    "phone": [],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": [
+    "Comida cubana"
+  ],
+  "hours": {
+    "monday": "1200_2300",
+    "tuesday": "1200_2300",
+    "wednesday": "1200_2300",
+    "thursday": "1200_2300",
+    "friday": "1200_2300",
+    "saturday": "1200_2300",
+    "sunday": "1200_2300"
+  },
+  "services": {
+    "parking": true,
+    "reservations": false,
+    "delivery": false,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Tostones": 800,
+      "Papas fritas": 900
+    },
+    "main_courses": {
+      "Filete de Pescado Grille": 1500,
+      "Filete de Pescado empanado": 1500,
+      "Filete de Pescado Monte toro": 1800,
+      "Filete de Pescado Caney": 1800,
+      "Filete de Pescado \"Los Caneyes\" (filete con camarones y queso gratinado)": 2500,
+      "Masas de Cangrejo en salsa de tomate": 1300,
+      "Salmón rociado en salsa de tomate": 1500,
+      "Camarones al Ajillo": 2200,
+      "Enchilado de Camarones": 2200,
+      "Camarones Rebozados": 2200,
+      "Lomo ahumado deshuesado": 1800,
+      "Bistec de Cerdo Frito": 1300,
+      "Escalope de cerdo": 1500,
+      "Bistec de cerdo con Jamón, chorizo y Queso": 1800,
+      "Bistec Uruguayo": 1800,
+      "Boucht de cerdo": 1300,
+      "Ropa Vieja": 1700,
+      "Vaca Frita": 1700,
+      "Suprema de pollo": 1300,
+      "Fajitas salteadas": 1300,
+      "Fajitas empanadas": 1400,
+      "Suprema de pollo empanada": 1400,
+      "Suprema de pollo con jamón y queso": 1800,
+      "Gordon Blue": 2300,
+      "Suprema de pollo rellena con camarones y queso": 2300,
+      "Suprema \"Los Caneyes\" (camarones y queso gratinado)": 2300,
+      "Spaguettis Napolitano": 700,
+      "Pizza Napolitana": 900,
+      "Pizza Napolitana con queso Gouda": 1300,
+      "Fajitas de pollo empanadas": 1000,
+      "Fajitas de cerdo empanadas": 1000,
+      "Eperlan de pescado": 1300,
+      "Masas de Cangrejo con tostones": 1000,
+      "Milanesa de res con papas fritas": 1500,
+      "Hamburguesa de res c/ queso gratinado y papas fritas": 1500,
+      "Hamburguesas de Salmón c/ queso gratinado y tostones": 1500
+    },
+    "additions": {},
+    "fittings": {
+      "Arroz Blanco": 150,
+      "Arroz Congri": 200,
+      "Yuca con mojo": 200,
+      "Puré de malanga (se procesa al pedido)": 400
+    },
+    "desserts": {
+      "Tarta con Ganache de Chocolate": 450,
+      "Pote de helado Gustó (1 litro)": 1000
+    },
+    "drinks": {
+      "Refresco cola y limón": 250,
+      "Refresco de mate": 270,
+      "Malta": 300,
+      "Agua Mineral Embotellada": 300,
+      "Cervezas": 330,
+      "Cerveza Cristal": 300,
+      "Latas de jugo": 300,
+      "Bebida energizante": 100,
+      "Café": 100
+    },
+    "plus": {}
+  }
+}

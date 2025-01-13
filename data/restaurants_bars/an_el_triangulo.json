@@ -1,0 +1,64 @@
+﻿{
+  "municipality": "an",
+  "name": "El Triangulo",
+  "address": "Esquina Calzada de 10 de octubre y Calzada de Porvenir, La Palma, Arroyo Naranjo",
+  "contacts": {
+    "phone": [],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": [
+    "Comida Cubana"
+  ],
+  "hours": {
+    "monday": "0800_0000",
+    "tuesday": "0800_0000",
+    "wednesday": "0800_0000",
+    "thursday": "0800_0000",
+    "friday": "0800_0000",
+    "saturday": "0800_0000",
+    "sunday": "0800_0000"
+  },
+  "services": {
+    "parking": true,
+    "reservations": false,
+    "delivery": false,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "mlc"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {},
+    "main_courses": {
+      "Pollo Frito": 1000
+    },
+    "additions": {},
+    "fittings": {
+      "Fajitas de pollo": 350,
+      "Croquetas": 150,
+      "Bolitas de queso": 150,
+      "Tostones": 150
+    },
+    "desserts": {},
+    "drinks": {
+      "Cerveza Cristal": 250,
+      "Cerveza Bucanero": 250,
+      "Cerveza Escorial": 200,
+      "Cerveza Holanda": 200,
+      "Agua": 120,
+      "Refresco": 220,
+      "Jugo de caja": 180,
+      "Red Bull": 230,
+      "Malta": 220
+    },
+    "plus": {}
+  }
+}

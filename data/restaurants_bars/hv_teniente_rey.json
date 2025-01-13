@@ -1,0 +1,81 @@
+{
+    "municipality": "hv",
+    "name": "Teniente Rey 360",
+    "address": "Calle Teniente Rey #360 entre Aguacate y Villegas, Habana Vieja",
+    "contacts": {
+        "phone": ["7 8602916"],
+        "website": null,
+        "facebook": null,
+        "instagram": "https://www.instagram.com/teniente_rey360"
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type":"Bar-Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1100_2130",
+        "tuesday": "1100_2130",
+        "wednesday": "1100_2130",
+        "thursday": "1100_2130",
+        "friday": "1100_2130",
+        "saturday": "1100_2130",
+        "sunday": "1100_2130"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Coctel de Camarones": 700,
+            "Coctel de Langosta": 700,
+        
+            "Croquetas": 400,
+            "Bolitas de Queso": 500,
+            "Tostones Rellenos": 600,
+            "Garbanzos Fritos": 700
+        },
+        "main_courses": {
+            "Pechuga de Pollo": 1950,
+            "Fajitas de Pechuga de Pollo": 2000,
+            "Ropa Vieja": 2000,
+            "Picadillo a la Cubana": 1500,
+            "Masas de Cerdo": 1700,
+            "Fricase de Cerdo": 1750,
+            "Solomillo": 1900,    "Langosta": 2500,
+            "Colas de Langosta": 2600,
+            "Camarones a la Orden": 2500,
+            "Camarones Rebosados": 2800,
+            "Pulpo": 2700,
+            "Cazuelita Tte Rey": 2900,
+            "Mariscada Tte Rey": 12900,
+            "Filete de Pescado": 2400,
+            "Filet Mignon": 3200,
+            "Punta de Filete": 2900,
+            "Filete Jhonvill": 3500
+        },
+        "additions": {
+            "Arroz": 200,
+            "Chatinos": 300,
+            "Yuca": 200
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Refrescos Nacionales": 380,
+            "Refrescos Importados": 420,
+            "Malta Nacional": 420,
+            "Agua Natural Nacional": 250,
+            "Kermato": 500,
+            "Agua Tónica": 450,
+            "Cerveza Nacional Lata": 360,
+            "Cerveza Nacional Botella": 460,
+            "Cerveza Importada": 460
+        },
+        "plus": {}
+    }
+}

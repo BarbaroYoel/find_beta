@@ -1,0 +1,74 @@
+{
+    "municipality": "hv",
+    "name": "Habana Tokio",
+    "address": "Calle Obrapía entre Bernaza y Villegas, Habana Vieja",
+    "contacts": {
+        "phone": [
+            "+53 59172392",
+            "+53 52723402"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Japonesa",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "starters": {},
+        "main_courses": {
+            "Takoyaki": 1000,
+            "Sushi (Makizushi) Atún": 1750,
+            "Sushi (Makizushi) Salmón": 2100,
+            "Sushi (Makizushi) Mixto": 2750,
+            "Chashu": 1000,
+            "Sashimi Salmón": 2900,
+            "Sashimi Calamar": 2900,
+            "Tataki Atún": 2300,
+            "Yakitori": 2400,
+            "Karaage": 2400,
+            "Chicken Teriyaki": 2400,
+            "Tempura Vegetales": 2300,
+            "Tempura Calamar o Camarón": 3000,
+            "Tempura Udon": 2000,
+            "Ramen (Shoyu o Miso) Camarón": 2550,
+            "Ramen (Shoyu o Miso) Camarón Grande": 3000,
+            "Katsudon": 2850,
+            "Tonkatsu": 2750,
+            "Yakisoba": 2750,
+            "Yakisoba Mariscos o Calamar": 3100,
+            "Yakisoba Camarón": 3100,
+            "Combo Habana-Tokio": 3900,
+            "Combo Sashimi Atún": 4200,
+            "Combo Sashimi Salmón": 4400,
+            "Oyakodon": 2800,
+            "Okonomiyaki": 800
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "Kakigoori": 800,
+            "Flan": 600
+        },
+        "drinks": {}
+    }
+}

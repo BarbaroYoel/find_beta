@@ -1,0 +1,66 @@
+{
+    "municipality": "ch",
+    "name": "Cafe Bulevar",
+    "address": "latitude: 23.136606572526283, longitude: -82.36299826271366",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 3.4
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "ensalada de estacion": 200,
+            "papas fritas": 150
+        },
+        "main_courses": {
+            "caldosa boulevard": 200,
+            "arroz con subproductos": 300,
+            "fajitas de cerdo": 1350,
+            "fajitas de pollo": 1300,
+            "filete de merluza": 550
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "jugo de fruta": 100,
+            "cerveza importada": 180,
+            "vino tinto cabernet": 1340,
+            "licor paso pondal (30ml)": 75,
+            "licor fenet blanca (30ml)": 75,
+            "grappa carolina bianca (30ml)": 75,
+            "ron legendario añejo (45ml)": 90,
+            "ron legendario dorado (45ml)": 100,
+            "trago legendario ronse (45ml)": 75,
+            "licor de cafe (30ml)": 75,
+            "copa de vino blanco (125ml)": 145
+        },
+        "plus": {}
+    }
+}

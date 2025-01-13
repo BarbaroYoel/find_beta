@@ -1,0 +1,72 @@
+{
+    "municipality": "ch",
+    "name": "Doping pizza",
+    "address": "latitude: 23.13389533564469, longitude: -82.37685653415737",
+    "contacts": {
+        "phone": [
+            "51260311"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": "@dopingpizzas"
+    },
+    "ratings": {
+        "google": 3.1
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida italiana",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "ensalada fria natural": 500,
+            "ensalada fria de jamon": 600,
+            "ensalada fria de atun": 700
+        },
+        "main_courses": {
+            "pizza napolitana": 1000,
+            "pizza de jamon": 1100,
+            "pizza hawaiana": 1300,
+            "pizza de atun": 1300,
+            "pizza de chorizo": 1400,
+            "pizza de bacon": 1400,
+            "pizza doping extreme": 1500,
+            "spaghetti napoles": 900,
+            "lasaña": 1300
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "paletica de helado clasica": 150
+        },
+        "drinks": {
+            "agua": 150,
+            "refresco": 250,
+            "malta": 300,
+            "malteada": 650,
+            "jugos": 300,
+            "batido de helado (12oz)": 550,
+            "batido de helado (16oz)": 750,
+            "cerveza": 300
+        },
+        "plus": {}
+    }
+}

@@ -1,0 +1,85 @@
+﻿{
+  "municipality": "gn",
+  "name": "Ruta 66",
+  "address": "4MMV+VFW, 9, La Habana",
+  "contacts": {
+    "phone": [
+      "52833863"
+    ],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": "Comida Mixta",
+  "hours": {
+    "monday": "",
+    "tuesday": "1200_2130",
+    "wednesday": "1200_2130",
+    "thursday": "1200_2130",
+    "friday": "1200_2130",
+    "saturday": "1200_2130",
+    "sunday": "1200_2130"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Tostones rellenos de jamón y queso": 1090,
+      "Tostones rellenos de bolognesa": 950,
+      "Tostones rellenos de vegetales salteados y queso": 910,
+      "Garbanzos fritos": 1900,
+      "Ceviche de pescado": 1500,
+      "Frituras de malanga": 595,
+      "Croquetas": 490,
+      "Brosquetas": 420,
+      "Tamal": 400
+    },
+    "main_courses": {
+      "Lomo ahumado (con gratinado de queso)": 1850,
+      "Lomo ahumado (con salsa de piña)": 2000,
+      "Enchilado de camarones": 3300,
+      "Camarones al ajillo": 2950,
+      "Camarones en salsa de frutas": 2800,
+      "Enchilado de pulpo": 2690,
+      "Pulpo al ajillo": 2470,
+      "Filete de pescado Route 66 (a la plancha gratinado con queso y camarón)": 3550,
+      "Monte toro a la francesa (a la plancha gratinado con queso)": 2400,
+      "Filete de pescado en salsa de frutas": 2250,
+      "Filete de pescado a la plancha": 1800,
+      "Arroz frito especial Route 66": 2065,
+      "Arroz frito": 1280,
+      "Arroz blanco": 200,
+      "Puré de malanga": 335,
+      "Ensalada mixta de estación": 425,
+      "Super Route 66 (Cerdo)": 1965,
+      "Castrol (Cerdo)": 1255,
+      "Texaco (Cerdo)": 940,
+      "Pizza de queso gouda": 850,
+      "Lasaña queso gouda": 1420,
+      "Espaguetis de queso gouda": 1100
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {},
+    "drinks": {
+      "Cerveza importada": 210,
+      "Vino tinto": 2200,
+      "Refrescos importados": 240,
+      "Malta importada": 250,
+      "Agua Mineral": 190,
+      "Jugos importados": 210
+    },
+    "plus": {}
+  }
+}

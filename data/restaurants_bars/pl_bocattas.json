@@ -1,0 +1,120 @@
+{
+    "municipality": "pl",
+    "name": "Bocattas",
+    "address": "latitude: 23.12046138313826,  longitude: -82.41683832082161",
+    "contacts": {
+        "phone": [],
+        "website": "https://linktr.ee/cafe_bocattas",
+        "facebook": "Café Bocattas",
+        "instagram": "@cafe_bocattas"
+    },
+    "ratings": {
+        "google": 4.0
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0000_0000",
+        "tuesday": "0000_0000",
+        "wednesday": "0000_0000",
+        "thursday": "0000_0000",
+        "friday": "0000_0000",
+        "saturday": "0000_0000",
+        "sunday": "0000_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "tacos de hab c": 800,
+            "tacos de hamburguesa": 950,
+            "tacos de cerdo": 900,
+            "brusquetas": 500,
+            "chorizo parrillero": 2000,
+            "croquetas de pollo": 650,
+            "desayuno": 980,
+            "ensalada fría": 540,
+            "croquetas de jamón serrano": 750,
+            "huevos rotos": 1050
+        },
+        "main_courses": {
+            "bistec con baguette": 1700,
+            "bistec con pan suave": 1500,
+            "hamburguesa de res": 1000,
+            "hamburguesa de cerdo": 780,
+            "pan con lechón": 840,
+            "pan redondo suave": 160,
+            "pan baguette": 240,
+            "pan suave": 160,
+            "tostadas": 240,
+            "smashburger bocattas de res": 1500,
+            "smashburger bocattas de cerdo": 1500,
+            "pasta napolitana": 900,
+            "pasta boloñesa": 2000,
+            "pasta con bacon": 1500,
+            "pasta con jamon pierna especial": 1800,
+            "pasta con jamon barra": 1100
+        },
+        "additions": {
+            "queso gouda 100g": 430,
+            "jamón barra": 300,
+            "jamón serrano": 570,
+            "jamón pierna especial": 650,
+            "queso gouda": 380,
+            "queso azul": 500,
+            "chorizo español": 400,
+            "bacon": 500,
+            "huevo": 150,
+            "mantequilla": 75,
+            "agrego de cerdo": 400,
+            "atún": 500,
+            "vianda frita": 170,
+            "mayonesa": 50,
+            "tomate": 100,
+            "cebolla": 70,
+            "pepinillo": 35,
+            "pico de gallo": 70,
+            "lechuga": 35,
+            "piña": 35
+        },
+        "fittings": {},
+        "desserts": {
+            "dulces finos": 1000,
+            "bola de helado": 150,
+            "copa golosa": 800
+        },
+        "drinks": {
+            "agua natural 500 ml": 200,
+            "refresco importado y nacional": 260,
+            "malta": 300,
+            "energizantes": 400,
+            "limonada frappe": 600,
+            "jugos naturales": 250,
+            "batido de fruta": 350,
+            "suero bocatta": 800,
+            "suero de helado": 650,
+            "cerveza importada": 280,
+            "cerveza nacional": 400,
+            "michelada con cerv import": 660,
+            "michelada con cerv nacional": 750,
+            "chelada": 180,
+            "preparado de michelada": 340,
+            "expresso": 130,
+            "capuchino": 225,
+            "cortado": 150,
+            "americano": 210,
+            "frappuccino": 600,
+            "cafe con leche": 275
+        },
+        "plus": {}
+    }
+}

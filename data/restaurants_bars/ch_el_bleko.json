@@ -1,0 +1,119 @@
+{
+    "municipality": "ch",
+    "name": "El Bleko",
+    "address": "latitude: 23.141509790555908, longitude: -82.374230422513",
+    "contacts": {
+        "phone": [
+            "50985368"
+        ],
+        "website": null,
+        "facebook": "El Bleko",
+        "instagram": "@blecohavana"
+    },
+    "ratings": {
+        "google": 3.5
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1300_0200",
+        "tuesday": "1300_0200",
+        "wednesday": "1300_0200",
+        "thursday": "1300_0200",
+        "friday": "1300_0200",
+        "saturday": "1300_0200",
+        "sunday": "1300_0200"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "frituras de malanga": 750,
+            "croquetas mixtas": 1050,
+            "palitos de queso": 1100,
+            "tacos de cerdo": 1550,
+            "tacos de cerdo ahumado": 1750,
+            "tacos de pollo": 1450,
+            "nachos de salsa de queso": 900,
+            "nachos con pollo a la barbacoa": 1450,
+            "alitas de pollo a la barbacoa": 1350,
+            "crostini mixto": 950,
+            "torrejas saladas con cerdo ahumado": 1050,
+            "quesadillas de jamón pierna": 1650
+        },
+        "main_courses": {
+            "bistec a la plancha": 2000,
+            "pollo frito": 1500,
+            "fajita de pechuga de pollo": 2500,
+            "pizza de queso": 1250,
+            "pizza de jamón": 1450,
+            "pizza de chorizo": 1450
+        },
+        "additions": null,
+        "fittings": null,
+        "desserts": null,
+        "drinks": {
+            "agua natural": 250,
+            "santa cola": 350,
+            "santa limon": 350,
+            "santa naranja": 350,
+            "energizante": 500,
+            "caipirisima": 650,
+            "canchanchara": 650,
+            "caipiroska": 650,
+            "caipiriña": 650,
+            "mojito": 650,
+            "cuba libre": 650,
+            "sangria": 650,
+            "margarita": 600,
+            "piña colada": 650,
+            "old fashion": 750,
+            "laguna azul": 650,
+            "tr reserva": 300,
+            "tr barceló dorado": 400,
+            "tr barceló añejo": 450,
+            "tr ritual": 300,
+            "tr añejo especial": 300,
+            "tr vat 69": 500,
+            "tr black white": 600,
+            "tr jw black": 1500,
+            "tr jw red": 1100,
+            "tr ballantines": 1000,
+            "tr doble black": 1800,
+            "gin master": 650,
+            "gin master pink": 650,
+            "gin tanqueray": 650,
+            "gin beefarer": 550,
+            "gin johpur reserva": 900,
+            "vodka tonic": 500,
+            "tr ciroc": 1000,
+            "tr ciroc coco": 1000,
+            "tr finlandia": 600,
+            "czech driver": 750,
+            "tequila de la casa": 400,
+            "licores: bailey's": 800,
+            "licores: jagermeister": 450,
+            "licores: jaeger": 800,
+            "copa de vino": 500,
+            "cristal lata": 350,
+            "bucanero lata": 350,
+            "cristal botella": 500,
+            "bucanero botella": 500,
+            "hollandia": 300,
+            "unlaguer": 330,
+            "cafe expreso": 250,
+            "cafe capuccino": 400,
+            "cafe cortadito": 300
+        },
+        "plus": {}
+    }
+}

@@ -1,0 +1,72 @@
+﻿{
+    "municipality": "gn",
+    "name": "El Pellizco",
+    "address": "3Q5F+6C6, La Habana",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 3.6
+    },
+    "owner": "Privado",
+    "type": "Restaurate",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1100_0000",
+        "tuesday": "1100_0000",
+        "wednesday": "1100_0000",
+        "thursday": "1100_0000",
+        "friday": "1100_0000",
+        "saturday": "1100_0000",
+        "sunday": "1100_0000"
+    },
+    "services": {
+        "parking": null,
+        "reservations": false,
+        "delivery": null,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Ración de Chicharrón": 150.00,
+            "Ración de Empella": 100.00,
+            "Caldoza de la Casa": 250.00,
+            "Ración de Tostones": 80.00,
+            "Ración de Mariquitas": 80.00,
+            "Plátano maduro frito": 80.00
+        },
+        "main_courses": {
+            "Bistec de Hígado": 400.00,
+            "Hígado a la Italiana": 450.00,
+            "Bistec de Cerdo": 600.00,
+            "Masa de Cerdo": 650.00,
+            "Chuleta de Cerdo": 650.00,
+            "Lomo Ahumado": 650.00,
+            "Lonjas de Cerdo Asada": 600.00,
+            "Pollo Asado": 450.00,
+            "Costilla Asada": 650.00,
+            "Ropa Vieja de Cerdo": 650.00,
+            "Fricase de Costilla": 650.00
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Cerveza Nacional": 220.00,
+            "Cerveza Importada": 220.00,
+            "Jugo de Caja": 150.00,
+            "Jugo de Botella": 120.00,
+            "Malta": 150.00,
+            "Agua Natural": 100.00,
+            "Energizante": 220.00
+        },
+        "plus": {}
+    }
+}

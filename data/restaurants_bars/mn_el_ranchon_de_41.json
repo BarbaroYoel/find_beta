@@ -1,0 +1,63 @@
+{
+    "municipality": "mn",
+    "name": "Ranchon de 41",
+    "address": "Avenida 41 y 84",
+    "contacts": {
+        "phone": ["52014975"],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0000_0000",
+        "tuesday": "0000_0000",
+        "wednesday": "0000_0000",
+        "thursday": "0000_0000",
+        "friday": "0000_0000",
+        "saturday": "0000_0000",
+        "sunday": "0000_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Croquetas de la casa": 400,
+            "Coctel de camaron": 650,
+            "Picadera el toro bravo": 1700
+        },
+        "main_courses": {
+            "Espaguetis": 700,
+            "pizza de queso blanco": 400,
+            "pizza de queso gouda": 680,
+            "Pollo chiflado": 1200,
+            "Fajitas de pollo": 750,
+            "Queso": 200,
+            "Jamon": 150,
+            "Chorizo": 150,
+            "Cebolla": 150,
+            "Piña": 150,
+            "Aceituna": 200,
+            "Queso gouda": 500,
+            "atun": 300
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "Suero de helado": 400
+        },
+        "drinks": {},
+        "plus": {
+           
+        }
+    }
+}

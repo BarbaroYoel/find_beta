@@ -1,0 +1,69 @@
+{
+    "municipality": "do",
+    "name": "Crispy Chicken",
+    "address": "Avenida de Acosta y Juan Delgado, Víbora, Diez de Octubre",
+    "contacts": {
+        "phone": [],
+        "website": "elyarromenu.com/b/crispy-chiken",
+        "facebook": null,
+        "instagram": "@crispy.chiken.monaco"
+    },
+    "ratings": {},
+    "owner": "Particular",
+    "type": "Cafeteria",
+    "specialty": "Comida Chatarra",
+    "hours": {
+        "monday": "1100_2400",
+        "tuesday": "1100_2400",
+        "wednesday": "1100_2400",
+        "thursday": "1100_2400",
+        "friday": "1100_2400",
+        "saturday": "1100_2400",
+        "sunday": "1100_2400"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "MINI HOT DOG": 300,
+            "FLAMENQUIN": 1000,
+            "SAN JACOBO": 1000,
+            "TOSTONES RELLENOS": 800,
+            "ENTREMÉS DE JAMÓN Y QUESO": 2000,
+            "PICADERA DE LA CASA": 3000,
+            "CHIPS DE BONIATO": 700,
+            "CROQUETAS": 1000
+        },
+        "main_courses": {
+            "POLLO FRITO": 1300,
+            "POLLO CHIFLADO": 1600,
+            "POLLO CHIFLADO (SIN HUESO)": 1800,
+            "POLLO RELLENO (JAMÓN Y QUESO)": 2000,
+            "NUGGETS DE POLLO": 1000,
+            "SANDWICH DE POLLO": 900,
+            "MINI HOT DOGS": 300
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "BATIDO DE HELADO": 1000,
+            "MALTEADA": 900,
+            "JUGO NATURAL": 400,
+            "VACA NEGRA": 800,
+            "CUBETAZO DE CERVEZAS": 2400,
+            "CUBETAZO DE CERVEZAS CRISTAL": 3100
+        },
+        "plus": {}
+    }
+}

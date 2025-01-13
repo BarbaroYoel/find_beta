@@ -1,0 +1,98 @@
+{
+    "municipality": "by",
+    "name": "The Place",
+    "address": "calle 100, pasando Aldabo, Boyeros",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": "https://www.facebook.com/ThePlaceCuba/",
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "0800_0300",
+        "tuesday": "0800_0300",
+        "wednesday": "0800_0300",
+        "thursday": "0800_0300",
+        "friday": "0800_0300",
+        "saturday": "0800_0300",
+        "sunday": "0800_0300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup",
+        "usd",
+        "mlc"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Croquetas": 600.00,
+            "Eperlan": 900.00,
+            "Tostones": 500.00,
+            "Frituras malanga": 500.00,
+            "Garbanzos fritos": 1950.00,
+            "Sopón imperial": 1300.00,
+            "Picadera The Place": 2300.00,
+            "Papas fritas": 800.00
+        },
+        "main_courses": {
+            "Pechuga pollo grillé": 1400.00,
+            "Pollo frito": 1200.00,
+            "Bistec cerdo grillé": 1600.00,
+            "Bistec uruguayo": 1800.00,
+            "Costilla cerdo": 1700.00,
+            "Masa cerdo frita": 1700.00,
+            "Chilindrón cordero": 1950.00,
+            "Ropa vieja": 1500.00,
+            "Bistec res": 1800.00,
+            "Chuleta cerdo": 1750.00,
+            "Chuletón": 3000.00,
+            "Pescado": 1500.00,
+            "Canciller": 1800.00,
+            "Langosta en sus variedades": 1950.00,
+            "Camarón": 1500.00,
+            "Pizza napolitana": 800.00,
+            "Espaguetis napolitanos": 800.00
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Jarra cerveza Cristal": 300.00,
+            "Termo cerveza Cristal": 2000.00,
+            "Cerveza Cristal": 300.00,
+            "Cerveza importada": 250.00,
+            "Malta Bucanero": 300.00,
+            "Lata refresco": 290.00,
+            "Caja jugos": 260.00,
+            "Pomo agua": 200.00,
+            "Energizante": 330.00,
+            "Caipiroska": 500.00,
+            "Caipirísima": 500.00,
+            "Mojito": 520.00,
+            "Gin tonic": 500.00,
+            "Sangría": 600.00,
+            "Michelada": 900.00,
+            "Chelada": 500.00,
+            "Limonada frappé": 600.00,
+            "Margarita": 550.00,
+            "Red Label": 550.00,
+            "Old Pard": 950.00,
+            "Jamerson": 600.00,
+            "Tequila": 450.00,
+            "Tequila reposado": 500.00,
+            "Selección maestro": 1150.00,
+            "Pacto navio": 1150.00
+        },
+        "plus": {}
+    }
+}

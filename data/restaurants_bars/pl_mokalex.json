@@ -1,0 +1,88 @@
+{
+    "municipality": "pl",
+    "name": "Mokalex",
+    "address": "latitude: 23.11213749973173, longitude: -82.41048087665507",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": "Mokaléx",
+        "instagram": "@mokalex_cuba"
+    },
+    "ratings": {
+        "google": 3.3
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "",
+        "tuesday": "0900_1800",
+        "wednesday": "0900_1800",
+        "thursday": "0900_1800",
+        "friday": "0900_1800",
+        "saturday": "0900_1800",
+        "sunday": "0900_1400"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "sandwich cubano": 1500,
+            "sandwich de jamón y queso": 1300,
+            "empanada gallega": 800,
+            "tabla de embutidos y quesos": 2300,
+            "aceitunas": 700,
+            "croissant con nutella": 1300,
+            "croissant con jamon y queso": 1800,
+            "ensalada fria": 800
+        },
+        "main_courses": {
+            "lasagna bolognesa": 1800,
+            "spaghetti con jamón": 1500,
+            "arroz frito": 1800,
+            "ensalada de humus con pechuga de pollo y vegetales": 1400
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "pastelería": 350,
+            "torta de la casa": 700
+        },
+        "drinks": {
+            "h2o natural": 300,
+            "h2o gaseada": 400,
+            "h2o gaseada importada": 600,
+            "refresco": 400,
+            "malta": 500,
+            "energizante": 400,
+            "jugos naturales": 400,
+            "jugo óxido rojo": 600,
+            "cerveza": 450,
+            "michelada": 600,
+            "copa de vino tinto": 600,
+            "copa de vino blanco": 600,
+            "crema catalana": 800,
+            "havana club especial": 400,
+            "havana club 7 años": 600,
+            "whisky j&b": 800,
+            "café exconvicto": 400,
+            "café yuma": 400,
+            "café suturado": 500,
+            "café conde": 600,
+            "café mulata": 550,
+            "frapuchino": 800,
+            "frapuhelado": 900,
+            "capuchino": 800,
+            "infusiones": 300
+        },
+        "plus": {}
+    }
+}

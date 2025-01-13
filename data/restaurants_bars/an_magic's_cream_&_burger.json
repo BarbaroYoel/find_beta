@@ -1,0 +1,93 @@
+﻿{
+  "municipality": "an",
+  "name": "Magic's Cream & Burguer",
+  "address": "Calzada de 10 de Octubre, % Santa Amalia y Arnao, Arroyo Naranjo",
+  "contacts": {
+    "phone": [],
+    "website": null,
+    "facebook": null,
+    "instagram": null
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": [
+    "Comida Chatarra"
+  ],
+  "hours": {
+    "monday": "1100_2200",
+    "tuesday": "1100_2200",
+    "wednesday": "1100_2200",
+    "thursday": "1100_2200",
+    "friday": "1100_2200",
+    "saturday": "1100_2200",
+    "sunday": "1100_2200"
+  },
+  "services": {
+    "parking": false,
+    "reservations": false,
+    "delivery": false,
+    "power plant": false
+  },
+  "payment_methods": [
+    "cup"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "Croquetas Magic's": 400,
+      "Fritura de Malanga": 400,
+      "Tacos de Pollo": 700,
+      "Tacos de Cerdo": 800,
+      "Fajas de Pollo": 600,
+      "Bolitas de Queso": 500,
+      "Papas Fritas": 500
+    },
+    "main_courses": {
+      "Hamburguesas de Cerdo": 430,
+      "Hamburguesas de Pollo": 430,
+      "Hamburguesas Doble": 1000,
+      "Hamburguesas Super Magic's": 1500
+    },
+    "additions": {
+      "jamon": 100,
+      "queso": 100,
+      "vegetales": 100,
+      "papas": 500
+    },
+    "fittings": {},
+    "desserts": {
+      "Bola de helado": 70,
+      "Jimaguas": 195,
+      "Ensalada de helado": 350,
+      "Batido de helado": 395,
+      "Tres gracias": 245
+    },
+    "drinks": {
+      "Cervezas Importadas": 220,
+      "Cervezaas Nacionales": 300,
+      "Malta": 300,
+      "Pepsi": 300,
+      "Refresco de Lata": 210,
+      "Limonada Frappe": 250,
+      "Agrego de Michelada": 250,
+      "Piña Colada sin Alcohol": 500,
+      "Piña Colada con Alcohol": 575,
+      "Cuba Libre": 500,
+      "Mojito": 500,
+      "Botella Label 5": 3500,
+      "JW Red Label": 600,
+      "Ballantine's": 550,
+      "Howells": 300,
+      "Gran Marchell": 300,
+      "Pacto Navio": 700,
+      "Havana Club Añejo Reserva": 400,
+      "Havana Club Añejo 3 Años": 350,
+      "Ginebra": 300,
+      "Vodka": 300,
+      "Copa Vino Tinto": 600,
+      "Copa Vino Blanco": 550
+    },
+    "plus": {}
+  }
+}

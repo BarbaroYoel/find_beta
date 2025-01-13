@@ -1,0 +1,105 @@
+﻿{
+  "municipality": "an",
+  "name": "Don Burguer",
+  "address": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+  "contacts": {
+    "phone": [
+      "+53 56073379"
+    ],
+    "website": null,
+    "facebook": "Don Burguer JJ",
+    "instagram": "@donburguercuba"
+  },
+  "ratings": {},
+  "owner": "Privado",
+  "type": "Restaurante",
+  "specialty": [
+    "Comida chatarra"
+  ],
+  "hours": {
+    "monday": "1000_2300",
+    "tuesday": "1000_2300",
+    "wednesday": "1000_2300",
+    "thursday": "1000_2300",
+    "friday": "1000_2300",
+    "saturday": "1000_2300",
+    "sunday": "1000_2300"
+  },
+  "services": {
+    "parking": true,
+    "reservations": false,
+    "delivery": false,
+    "power plant": true
+  },
+  "payment_methods": [
+    "cup",
+    "usd",
+    "mlc"
+  ],
+  "menu": {
+    "breakfasts": {},
+    "starters": {
+      "ENSALADA FRÍA": 580,
+      "ACEITUNAS (RACIÓN)": 420,
+      "BOLITAS DE QUESO": 640,
+      "FRITURAS DE MALANGA": 510,
+      "CROQUETAS": 640,
+      "PAPITAS": 640,
+      "FAJITAS DE POLLO": 940,
+      "ENTREMES SURTIDO": 1720,
+      "BRUSQUETAS": 780,
+      "BURRITOS DE JAMÓN Y QUESO": 1260
+    },
+    "main_courses": {
+      "TACOS DE VEGETALES": 620,
+      "TACOS DE CERDO": 1120,
+      "TACOS DE POLLO": 1120,
+      "TACOS DE RES": 1280,
+      "HAMBURGUESA (CERDO)": 740,
+      "HAMBURGUESA (POLLO)": 740,
+      "HAMBURGUESA (RES)": 860,
+      "DOBLE HAMB. (CERDO)": 1040,
+      "DOBLE HAMB. (POLLO)": 1040,
+      "DOBLE HAMB. (RES)": 1480,
+      "DOBLE HAMBURGUESA DE CERDO(BISTEC DE CERDO Y 3 AGREGOS / JAMON VICKING, QUESO Y CHORIZO)": 2680,
+      "PAN C/ BISTEC DE CERDO": 840,
+      "PAN C/ BISTEC DE POLLO": 810,
+      "PAN C/ LECHÓN": 890,
+      "BOCADITO DE ATÚN": 840,
+      "SANDWICH DE JAMÓN QUESO Y CHORIZO": 890,
+      "SANDWICH CUBANO": 1290,
+      "JAMÓN VICKING": 120,
+      "JAMÓN PIERNA": 190,
+      "BACON": 190,
+      "QUESO": 150,
+      "CHORIZO": 120,
+      "HUEVO": 190,
+      "CEBOLLA": 60,
+      "TOMATE": 60,
+      "LECHUGA": 30,
+      "PEPINILLO ENCURTIDO": 30,
+      "PIÑA GLASEADA": 80
+    },
+    "additions": {},
+    "fittings": {},
+    "desserts": {
+      "3 GRACIAS": 740,
+      "ENSALADA": 1080,
+      "SUERO DE HELADO": 840,
+      "CASQUITOS DE GUAYABA": 560,
+      "FLAN": 560,
+      "DULCE DE COCO": 460,
+      "TORREJAS": 680,
+      "DULCE DE FRUTA BOMBA": 460
+    },
+    "drinks": {
+      "AGUA": 150,
+      "REFRESCO": 240,
+      "BATIDO DE FRUTAS": 390,
+      "LIMONADA FRAPE": 380,
+      "LIMONADA CON HIERBA BUENA": 460,
+      "MALTA": 400
+    },
+    "plus": {}
+  }
+}

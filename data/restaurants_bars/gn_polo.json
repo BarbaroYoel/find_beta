@@ -1,0 +1,101 @@
+{
+    "municipality": "gn",
+    "name": "Polo",
+    "address": "4MCR+RR9, Cruz Verde, La Habana",
+    "contacts": {
+        "phone": [
+            "52411618",
+            "77974262"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 5
+    },
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": true,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "Toston Relleno de jamón y queso": 450,
+            "Toston Relleno de atún y queso": 600,
+            "Fajitas de pechuga": 850,
+            "Ensaladas frías de jamón": 500,
+            "Ensalada fría de atún": 650,
+            "Eperlano de Pescado": 1100,
+            "Croquetas de la Casa": 450,
+            "Frituras Malanga": 450,
+            "Coctel camarones": 1300,
+            "Papas Fritas": 550
+        },
+        "main_courses": {
+            "Arroz blanco": 120,
+            "Arroz moro y cristiano": 180,
+            "Arroz pilaf": 200,
+            "Arroz salteado con vegetales": 250,
+            "Bistec de cerdo grille encebollado": 1900,
+            "Uruguallo de cerdo": 2400,
+            "Bistec princesa": 2500,
+            "Pechuga grille": 1850,
+            "Pechuga gratinada": 2200,
+            "Cordon bleu de pechuga": 2500,
+            "Bistec de res encebollado": 2000,
+            "Uruguallo de res": 2500,
+            "Ropa vieja de res": 2300,
+            "Filete de pescado grille": 2200,
+            "Filete Montero": 2800,
+            "Filete Canciller": 2900,
+            "Filete gratinado": 2600,
+            "Camaron enchilado": 2700,
+            "Camaron al ajillo": 2600,
+            "Camaron empanizado": 2700,
+            "Arroz Frito con camarones": 1500,
+            "Filete Mediterraneo": 3500,
+            "Lomo Ahumado": 2400,
+            "Mar y Tierra": 4500,
+            "Masa de Vida": 4100,
+            "Pizza Napolitana": 900,
+            "Pizza Hawaiana": 1300,
+            "Spaguetti Napolitano": 850,
+            "Spaguetti Carbonara": 1400
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Cerveza Nacional": 350,
+            "Cerveza importada": 250,
+            "Energizante": 300,
+            "Agua Natural 500ml": 200,
+            "Refresco nacional": 250,
+            "Refrescos importados": 280,
+            "Malta Nacional": 250,
+            "Malta Importada": 280,
+            "Jugo de caja": 200,
+            "Jugo de Lata": 280,
+            "Cafe expreso": 250
+        },
+        "plus": {}
+    }
+}

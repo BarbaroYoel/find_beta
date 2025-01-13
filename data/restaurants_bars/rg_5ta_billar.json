@@ -1,0 +1,117 @@
+{
+    "municipality": "rg",
+    "name": "5ta Billar",
+    "address": "4MFG+CFF, Enlace, La Habana",
+    "contacts": {
+        "phone": [
+            52943290
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.8,
+        "facebook": 5.0
+    },
+    "owner": "Privado",
+    "type": "Bar",
+    "specialty": "Cocteleria",
+    "hours": {
+        "monday": "1300_0100",
+        "tuesday": "1300_0100",
+        "wednesday": "1300_0100",
+        "thursday": "1300_0100",
+        "friday": "1300_0100",
+        "saturday": "1300_0100",
+        "sunday": "1300_0100"
+    },
+    "services": {
+        "parking": null,
+        "reservations": true,
+        "delivery": null,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "CACAHUATES PICANTE": 110.00,
+            "TOSTONES RELLENOS J&G": 750.00,
+            "TOSTONES RELLENOS ATUN": 980.00,
+            "TOSTONES RELLENOS CARNE": 900.00,
+            "CROQUETAS BOLA 9": 650.00,
+            "BOLITA DDE QUESO": 850.00
+        },
+        "main_courses": {
+            "TACOS DE CERDO": 950.00,
+            "POLLO A LA GORDON BLUE": 1800.00,
+            "URUGUAYO DE CERDO": 2100.00,
+            "BISTEC DE POLLO ENCEBOLLADO": 1600.00,
+            "BISTEC DE CERDO ENCEBOLLADO": 1900.00,
+            "BROCHETAS DE CERDO AL CARBÓN": 1800.00,
+            "BABY CHICKEN": 960.00,
+            "KINGS CHICKEN": 1350.00,
+            "LOMO DE CERDO ASADO AL CARBÓN": 1800.00,
+            "CHORIZADA AL CARBÓN": 2000.00,
+            "LA PARRILLADA": 4950.00,
+            "FAJITAS DE POLLO": 920.00,
+            "EPERLAN": 950.00,
+            "ENTREMÉS": 960.00,
+            "SURTIDO 5TABILLA": 1650.00,
+            "SURTIDO PREMIUM": 2950.00,
+            "ROSITAS DE MAIZ": 600.00
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "Cervezas Nacionales": 400.00,
+            "Cerveza corona": 600.00,
+            "Cervezaz importadas": 320.00,
+            "margarita": 400.00,
+            "margarita blue": 400.00,
+            "tequila sunrise": 400.00,
+            "medusa": 650.00,
+            "margarita2": 720.00,
+            "margarita blue2": 780.00,
+            "tequila sunrise2": 780.00,
+            "servicio chelada": 450.00,
+            "servicio michelada": 350.00,
+            "jagger bomb": 1200.00,
+            "mojito corona": 900.00,
+            "corona sunrise": 880.00,
+            "sangria": 760.00,
+            "jarra de sangria": 3720.00,
+            "alexander": 1000.00,
+            "eclipse": 1020.00,
+            "mai tai": 550.00,
+            "orgasmo": 1080.00,
+            "aperol sprits": 1650.00,
+            "italian sunset": 780.00,
+            "mimosa": 1500.00,
+            "Malteada": 250.00,
+            "San francisco": 350.00,
+            "Refresco": 340.00,
+            "Malta": 400.00,
+            "Red bull": 750.00,
+            "Agua natural": 220.00,
+            "Kermato": 680.00,
+            "Tigon": 400.00,
+            "Jugo": 230.00,
+            "Limonada frappe": 300.00,
+            "Limonada frappe curacao": 350.00,
+            "Limonada frappe granadina": 380.00,
+            "Limonada frappe melocoton": 400.00,
+            "Limonada frappe menta": 380.00,
+            "Limonada frappe mora": 380.00,
+            "Limonada frappe naranja": 470.00,
+            "Limonada frescura (hierbabuena)": 350.00,
+            "limonada frappe piña": 350.00,
+            "Limonada frappe tropical blue": 350.00
+        },
+        "plus": {}
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "municipality": "ch",
+    "name": "Fin de Siglo",
+    "address": "latitude: 23.136227081972006, longitude: -82.36206873376179",
+    "contacts": {
+        "phone": [
+            "59529982"
+        ],
+        "website": null,
+        "facebook": "Fin de Siglo",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 5.0
+    },
+    "owner": "Privado",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+        "monday": "1000_2200",
+        "tuesday": "1000_2200",
+        "wednesday": "1000_2200",
+        "thursday": "1000_2200",
+        "friday": "1000_0300",
+        "saturday": "1000_0300",
+        "sunday": "1000_0300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "croquetas de la casa": 700,
+            "pollo salteado con vegetales": 800,
+            "tabla de jamon y queso": 1200,
+            "picadera Fin de siglo": 2500
+        },
+        "main_courses": {
+            "pizza de queso blanco": 800,
+            "pizza de queso blanco con jamon": 950,
+            "pizza de queso blanco con chorizo": 950,
+            "pizza de queso blanco hawaiana": 1500,
+            "pizza de queso gouda": 1200,
+            "pizza de queso gouda con jamon": 1400,
+            "pizza de queso gouda con chorizo": 1400,
+            "pizza de queso gouda hawaiana": 1800,
+            "spaghetti de queso blanco": 900,
+            "spaghetti de queso blanco con jamon": 1000,
+            "spaghetti de queso blanco con chorizo": 1000,
+            "spaghetti de queso blanco con pollo": 850,
+            "spaghetti de queso gouda": 1200,
+            "spaghetti de queso gouda con jamon": 1400,
+            "spaghetti de queso gouda con chorizo": 1400
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "refresco": 300,
+            "cerveza dispensada": 400,
+            "caipirinha": 550,
+            "caipiríssima": 550,
+            "caipiroska": 660,
+            "daiquirí": 550,
+            "daiquirí Rebelde": 550,
+            "margarita": 990,
+            "cubata": 550,
+            "cuba Libre": 550,
+            "3 Años": 385,
+            "carta Blanca": 330,
+            "especial": 440,
+            "pacto Navío": 20000,
+            "cuban spiced": 550,
+            "ron santiago": 880,
+            "jameson": 1100,
+            "clan sampbell": 990,
+            "vat 69": 990,
+            "ballantines": 13500,
+            "old partner": 35000,
+            "red label": 1100,
+            "beeffatter": 440,
+            "jagger": 990,
+            "tequila silver": 880,
+            "tequila reposado": 990,
+            "tequila chocolate": 1100,
+            "rua vieja": 880,
+            "amaretto": 880,
+            "chelada": 770,
+            "michelada": 880
+        },
+        "plus": null
+    }
+}

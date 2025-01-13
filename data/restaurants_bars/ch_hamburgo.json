@@ -1,0 +1,48 @@
+{
+    "municipality": "ch",
+    "name": "Hamburgo",
+    "address": "latitude: 23.131235737365408, longitude: -82.37630082066377",
+    "contacts": {
+        "phone": null,
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {},
+    "owner": "Privado",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0900_1900",
+        "tuesday": "0900_1900",
+        "wednesday": "0900_1900",
+        "thursday": "0900_1900",
+        "friday": "0900_1900",
+        "saturday": "0900_1900",
+        "sunday": "0900_1900"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "hamburguesa de cerdo (220g)": 275,
+            "hamburguesa de res (220g)": 275,
+            "hamburguesa vegetal con aderezos (235g)": 300,
+            "super hamburguesa (435g)": 550
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}
