@@ -18,7 +18,6 @@ def create_data_frame_establishments():
 def create_data_frame_municipality():
     parent_path = os.path.dirname(os.getcwd())
     file = os.path.join(parent_path, "data/municipality.json")
-   
     with open(file, 'r', encoding='utf-8-sig') as f:
             data=json.load(f)
     municipality_list = [value for key, value in data.items()]
@@ -32,4 +31,4 @@ def create_data_tasteatlas():
    
     with open(file, 'r', encoding='utf-8-sig') as f:
             data=json.load(f) 
-    return data   
+    return data    

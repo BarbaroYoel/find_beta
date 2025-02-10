@@ -3,20 +3,17 @@ import pandas as pd
 import numpy as np
 
 def plot_ranking_tastleatlas(data):
-    sorted_data = dict(sorted(data.items(), key=lambda item: item[1], reverse=True))
-    countries = list(sorted_data.keys())
-    ratings = list(sorted_data.values())
+    countries = list(data.keys())
+    ratings = list(data.values())
 
-    color = "#FF4C4C" 
 
     plt.figure(figsize=(6, 4))  
-    bars = plt.bar(countries, ratings, color=color, edgecolor='black')
+    bars = plt.bar(countries, ratings, color="skyblue", edgecolor='black')
 
 
     for rating in range(0, int(max(ratings)) + 1, max(1, int(max(ratings)) // 10)):
         plt.axhline(y=rating, color="gray", linestyle="dashed", linewidth=0.7, alpha=0.6)
 
-  
     plt.title("Top 5 Cocinas del Mundo (TasteAtlas)", fontsize=10)
     plt.xlabel("Países", fontsize=8)
     plt.ylabel("Ratings", fontsize=8)
@@ -26,6 +23,8 @@ def plot_ranking_tastleatlas(data):
     plt.tight_layout()
 
     plt.show()
+
+
 
 def plot_local_establishments_from_df(df):
     sorted_df = df.sort_values(by="local_establishments", ascending=False)
@@ -41,6 +40,7 @@ def plot_local_establishments_from_df(df):
 
     plt.tight_layout()
     plt.show()
+
 
 def plot_population_comparison(df):
     sorted_df = df.sort_values(by="population", ascending=False)
@@ -66,6 +66,7 @@ def plot_population_comparison(df):
     plt.tight_layout()
     plt.show()
     
+    
 def plot_population_density_by_municipality(df):
     municipalities = df['name']
     population_density = df['population_density']
@@ -86,11 +87,12 @@ def plot_population_density_by_municipality(df):
     plt.tight_layout()
     plt.show()
 
+
 def plot_salary_line(df):
     sorted_df = df.sort_values(by='average_state_salary', ascending=True)
 
     plt.figure(figsize=(12, 6))
-    plt.plot(sorted_df['name'], sorted_df['average_state_salary'], marker='o', color='green', linewidth=3)
+    plt.bar(sorted_df['name'], sorted_df['average_state_salary'], color='orange', edgecolor='black')
 
    
     plt.title('Salarios Promedio del Estado por Municipio', fontsize=16)
@@ -101,6 +103,7 @@ def plot_salary_line(df):
 
     plt.tight_layout()
     plt.show()
+    
 
 def calculate_municipality_ranking(df):
 
@@ -109,6 +112,7 @@ def calculate_municipality_ranking(df):
     'working_age_population': 2,
     'average_state_salary': 3
     }
+    
     df['population_density_norm'] = df['population_density'] / df['population_density'].max()
     df['working_age_population_norm'] = df['working_age_population'] / df['working_age_population'].max()
     df['average_state_salary_norm'] = df['average_state_salary'] / df['average_state_salary'].max()
@@ -122,6 +126,7 @@ def calculate_municipality_ranking(df):
     df['rank'] = df['score'].rank(ascending=False).astype(int)
 
     return df.sort_values(by='rank')
+
 
 def analyze_restaurant_features(df, municipalities, restaurant_type):
     filtered_df = df[(df['municipality'].isin(municipalities)) & (df['specialty'] == restaurant_type)]
@@ -138,8 +143,11 @@ def analyze_restaurant_features(df, municipalities, restaurant_type):
     counts["total_restaurants"] = total_restaurants
     return counts
 
+    
+    
 def plot_restaurant_features(counts):
     total = counts["total_restaurants"]
+   
     features = ["phone", "website", "facebook", "instagram", 
                 "parking", "reservations", "delivery", "power plant"]
     
@@ -164,98 +172,55 @@ def plot_restaurant_features(counts):
     plt.tight_layout() 
     plt.show()
     
-def plot_avg_menu_prices(df, municipalities, specialty):
+    
+
+    
+    
+def plot_avg_menu_price(df,municipalities,specialty):
     filtered_df = df[df['municipality'].isin(municipalities) & (df['specialty'] == specialty)]
-    def avg_price(menu):
-        return {category: sum(prices.values()) / len(prices) if prices else 0 
-                for category, prices in menu.items()}
+    avg_menu={
+        "breakfasts":[],
+        "starters":[],
+        "main_courses":[] ,
+        "additions": [],
+        "fittings":[],
+        "desserts": [],
+        "drinks":[],
+        "plus": []
+    } 
+    
+    for _,row in filtered_df.iterrows():
+      menu=row.get("menu",{})
+      
+      for category,items in menu.items():
+        all_dish=[]
+        if isinstance(items, dict):
+          for price in items.values():
+            all_dish.append(price)
+        if len(all_dish)!=0:
+            avg_menu[category].append(sum(all_dish)/len(all_dish)) 
+    
+    for category,avg in avg_menu.items():
+        if len(avg)!=0:
+         avg_menu[category]=sum(avg)/len(avg)
+    
+    list_category=list(avg_menu.keys())
+    list_price=list(avg_menu.values())
+    
+    list_category=list_category[1:-1]
+    list_price=list_price[1:-1]
+    
+    print(list_category)
+    print(list_price)
 
-    avg_prices = filtered_df['menu'].apply(avg_price)
+    plt.figure(figsize=(12, 6))
+    plt.bar(list_category, list_price, color='skyblue', edgecolor='black')
 
-    avg_prices_df = pd.DataFrame(list(avg_prices))
+    plt.title('Precios por Categorías en el Menú', fontsize=16)
+    plt.xlabel('Categorías', fontsize=12)
+    plt.ylabel('Precios', fontsize=12)
+    plt.xticks(rotation=45, ha='right')
+    plt.grid(axis='y', linestyle='--', alpha=0.7)
 
-    avg_prices_by_category = avg_prices_df.mean()
-
-    avg_prices_by_category = avg_prices_by_category[avg_prices_by_category > 0]
-
-    ax = avg_prices_by_category.plot(kind='bar', color='lightgreen', edgecolor='black',
-                                     title=f'Precios Promedio del Menú para {specialty} en Municipios Seleccionados')
-    
-    ax.grid(axis='y', linestyle='--', linewidth=0.7)
-
-    plt.xlabel('Categorías del Menú')
-    plt.ylabel('Precio Promedio (CUP)')
-
-    for i, v in enumerate(avg_prices_by_category):
-        ax.text(i, v + 2, f'{v:.2f}', ha='center', va='bottom', fontsize=10)
-    plt.show()
-    
-    
-    
-def analyze_opening_hours(df, municipalities, specialty):
-    # Filtrar el DataFrame por municipios y especialidad
-    df_filtered = df[(df["municipality"].isin(municipalities)) & (df["specialty"] == specialty)]
-    print(f"Restaurantes analizados: {len(df_filtered)}")  # Número de restaurantes analizados
-
-    # Diccionario para contar cuántos restaurantes están abiertos en cada hora (00-23)
-    hours_count = {hour: 0 for hour in range(24)}
-    
-    # Iteramos sobre cada restaurante filtrado
-    for _, row in df_filtered.iterrows():
-        try:
-            schedule_data = row["hours"]  # Diccionario con horarios por día
-            
-            # Iteramos sobre cada día de la semana
-            for day, schedule in schedule_data.items():  
-                if isinstance(schedule, str) and "_" in schedule:
-                    # Extraer la hora de apertura y cierre
-                    opening, closing = map(int, schedule.split("_"))
-                    
-                    # Convertir de formato HHMM a HH (1000 → 10, 2000 → 20)
-                    opening //= 100  
-                    closing //= 100  
-
-                    # Registrar las horas en las que el restaurante está abierto
-                    for hour in range(opening, closing):
-                        if hours_count.get(hour) is not None:
-                            hours_count[hour] += 1
-        except Exception as e:
-            print(f"Error procesando horarios para {row['name']}: {e}")
-    
-    return hours_count
-
-def plot_opening_hours(hours_count):
-    # Filtramos las horas que realmente tienen restaurantes abiertos
-    hours = list(hours_count.keys())
-    open_counts = list(hours_count.values())
-    
-    # Verificamos que solo se muestren las horas con datos (si hay horas sin datos, no se muestran)
-    if not hours_count:
-        print("No hay datos para mostrar.")
-        return
-    
-    fig, ax = plt.subplots(figsize=(10, 6))  # Tamaño ajustado
-    
-    # Graficamos las barras con borde
-    ax.bar(hours, open_counts, color="darkblue", alpha=0.8, edgecolor="black")
-    
-    # Líneas discontinuas para referencia en el eje Y
-    max_count = max(open_counts)
-    for count in range(0, max_count + 1, max(1, max_count // 10)):
-        ax.axhline(y=count, color="gray", linestyle="dashed", linewidth=0.7, alpha=0.6)
-    
-    # Añadimos las etiquetas encima de las barras
-    for i, v in enumerate(open_counts):
-        ax.text(i, v + 0.5, str(v), ha='center', va='bottom', fontsize=10, color="white")
-    
-    # Etiquetas y título
-    ax.set_xlabel("Hora del día", fontsize=12)
-    ax.set_ylabel("Cantidad de restaurantes abiertos", fontsize=12)
-    ax.set_title("Cantidad de restaurantes abiertos por hora", fontsize=14)
-    
-    # Ajustamos las horas para el eje X (de 0 a 23)
-    plt.xticks(range(0, 24, 1))  # Mostrar todas las horas
-    plt.grid(axis="x", linestyle="dotted", alpha=0.5)
-    
     plt.tight_layout()
     plt.show()

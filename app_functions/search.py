@@ -8,10 +8,11 @@ def search_by_municipality(df, municipality):
         raise ValueError("El argumento 'municipality' debe ser una cadena de texto.")
     
     filtered_df = df[df['municipality'] == municipality]
-    
+
     if filtered_df.empty:
         print(f"No se encontraron resultados para el municipio: {municipality}")
     return filtered_df
+
 
 
 def search_by_name(df, name, threshold=80):
@@ -34,6 +35,7 @@ def search_by_name(df, name, threshold=80):
     return filtered_df
 
 
+
 def search_by_owner(df, owner_type):
     if not isinstance(df, pd.DataFrame):
         raise ValueError("El argumento 'df' debe ser un DataFrame de Pandas.")
@@ -44,7 +46,8 @@ def search_by_owner(df, owner_type):
     
     if filtered_df.empty:
         print(f"No se encontraron resultados para el tipo de dueño: {owner_type}")
-    return filtered_df.reset_index(drop=True)
+    return filtered_df
+
 
 
 def search_by_specialty(df, specialty):
@@ -60,6 +63,7 @@ def search_by_specialty(df, specialty):
     return filtered_df
 
 
+
 def search_by_type(df, establishment_type):
     if not isinstance(df, pd.DataFrame):
         raise ValueError("El argumento 'df' debe ser un DataFrame de Pandas.")
@@ -70,7 +74,8 @@ def search_by_type(df, establishment_type):
     
     if filtered_df.empty:
         print(f"No se encontraron resultados para el tipo de local: {establishment_type}")
-    return filtered_df.reset_index(drop=True)
+    return filtered_df
+
 
 
 def search_by_rating(df, min_rating):
@@ -91,7 +96,8 @@ def search_by_rating(df, min_rating):
     
     if filtered_df.empty:
         print(f"No se encontraron locales con una calificación mínima de {min_rating}.")
-    return filtered_df.reset_index(drop=True)
+    return filtered_df
+
 
 
 def search_by_open_locals(df,day,time):
@@ -123,8 +129,9 @@ def search_by_open_locals(df,day,time):
     
     if open_df.empty:
         print(f"No se encontraron locales abiertos el {day} a las {time}.")
-    return open_df.reset_index(drop=True)    
+    return open_df    
     
+   
     
 def search_by_services(df, services):
     if not isinstance(df, pd.DataFrame):
@@ -147,7 +154,8 @@ def search_by_services(df, services):
     df_filtrado =pd.DataFrame(filtered_rows)
     if df_filtrado.empty:
         print("No se encontraron locales que ofrezcan todos los servicios especificados.")
-    return df_filtrado.reset_index(drop=True)
+    return df_filtrado
+
 
 
 def search_by_payment_methods(df, payment_methods):
@@ -172,7 +180,7 @@ def search_by_payment_methods(df, payment_methods):
     df_filtered = pd.DataFrame(filtered_rows)
     if df_filtered.empty:
         print("No se encontraron locales que acepten todos los métodos de pago especificados.")
-    return df_filtered.reset_index(drop=True)
+    return df_filtered
     
     
 def search_by_dish(df, dish, threshold=80):
@@ -184,7 +192,6 @@ def search_by_dish(df, dish, threshold=80):
    
     dish = dish.lower()
     filtered_rows = []
-    
     for _, row in df.iterrows():
         menu = row.get("menu", {})
         if not isinstance(menu, dict) or not menu:
@@ -200,6 +207,7 @@ def search_by_dish(df, dish, threshold=80):
             if found:
                 break
         
+        
         if found:
             filtered_rows.append(row)
     
@@ -208,7 +216,8 @@ def search_by_dish(df, dish, threshold=80):
     if df_filtered.empty:
         print(f"No se encontraron locales que ofrezcan platos relacionados con '{dish}'.")
     
-    return df_filtered.reset_index(drop=True)
+    return df_filtered
+ 
  
  
 def search_by_dish_and_price(df, dish, dish_max_price, threshold=80):
@@ -238,6 +247,7 @@ def search_by_dish_and_price(df, dish, dish_max_price, threshold=80):
         print(f"No se encontraron restaurantes que ofrezcan '{dish}' por debajo de {dish_max_price:.2f}.")
     
     return df_filtered
+
 
 
 def filter_by_average_price(df, average_price): 
@@ -272,11 +282,11 @@ def filter_by_average_price(df, average_price):
     return df_filtered.reset_index(drop=True)
 
 
+
 def generic_search(df, name=None, municipality=None, day=None, time=None, 
                    owner_type=None, specialty=None, establishment_type=None,
                    min_rating=None, services=None, payment_methods=None, 
                    dish=None, dish_max_price=None, average_price=None):
-   
     if municipality:
         df = search_by_municipality(df, municipality)
     if name:
