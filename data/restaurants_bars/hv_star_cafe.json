@@ -82,7 +82,8 @@
             "Bistec encebollado": 4000,
             "Cordón Blue": 4000,
             "Ropa vieja": 4000,
-            "Pechuga a la Milanesa": 4000
+            "Pechuga a la Milanesa": 4000,  "Pizza focaccia": 1200,
+            "Pizza Mixta": 2500
         },
         "additions": {
             "Jamón": 1700,
@@ -111,9 +112,8 @@
             "Cascaquito de guayaba": 950,
             "Churros": 1200,
             "Pizza frita dulce": 1400,
-            "Pizza frita salada": 1700,
-            "Pizza focaccia": 1200,
-            "Pizza Mixta": 2500
+            "Pizza frita salada": 1700
+          
         },
         "drinks": {
             "Agua natural": 400,
@@ -134,7 +134,6 @@
             "Macchiato": 500,
             "Espresso con nata": 700,
             "Café con leche": 700,
-            "Cappuccino": 650,
             "Café Latte": 650,
             "Mocha": 950,
             "Irlandés": 1400,

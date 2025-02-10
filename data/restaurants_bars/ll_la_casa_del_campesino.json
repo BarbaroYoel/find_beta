@@ -1,0 +1,67 @@
+{
+    "municipality": "ll",
+    "name": "La casa del campesino",
+    "address": "latitude: 23.01984142812014, longitude: -82.48766936323709",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "google": 2.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_2300",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "entremes de embuido y queso": 350,
+            "ensalada fria": 150,
+            "croquetas": 200
+        },
+        "main_courses": {
+            "chuleta de cerdo": 1600,
+            "bistec de cerdo": 1350,
+            "costilla de cerdo": 1600,
+            "pollo asado": 650
+        },
+        "additions": {
+            "vianda frita": 120
+        },
+        "fittings": {},
+        "desserts": {
+            "mermelada de mango con queso": 190,
+            "fruta en almibar": 160
+        },
+        "drinks": {
+            "agua mineral": 88,
+            "cerveza presidente": 180,
+            "cerveza parranda": 180,
+            "cerveza bucanero": 180,
+            "cerveza moosehead": 180,
+            "cerveza cristal": 180,
+            "cerveza super bock": 180
+        },
+        "plus": {}
+    }
+}

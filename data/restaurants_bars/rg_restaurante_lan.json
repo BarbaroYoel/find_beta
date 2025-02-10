@@ -1,0 +1,65 @@
+{
+    "municipality": "rg",
+    "name": "Restaurante Lan",
+    "address": "latitude: 23.12540621324244, longitude: -82.33255714289457",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null,
+        "whatsapp": null,
+        "e-mail": false
+    },
+    "ratings": {},
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "0900_0000",
+        "tuesday": "0900_0000",
+        "wednesday": "0900_0000",
+        "thursday": "0900_0000",
+        "friday": "0900_0000",
+        "saturday": "0900_0000",
+        "sunday": "0900_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "mariquitas": 200,
+            "tostones rellenos": 300
+        },
+        "main_courses": {
+            "bistec de higado": 500,
+            "fricase de pollo": 500,
+            "camarones al ajillo": 550,
+            "enchilada de camarones": 550,
+            "filete de malanga c/s. agridulce": 300,
+            "fajitas de pollo": 550,
+            "pollo frito": 500,
+            "bistec de palillo empanado": 550,
+            "camarones empanados": 550,
+            "pizza mixta med/fam.": 400,
+            "pizza cebolla med/fam.": 300,
+            "pizza jamon med/fam.": 350,
+            "pizza napole med/fam.": 400,
+            "pizza doble queso med/fam.": 350,
+            "spaghetti napolitano": 250,
+            "spaghetti de jamon": 350
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {},
+        "plus": {}
+    }
+}

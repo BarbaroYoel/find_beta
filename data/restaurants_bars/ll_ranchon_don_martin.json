@@ -1,0 +1,98 @@
+{
+    "municipality": "ll",
+    "name": "Ranchón Don Martín",
+    "address": "latitude: 23.03192045701879,longitude: -82.47284867841391",
+    "contacts": {
+        "phone": [
+            "72677049"
+        ],
+        "website": null,
+        "facebook": "Ranchón Don Martín",
+        "instagram": "@ranchondonmartin"
+    },
+    "ratings": {
+        "google": 5.0
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Cubana",
+    "hours": {
+        "monday": "1100_2100",
+        "tuesday": "1100_2100",
+        "wednesday": "1100_2100",
+        "thursday": "1100_2100",
+        "friday": "1100_2100",
+        "saturday": "1100_2200",
+        "sunday": "1100_2200"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": null
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "ensalada fria": 400,
+            "coctel de camarones": 950,
+            "fritura de malanga": 470,
+            "toston con mojo": 470,
+            "chicharritas": 380,
+            "papa frita": 370,
+            "toston relleno": 700
+        },
+        "main_courses": {
+            "masa frita de cerdo": 2030,
+            "fricase de cerdo": 2030,
+            "bistec de cerdo grille": 1400,
+            "bistec de cerdo uruguayo": 2050,
+            "bistec de cerdo empanado": 1600,
+            "bistec de cerdo al graten": 1600,
+            "bistec de cerdo a la reina": 1700,
+            "vaca frita": 2820,
+            "ropa vieja": 2850,
+            "pechuga": 1440,
+            "pechuga grille": 1530,
+            "pechuga empanada": 1520,
+            "pechuga al graten": 1580,
+            "pechuga a la reina": 1780,
+            "gordon blue": 1600,
+            "filete de pescado grille": 1800,
+            "filete de pescado empanado": 1800,
+            "filete de pescado al graten": 2000,
+            "canciller": 2450,
+            "filete don martin": 2000,
+            "camaron enchilado": 2000,
+            "camaron al ajillo": 2100,
+            "camaron rebozado": 3600,
+            "langosta al ajillo": 3650,
+            "langosta enchilado": 1810,
+            "chilindron de cordero": 900,
+            "pan con hamburguesa": 1280,
+            "pan con hamburguesa, jamon y queso": 840,
+            "pizza": 860,
+            "spaghetti": 860
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "flan": 350
+        },
+        "drinks": {
+            "agua": 180,
+            "refresco de lata": 220,
+            "malta caribia": 230,
+            "refresco manzanita": 290,
+            "seven-up": 240,
+            "piñita": 225,
+            "energizante": 245,
+            "jugo de caja": 175,
+            "batido de helado": 450
+        },
+        "plus": {}
+    }
+}

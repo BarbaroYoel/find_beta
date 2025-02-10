@@ -1,0 +1,63 @@
+{
+    "municipality": "ll",
+    "name": "La Baliza",
+    "address": "latitude: 23.06752335433779,longitude: -82.46813129014343",
+    "contacts": {
+        "phone": [
+            "78322553"
+        ],
+        "website": null,
+        "facebook": "La Baliza",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 4.7
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Chatarra",
+    "hours": {
+        "monday": "",
+        "tuesday": "1000_2130",
+        "wednesday": "1000_2130",
+        "thursday": "1000_2130",
+        "friday": "1000_2130",
+        "saturday": "1000_2130",
+        "sunday": "1000_2130"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": true,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {},
+        "main_courses": {
+            "sandwich de jamon y queso": 500,
+            "hamburguesa": 490,
+            "super hamburguesa": 950,
+            "pizza con queso gouda (small)": 450,
+            "pizza con queso gouda (large)": 700,
+            "pizza de queso blanco (small)": 350,
+            "pizza de queso blanco (large)": 520
+        },
+        "additions": {
+            "queso": 200,
+            "jamon": 150
+        },
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "agua mineral natural": 150,
+            "refresco importado": 230,
+            "batido de Mamey": 230,
+            "cerveza importada": 250
+        },
+        "plus": {}
+    }
+}

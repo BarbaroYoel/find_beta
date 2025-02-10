@@ -1,0 +1,104 @@
+{
+    "municipality": "ll",
+    "name": "La Novia",
+    "address": "latitude: 23.025201021634437, longitude: -82.46433927310295",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": "Restaurante La Novia",
+        "instagram": "@restaurante_lanovia"
+    },
+    "ratings": {
+        "google": 3.0
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": false,
+        "delivery": false,
+        "power plant": true
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "croquetas de la casa": 600,
+            "frituras de malanga": 400,
+            "bolitas de yuca y queso": 350,
+            "fajitas de cerdo": 1000,
+            "fajitas de pollo": 1000,
+            "picadera mixta": 2200,
+            "chips de vianda": 200,
+            "milanesa de pollo": 1200,
+            "sandwich de jamon": 580,
+            "sandwich de jamon y queso": 730,
+            "sandwich cubano con cerdo asado": 1300,
+            "ensaladita de aceitunas, queso y peperoni": 1100,
+            "tostones criollos": 300,
+            "tostones rellenos": 850
+        },
+        "main_courses": {
+            "tacos de cerdo": 1100,
+            "tacos de pollo": 1100,
+            "tacos de jamon y queso": 1100,
+            "tacos marineros": 1100,
+            "tacos de ropa vieja": 1300,
+            "masas fritas de cerdo": 1700,
+            "pollo frito": 1300,
+            "pollo asado": 1300,
+            "bistec de cerdo": 1200,
+            "bistec de pechuga": 1600,
+            "chuleta de cerdo": 1600,
+            "ropa vieja": 1900,
+            "brochetas de cerdo": 1800,
+            "completa de enchilado de cangrejo": 1500,
+            "cerdo asado": 1500,
+            "pizza napolitana": 280,
+            "pizza de peperoni": 400,
+            "spaghetti napolitano": 700
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "copa de helado": 550,
+            "flan": 270
+        },
+        "drinks": {
+            "agua": 150,
+            "malta importada": 290,
+            "refresco importado": 260,
+            "energizante": 260,
+            "limonada frappe": 340,
+            "limonada natural": 340,
+            "jugos naturales": 160,
+            "batido de frutas": 350,
+            "batido de helado": 700,
+            "jarra de cerveza dispensada": 300,
+            "cerveza importada": 250,
+            "cerveza nacional": 290,
+            "michelada mexicana": 250,
+            "michelada": 230,
+            "sangria": 550,
+            "cuba libre": 250,
+            "caipiroska": 300,
+            "caipirinha": 300,
+            "pina colada": 550,
+            "expresso": 100,
+            "frapuccino": 450
+        },
+        "plus": {}
+    }
+}

@@ -1,77 +1,121 @@
 {
     "an": {
         "name": "Arroyo Naranjo",
-        "population": null
-      
+        "population": 206108,
+        "population_density": 2508.01,
+        "working_age_population": 130981,
+        "average_state_salary": 4204,
+        "local_establishments": 10
     },
     "by": {
         "name": "Boyeros",
-        "population": null
-      
+        "population": 202123,
+        "population_density": 1499.43,
+        "working_age_population": 129468,
+        "average_state_salary": 5427,
+        "local_establishments": 10
     },
     "ch": {
         "name": "Centro Habana",
-        "population": null
-       
+        "population": 132294,
+        "population_density": 38682.46,
+        "working_age_population": 85554,
+        "average_state_salary": 4445,
+        "local_establishments": 30
     },
     "ce": {
         "name": "Cerro",
-        "population": null
-       
+        "population": 124120,
+        "population_density": 12180.57,
+        "working_age_population": 78753,
+        "average_state_salary": 4599,
+        "local_establishments": 10
     },
     "co": {
         "name": "Cotorro",
-        "population": null
-       
-    },
+        "population": 82434,
+        "population_density": 1250.90,
+        "working_age_population": 52222,
+        "average_state_salary": 3745,
+        "local_establishments": 10    },
     "do": {
         "name": "Diez de Octubre",
-        "population": null
-       
+        "population": 199684,
+        "population_density": 16260.91,
+        "working_age_population": 124004,
+        "average_state_salary": 3472,
+        "local_establishments": 10
     },
     "gn": {
         "name": "Guanabacoa",
-        "population": null
-     
+        "population": 127445,
+        "population_density": 984.28,
+        "working_age_population": 81226,
+        "average_state_salary": 5005,
+        "local_establishments": 10
     },
     "he": {
         "name": "La Habana del Este",
-        "population": null
-       
+        "population": 173700,
+        "population_density": 1227.65,
+        "working_age_population": 107096,
+        "average_state_salary": 4732,
+        "local_establishments": 10
     },
     "hv": {
         "name": "Habana Vieja",
-        "population": null
-      
+        "population": 80001,
+        "population_density": 18306.86,
+        "working_age_population": 52036,
+        "average_state_salary": 4732,
+        "local_establishments": 30
     },
     "ll": {
         "name": "La Lisa",
-        "population": null
-       
+        "population": 146648,
+        "population_density": 3948.52,
+        "working_age_population": 93291,
+        "average_state_salary": 5042,
+        "local_establishments": 10
     },
     "mn": {
         "name": "Marianao",
-        "population": null
-       
+        "population": 134106,
+        "population_density": 5787.92,
+        "working_age_population": 85751,
+        "average_state_salary": 4860,
+        "local_establishments": 10
     },
     "pl": {
         "name": "Playa",
-        "population": null
-        
+        "population": 177803,
+        "population_density": 4965.18,
+        "working_age_population": 112626,
+        "average_state_salary": 4119,
+        "local_establishments": 30
     },
     "pr": {
         "name": "Plaza de la Revolución",
-        "population": null
-        
+        "population": 139539,
+        "population_density": 11381.65,
+        "working_age_population": 85946,
+        "average_state_salary": 4889,
+        "local_establishments": 10
     },
     "rg": {
         "name": "Regla",
-        "population": null
-       
+        "population": 43875,
+        "population_density": 4293.05,
+        "working_age_population": 28109,
+        "average_state_salary": 5011,
+        "local_establishments": 5
     },
     "sm": {
         "name": "San Miguel del Padrón",
-        "population": null
-       
+        "population": 159681,
+        "population_density": 6249.75,
+        "working_age_population": 103270,
+        "average_state_salary": 4085,
+        "local_establishments": 10
     }
 }

@@ -1,0 +1,137 @@
+{
+    "municipality": "ll",
+    "name": "Juanky's Pan",
+    "address": "latitude: 23.072350868212965,longitude: -82.46030204960273",
+    "contacts": {
+        "phone": ["72718794"],
+        "website": "https://lalisa.juankyspan.com",
+        "facebook": "Juanky's PAN",
+        "instagram": "@juankys_pan"
+    },
+    "ratings": {
+        "google": 4.0
+    },
+    "owner": "No disponible",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mixta",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": true,
+        "reservations": true,
+        "delivery": true,
+        "power plant": true
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {
+        },
+        "starters": {
+            "croquetas de jamon": 570,
+            "entremes de jamon y queso": 765,
+            "huevos rotos": 905,
+            "mixto de maria": 2200,
+            "punetazos de cerdo c/ queso": 895,
+            "punetazos de cerdo c/ queso y bacon": 1030,
+            "punetazos de cerdo c/ bacon": 955
+        },
+        "main_courses": {
+            "tacos de ropa vieja de carnero": 2055,
+            "tacos de ropa vieja de cerdo": 1400,
+            "hamburguesa a caballo de cerdo": 733,
+            "big cheese burger de cerdo": 890,
+            "big tasty cerdo": 870,
+            "hamburguesa de cerdo con atun": 1000,
+            "hamburguesa de cerdo con bacon": 995,
+            "hamburguesa de cerdo con jamon y queso": 1000,
+            "doble hamburguesa de cerdo": 1050,
+            "hamburguesa de cerdo de doble queso": 895,
+            "hamburguesa don juan cerdo": 1130,
+            "hamburguesa don pascual cerdo": 1375,
+            "especial de cerdo": 800,
+            "hamburguesa guajira de cerdo": 2715,
+            "juanky's combo de cerdo con queso + jugo": 1094,
+            "mix sin pan de cerdo": 830,
+            "pina caramelo de cerdo": 1055,
+            "premium de champinon cerdo": 730,
+            "hamburguesa sencilla de cerdo": 838,
+            "hamburguesa taquena de cerdo": 230,
+            "juankymon": 594,
+            "media noche": 454,
+            "media noche sin queso": 760,
+            "sandwich de atun": 780,
+            "sandwich de queso": 560,
+            "sandwich hawaiano": 1360,
+            "spaghetti de bacon con queso": 470,
+            "spaghetti base": 1195,
+            "spaghetti con carne de cerdo": 1390,
+            "spaghetti de chorizo con queso": 695,
+            "spaghetti de jamon con queso": 985
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "helado montado": 580
+        },
+        "drinks": {
+                "belga star": 300,
+                "refresco de cola": 300,
+                "refresco de limon": 300,
+                "refresco de naranja": 300
+,                "jugo de fruta bomba": 185,
+                "jugo de guayaba": 185,
+                "limonada": 415,
+                "jugo de melon": 185,
+                "jugo de platano": 185
+,                "batido de fruta bomba": 300,
+                "batido de guayaba": 300
+ ,               "batido de helado": 850,
+                "suero de helado": 950
+,                "cerveza stella": 510,
+                "caipirisima": 600,
+                "caipiroska": 520,
+                "caipiroska absolut": 680,
+                "caipiroska c/ cirok": 950,
+                "cuba libre": 530,
+                "cubanito": 420,
+                "cubata c/ 7 anos": 600,
+                "cubata c/ especial": 695,
+                "cubata c/ reserva": 580,
+                "gin tonic": 795,
+                "gin tonic beefeater": 940,
+                "gin tonic c/ tanqueray": 990,
+                "sangria": 600,
+                "screwdriver": 500,
+                "screwdriver absolut": 780,
+                "vodka tonic": 850,
+                "vodka tonic absolut": 1200,
+                "copa de vino tinto": 460,
+                "copa de vino tinto yzaguirre vermouth": 450,
+                "jagger": 350,
+                "ron anejo 7 anos": 250,
+                "ron anejo especial": 175,
+                "ron anejo reserva": 195,
+                "ron seleccion de maestros": 830,
+                "tequila don julio reposado": 1400,
+                "tequila silver los corrales": 380,
+                "whisky ballentines": 450,
+                "whisky chivas regal": 790,
+                "whisky j&b": 350,
+                "whisky jack daniels black label": 495,
+                "whisky jack daniels honey": 380,
+                "whisky jameson": 575,
+                "whisky jw black label": 940,
+                "whisky jw red label": 470,
+                "whisky old partner": 200,
+                "whisky spirit speech": 200
+        },
+        "plus": {}
+    }
+}

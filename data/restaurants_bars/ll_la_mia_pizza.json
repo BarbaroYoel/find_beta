@@ -1,0 +1,85 @@
+{
+    "municipality": "ll",
+    "name": "La Mia Pizza",
+    "address": "latitude: 23.07138320836101, longitude: -82.4600607155514",
+    "contacts": {
+        "phone": ["72718614"],
+        "website": null,
+        "facebook": "La Mía Pizza",
+        "instagram": null
+    },
+    "ratings": {
+        "google": 1.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comida Italiana",
+    "hours": {
+        "monday": "1100_2300",
+        "tuesday": "1100_2300",
+        "wednesday": "1100_2300",
+        "thursday": "1100_2300",
+        "friday": "1100_2300",
+        "saturday": "1100_0200",
+        "sunday": "1100_2300"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": ["cup"],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "entremes de jamon y queso": 1440,
+            "entremes de jamon": 500,
+            "entremes de ahumados": 440,
+            "entremes de aceitunas": 300,
+            "dados de queso": 300,
+            "croquetas de embutidos": 220,
+            "crema de queso": 250,
+            "crema aurora": 300,
+            "crema virginia": 430
+        },
+        "main_courses": {
+            "pizza napolitana": 700,
+            "pizza la mia": 2500,
+            "pizza la mia de queso": 1900,
+            "pizza tres quesos": 1700,
+            "pizza la mia familiar": 4800,
+            "pizza la mia familiar de queso": 4000,
+            "pizza familiar napolitana": 2500,
+            "lasagna de jamon": 500,
+            "lasagna de jamon y chorizo": 610,
+            "spaghetti napolitanos": 700,
+            "spaghetti la carbonara": 860
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "helado montado": 350
+        },
+        "drinks": {
+                "agua": 160,
+                "agua saborizada": 170
+,                "refresco": 220,
+                "refresco de pomo": 280,
+                "malta": 250,
+                "bebida energizante": 250
+,                "jugo de frutas naturales": 200,
+                "limonada frappe": 1500
+,                "batido de frutas naturales": 250
+,                "suero de helado": 350
+,                "havana club 3 anos": 175,
+                "havana club 7 anos": 225,
+                "pina colada": 250,
+                "cerveza": 270,
+                "michelada": 420,
+                "vodka": 340,
+                "whisky": 340
+        },
+        "plus": {}
+    }
+}

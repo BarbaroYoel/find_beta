@@ -1,0 +1,87 @@
+{
+    "municipality": "ll",
+    "name": "Pacomeralgo",
+    "address": "latitude: 23.066165087925306, longitude: -82.45070559198918",
+    "contacts": {
+        "phone": [],
+        "website": null,
+        "facebook": null,
+        "instagram": null
+    },
+    "ratings": {
+        "rating": 2.5
+    },
+    "owner": "",
+    "type": "Restaurante",
+    "specialty": "Comia Italiana",
+    "hours": {
+        "monday": "1030_0100",
+        "tuesday": "1030_0100",
+        "wednesday": "1030_0100",
+        "thursday": "1030_0100",
+        "friday": "1030_0100",
+        "saturday": "1030_0100",
+        "sunday": "1030_0100"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "entremes de jamon y queso": 450,
+            "entremes de aceitunas": 300,
+            "croquetas": 300,
+            "papas fritas": 333,
+            "picadera paco": 850
+        },
+        "main_courses": {
+            "sandwich de queso": 400,
+            "sandwich de jamon": 400,
+            "sandwich de jamon y queso": 450,
+            "sandwich de atun": 450,
+            "pan con hamburguesa": 450,
+            "lasagna": 615,
+            "pizza de queso": 600,
+            "pizza de jamon": 770,
+            "pizza de chorizo": 770,
+            "pizza de cebolla": 750,
+            "pizza de aji": 730,
+            "pizza de aceituna": 780,
+            "pizza hawaiana": 820,
+            "pizza de pasas con piña": 730,
+            "pizza de atun": 840,
+            "pizza paco": 1000,
+            "spaghetti napolitano": 600,
+            "spaghetti de jamon": 720,
+            "spaghetti de chorizo": 720,
+            "spaghetti de atun": 790
+        },
+        "additions": {},
+        "fittings": {},
+        "desserts": {},
+        "drinks": {
+            "refresco de cola": 250,
+            "refresco de limon": 250,
+            "refresco de naranja": 250,
+            "malta": 350,
+            "malteada": 650,
+            "energizante": 350,
+            "jugo pequeño": 250,
+            "jugo grande": 900,
+            "yogurt vaso": 200,
+            "cerveza": 250,
+            "expresso": 150,
+            "americano": 150,
+            "cortadito": 220,
+            "bombon": 350
+        },
+        "plus": {}
+    }
+}

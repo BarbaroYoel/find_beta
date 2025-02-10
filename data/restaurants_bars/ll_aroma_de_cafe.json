@@ -1,0 +1,78 @@
+{
+    "municipality": "ll",
+    "name": "Aroma de Café",
+    "address": "latitude: 23.052367619389422,longitude: -82.46068306676176",
+    "contacts": {
+        "phone": [
+            "53397639"
+        ],
+        "website": null,
+        "facebook": null,
+        "instagram": "@habanaromacafe"
+    },
+    "ratings": {
+        "google": 4.9
+    },
+    "owner": "",
+    "type": "Bar-Restaurante",
+    "specialty": "Comida Mexicana",
+    "hours": {
+        "monday": "1200_0000",
+        "tuesday": "1200_0000",
+        "wednesday": "1200_0000",
+        "thursday": "1200_0000",
+        "friday": "1200_0000",
+        "saturday": "1200_0000",
+        "sunday": "1200_0000"
+    },
+    "services": {
+        "parking": false,
+        "reservations": false,
+        "delivery": false,
+        "power plant": false
+    },
+    "payment_methods": [
+        "cup"
+    ],
+    "menu": {
+        "breakfasts": {},
+        "starters": {
+            "sandwich de jamon y queso": 320,
+            "sandwich de jamon": 360,
+            "sandwich de pollo": 370,
+            "sandwich hawaiano": 380,
+            "nachos con salsa": 200,
+            "croquetas": 320,
+            "picadera aroma": 550,
+            "garbanzos fritos": 600,
+            "tacos de pollo": 500,
+            "tostones rellenos de jamon y queso": 380
+        },
+        "main_courses": {},
+        "additions": {},
+        "fittings": {},
+        "desserts": {
+            "donas": 200,
+            "helado/galletas": 320,
+            "bola de helado": 140,
+            "dulce aroma": 350
+        },
+        "drinks": {
+            "agua": 350,
+            "refresco importado": 350,
+            "malta": 350,
+            "jugo natural": 250,
+            "limonada": 100,
+            "batido de frutas": 280,
+            "batido de helado": 330,
+            "caipirinha": 250,
+            "mojito": 300,
+            "cervezas importadas": 230,
+            "expresso": 100,
+            "capuccino": 150,
+            "moka": 180,
+            "frapuccino aroma": 300
+        }
+    },
+    "plus": {}
+}
